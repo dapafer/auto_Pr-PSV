@@ -1,0 +1,19 @@
+subcategoria_id,subcategoria,categoria_id,seccion_id
+1,Plátano y uva,1,1
+2,Manzana y pera,1,1
+3,Melón y sandía,1,1
+4,Cítricos,1,1
+5,Fruta tropical,1,1
+6,Otras frutas,1,1
+7,Lechuga,2,1
+8,Ensalada preparada,2,1
+9,Patata,3,1
+10,Cebolla y ajo,3,1
+11,Tomate,3,1
+12,Pepino y zanahoria,3,1
+13,Calabacín y pimiento,3,1
+14,Repollo y col,3,1
+15,Setas y champiñones,3,1
+16,Hierbas aromáticas,3,1
+17,Otras verduras y hortalizas,3,1
+18,Verduras al vapor,3,1
