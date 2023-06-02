@@ -1,0 +1,3155 @@
+fecha,dia_semana,categoria,producto,venta_total
+2023-01-13,viernes,"Fruta y verdura","1/4 Sandía baja en semillas",9
+2023-01-13,viernes,"Fruta y verdura","3 Vegetales para micro",28
+2023-01-13,viernes,"Fruta y verdura","Acelgas cortadas",17
+2023-01-13,viernes,"Fruta y verdura",Aguacate,43
+2023-01-13,viernes,"Fruta y verdura",Aguacates,40
+2023-01-13,viernes,"Fruta y verdura","Ajo negro dientes pelados",39
+2023-01-13,viernes,"Fruta y verdura","Ajos morados",75
+2023-01-13,viernes,"Fruta y verdura",Albahaca,50
+2023-01-13,viernes,"Fruta y verdura",Albaricoque,27
+2023-01-13,viernes,"Fruta y verdura","Apio verde",20
+2023-01-13,viernes,"Fruta y verdura",Arándanos,9
+2023-01-13,viernes,"Fruta y verdura",Banana,17
+2023-01-13,viernes,"Fruta y verdura",Batata,17
+2023-01-13,viernes,"Fruta y verdura","Batata para micro",34
+2023-01-13,viernes,"Fruta y verdura",Berenjena,11
+2023-01-13,viernes,"Fruta y verdura",Bimi,48
+2023-01-13,viernes,"Fruta y verdura",Brócoli,44
+2023-01-13,viernes,"Fruta y verdura","Calabacín blanco",9
+2023-01-13,viernes,"Fruta y verdura","Calabacín verde",8
+2023-01-13,viernes,"Fruta y verdura","Calabaza cacahuete cortada a trozos",40
+2023-01-13,viernes,"Fruta y verdura","Canónigos base para ensalada",50
+2023-01-13,viernes,"Fruta y verdura",Cebollas,56
+2023-01-13,viernes,"Fruta y verdura","Cebollas dulces",15
+2023-01-13,viernes,"Fruta y verdura","Cebollas rojas",30
+2023-01-13,viernes,"Fruta y verdura","Cebollas tiernas",34
+2023-01-13,viernes,"Fruta y verdura",Cebollino,20
+2023-01-13,viernes,"Fruta y verdura",Cereza,78
+2023-01-13,viernes,"Fruta y verdura","Champiñón grande",45
+2023-01-13,viernes,"Fruta y verdura","Champiñón laminado limpio",12
+2023-01-13,viernes,"Fruta y verdura","Champiñón pequeño",46
+2023-01-13,viernes,"Fruta y verdura","Champiñón Portobello",22
+2023-01-13,viernes,"Fruta y verdura",Cilantro,20
+2023-01-13,viernes,"Fruta y verdura","Ciruela roja",34
+2023-01-13,viernes,"Fruta y verdura","Cogollos corazón de lechuga",27
+2023-01-13,viernes,"Fruta y verdura","Cogollos de lechuga",38
+2023-01-13,viernes,"Fruta y verdura","Col lombarda",37
+2023-01-13,viernes,"Fruta y verdura",Coliflor,22
+2023-01-13,viernes,"Fruta y verdura",Endibias,10
+2023-01-13,viernes,"Fruta y verdura","Ensalada California",50
+2023-01-13,viernes,"Fruta y verdura","Ensalada César",7
+2023-01-13,viernes,"Fruta y verdura","Ensalada de la casa",38
+2023-01-13,viernes,"Fruta y verdura","Ensalada de pasta",27
+2023-01-13,viernes,"Fruta y verdura","Ensalada de pasta Listo para Comer",28
+2023-01-13,viernes,"Fruta y verdura","Ensalada ensatún",34
+2023-01-13,viernes,"Fruta y verdura","Ensalada jamón",19
+2023-01-13,viernes,"Fruta y verdura","Ensalada mezcla 4 estaciones",16
+2023-01-13,viernes,"Fruta y verdura","Ensalada mezcla brotes tiernos",27
+2023-01-13,viernes,"Fruta y verdura","Ensalada mezcla brotes tiernos maxi",28
+2023-01-13,viernes,"Fruta y verdura","Ensalada mezcla dúo canónigos y rúcula",30
+2023-01-13,viernes,"Fruta y verdura","Ensalada mezcla fresca",10
+2023-01-13,viernes,"Fruta y verdura","Ensalada mezcla gourmet",47
+2023-01-13,viernes,"Fruta y verdura","Ensalada mezcla gourmet maxi",21
+2023-01-13,viernes,"Fruta y verdura","Ensalada mezcla primavera",27
+2023-01-13,viernes,"Fruta y verdura","Ensalada mezcla tierna",35
+2023-01-13,viernes,"Fruta y verdura","Ensalada mil islas",48
+2023-01-13,viernes,"Fruta y verdura","Ensalada queso de cabra",44
+2023-01-13,viernes,"Fruta y verdura","Escarola rizada",16
+2023-01-13,viernes,"Fruta y verdura","Escarola rizada base para ensalada",36
+2023-01-13,viernes,"Fruta y verdura","Espárrago verde fino",30
+2023-01-13,viernes,"Fruta y verdura","Espárrago verde grueso",31
+2023-01-13,viernes,"Fruta y verdura","Espinaca baby base para ensalada",50
+2023-01-13,viernes,"Fruta y verdura","Espinacas cortadas",31
+2023-01-13,viernes,"Fruta y verdura","Floretas de brócoli para micro",16
+2023-01-13,viernes,"Fruta y verdura",Frambuesas,12
+2023-01-13,viernes,"Fruta y verdura",Fresas,8
+2023-01-13,viernes,"Fruta y verdura","Guacamole Hacendado",32
+2023-01-13,viernes,"Fruta y verdura",Hierbabuena,19
+2023-01-13,viernes,"Fruta y verdura",Jengibre,16
+2023-01-13,viernes,"Fruta y verdura","Judía verde plana",59
+2023-01-13,viernes,"Fruta y verdura","Judía verde redonda",36
+2023-01-13,viernes,"Fruta y verdura","Kiwi verde",48
+2023-01-13,viernes,"Fruta y verdura","Kiwis amarillos",20
+2023-01-13,viernes,"Fruta y verdura","Kiwis verdes",44
+2023-01-13,viernes,"Fruta y verdura","Lechuga corazón romana",39
+2023-01-13,viernes,"Fruta y verdura","Lechuga hoja roble",37
+2023-01-13,viernes,"Fruta y verdura","Lechuga iceberg",27
+2023-01-13,viernes,"Fruta y verdura","Lechuga iceberg base para ensalada",41
+2023-01-13,viernes,"Fruta y verdura","Lechuga romana cortada",32
+2023-01-13,viernes,"Fruta y verdura","Lechugas corazón romana",8
+2023-01-13,viernes,"Fruta y verdura",Limas,26
+2023-01-13,viernes,"Fruta y verdura",Limón,13
+2023-01-13,viernes,"Fruta y verdura",Limones,21
+2023-01-13,viernes,"Fruta y verdura","Maíz dulce en mazorca",24
+2023-01-13,viernes,"Fruta y verdura","Maíz dulce en mazorca cocido",17
+2023-01-13,viernes,"Fruta y verdura",Mango,35
+2023-01-13,viernes,"Fruta y verdura","Manzana Crimson Snow",22
+2023-01-13,viernes,"Fruta y verdura","Manzana Golden",17
+2023-01-13,viernes,"Fruta y verdura","Manzana Granny Smith",45
+2023-01-13,viernes,"Fruta y verdura","Manzana Story",5
+2023-01-13,viernes,"Fruta y verdura","Manzanas Crimson Snow",39
+2023-01-13,viernes,"Fruta y verdura","Manzanas Golden",28
+2023-01-13,viernes,"Fruta y verdura","Media col lombarda",7
+2023-01-13,viernes,"Fruta y verdura","Media papaya",39
+2023-01-13,viernes,"Fruta y verdura","Media piña",11
+2023-01-13,viernes,"Fruta y verdura","Media sandía baja en semillas",14
+2023-01-13,viernes,"Fruta y verdura","Medio melón piel de sapo",12
+2023-01-13,viernes,"Fruta y verdura","Medio repollo liso",31
+2023-01-13,viernes,"Fruta y verdura","Medio repollo rizado",18
+2023-01-13,viernes,"Fruta y verdura","Melón piel de sapo",47
+2023-01-13,viernes,"Fruta y verdura","Mix de verduras jardinera para micro",30
+2023-01-13,viernes,"Fruta y verdura","Mix de verduras paisana para micro",5
+2023-01-13,viernes,"Fruta y verdura",Moras,18
+2023-01-13,viernes,"Fruta y verdura","Naranja para mesa",12
+2023-01-13,viernes,"Fruta y verdura",Naranjas,36
+2023-01-13,viernes,"Fruta y verdura","Nectarina pulpa blanca",14
+2023-01-13,viernes,"Fruta y verdura","Palitos de zanahoria",20
+2023-01-13,viernes,"Fruta y verdura",Papaya,5
+2023-01-13,viernes,"Fruta y verdura",Paraguayo,49
+2023-01-13,viernes,"Fruta y verdura",Patata,41
+2023-01-13,viernes,"Fruta y verdura","Patata para micro",37
+2023-01-13,viernes,"Fruta y verdura",Patatas,57
+2023-01-13,viernes,"Fruta y verdura","Patatas especial para freir",28
+2023-01-13,viernes,"Fruta y verdura","Patatas guarnición",35
+2023-01-13,viernes,"Fruta y verdura","Patatas rojas",23
+2023-01-13,viernes,"Fruta y verdura",Pepino,31
+2023-01-13,viernes,"Fruta y verdura","Pepino holandés",23
+2023-01-13,viernes,"Fruta y verdura",Pepinos,50
+2023-01-13,viernes,"Fruta y verdura","Pera Conferencia",44
+2023-01-13,viernes,"Fruta y verdura","Pera Ercolina",11
+2023-01-13,viernes,"Fruta y verdura","Peras Conferencia",20
+2023-01-13,viernes,"Fruta y verdura","Perejil troceado",18
+2023-01-13,viernes,"Fruta y verdura","Picada de ajo y Perejil",19
+2023-01-13,viernes,"Fruta y verdura","Pimiento rojo",6
+2023-01-13,viernes,"Fruta y verdura","Pimiento verde",12
+2023-01-13,viernes,"Fruta y verdura","Pimiento verde freír",11
+2023-01-13,viernes,"Fruta y verdura","Pimientos rojos picantes",22
+2023-01-13,viernes,"Fruta y verdura","Pimientos semipicantes",26
+2023-01-13,viernes,"Fruta y verdura","Pimientos tricolor rojo, amarillo y verde",14
+2023-01-13,viernes,"Fruta y verdura",Piña,34
+2023-01-13,viernes,"Fruta y verdura","Piña natural a rodajas",30
+2023-01-13,viernes,"Fruta y verdura","Plátano de Canarias",23
+2023-01-13,viernes,"Fruta y verdura","Plátano macho",18
+2023-01-13,viernes,"Fruta y verdura",Pomelo,39
+2023-01-13,viernes,"Fruta y verdura","Preparado de verdura para cocido",19
+2023-01-13,viernes,"Fruta y verdura",Puerros,13
+2023-01-13,viernes,"Fruta y verdura",Rabanitos,10
+2023-01-13,viernes,"Fruta y verdura","Rama de Tomates",28
+2023-01-13,viernes,"Fruta y verdura","Remolacha cocida y pelada",7
+2023-01-13,viernes,"Fruta y verdura","Repollo liso",37
+2023-01-13,viernes,"Fruta y verdura","Repollo rizado",24
+2023-01-13,viernes,"Fruta y verdura","Rúcula base para ensalada",9
+2023-01-13,viernes,"Fruta y verdura","Salteado de setas laminadas",38
+2023-01-13,viernes,"Fruta y verdura","Sandía baja en semillas",50
+2023-01-13,viernes,"Fruta y verdura",Seta,13
+2023-01-13,viernes,"Fruta y verdura","Seta laminada",49
+2023-01-13,viernes,"Fruta y verdura","Seta shiitake",14
+2023-01-13,viernes,"Fruta y verdura","Setas al plato con perejil",5
+2023-01-13,viernes,"Fruta y verdura","Sopa juliana para micro",17
+2023-01-13,viernes,"Fruta y verdura","Tomate canario",35
+2023-01-13,viernes,"Fruta y verdura","Tomate ensalada",45
+2023-01-13,viernes,"Fruta y verdura","Tomate kumato negro",33
+2023-01-13,viernes,"Fruta y verdura","Tomate pera",24
+2023-01-13,viernes,"Fruta y verdura","Tomate rallado",36
+2023-01-13,viernes,"Fruta y verdura","Tomate rosa",25
+2023-01-13,viernes,"Fruta y verdura",Tomates,34
+2023-01-13,viernes,"Fruta y verdura","Tomates cherry",37
+2023-01-13,viernes,"Fruta y verdura","Tomates cherry en rama Dulcita",19
+2023-01-13,viernes,"Fruta y verdura","Tomates cherry pera kumato",33
+2023-01-13,viernes,"Fruta y verdura","Tomates kumato negro",17
+2023-01-13,viernes,"Fruta y verdura","Tomates pera",25
+2023-01-13,viernes,"Fruta y verdura","Uva blanca sin semillas",42
+2023-01-13,viernes,"Fruta y verdura","Uva roja sin semillas",47
+2023-01-13,viernes,"Fruta y verdura","Wraps Texas",13
+2023-01-13,viernes,"Fruta y verdura",Yuca,25
+2023-01-13,viernes,"Fruta y verdura","Zanahoria rallada base para ensalada",18
+2023-01-13,viernes,"Fruta y verdura",Zanahorias,79
+2023-01-20,viernes,"Fruta y verdura","1/4 Sandía baja en semillas",42
+2023-01-20,viernes,"Fruta y verdura","3 Vegetales para micro",29
+2023-01-20,viernes,"Fruta y verdura","Acelgas cortadas",20
+2023-01-20,viernes,"Fruta y verdura",Aguacate,41
+2023-01-20,viernes,"Fruta y verdura",Aguacates,23
+2023-01-20,viernes,"Fruta y verdura","Ajo negro dientes pelados",22
+2023-01-20,viernes,"Fruta y verdura","Ajos morados",72
+2023-01-20,viernes,"Fruta y verdura",Albahaca,8
+2023-01-20,viernes,"Fruta y verdura",Albaricoque,39
+2023-01-20,viernes,"Fruta y verdura","Apio verde",8
+2023-01-20,viernes,"Fruta y verdura",Arándanos,25
+2023-01-20,viernes,"Fruta y verdura",Banana,30
+2023-01-20,viernes,"Fruta y verdura",Batata,11
+2023-01-20,viernes,"Fruta y verdura","Batata para micro",14
+2023-01-20,viernes,"Fruta y verdura",Berenjena,15
+2023-01-20,viernes,"Fruta y verdura",Bimi,30
+2023-01-20,viernes,"Fruta y verdura",Brócoli,12
+2023-01-20,viernes,"Fruta y verdura","Calabacín blanco",45
+2023-01-20,viernes,"Fruta y verdura","Calabacín verde",12
+2023-01-20,viernes,"Fruta y verdura","Calabaza cacahuete cortada a trozos",40
+2023-01-20,viernes,"Fruta y verdura","Canónigos base para ensalada",11
+2023-01-20,viernes,"Fruta y verdura",Cebollas,73
+2023-01-20,viernes,"Fruta y verdura","Cebollas dulces",13
+2023-01-20,viernes,"Fruta y verdura","Cebollas rojas",35
+2023-01-20,viernes,"Fruta y verdura","Cebollas tiernas",41
+2023-01-20,viernes,"Fruta y verdura",Cebollino,47
+2023-01-20,viernes,"Fruta y verdura",Cereza,84
+2023-01-20,viernes,"Fruta y verdura","Champiñón grande",19
+2023-01-20,viernes,"Fruta y verdura","Champiñón laminado limpio",32
+2023-01-20,viernes,"Fruta y verdura","Champiñón pequeño",23
+2023-01-20,viernes,"Fruta y verdura","Champiñón Portobello",46
+2023-01-20,viernes,"Fruta y verdura",Cilantro,6
+2023-01-20,viernes,"Fruta y verdura","Ciruela roja",25
+2023-01-20,viernes,"Fruta y verdura","Cogollos corazón de lechuga",5
+2023-01-20,viernes,"Fruta y verdura","Cogollos de lechuga",35
+2023-01-20,viernes,"Fruta y verdura","Col lombarda",10
+2023-01-20,viernes,"Fruta y verdura",Coliflor,15
+2023-01-20,viernes,"Fruta y verdura",Endibias,30
+2023-01-20,viernes,"Fruta y verdura","Ensalada California",40
+2023-01-20,viernes,"Fruta y verdura","Ensalada César",21
+2023-01-20,viernes,"Fruta y verdura","Ensalada de la casa",28
+2023-01-20,viernes,"Fruta y verdura","Ensalada de pasta",15
+2023-01-20,viernes,"Fruta y verdura","Ensalada de pasta Listo para Comer",45
+2023-01-20,viernes,"Fruta y verdura","Ensalada ensatún",16
+2023-01-20,viernes,"Fruta y verdura","Ensalada jamón",36
+2023-01-20,viernes,"Fruta y verdura","Ensalada mezcla 4 estaciones",10
+2023-01-20,viernes,"Fruta y verdura","Ensalada mezcla brotes tiernos",14
+2023-01-20,viernes,"Fruta y verdura","Ensalada mezcla brotes tiernos maxi",7
+2023-01-20,viernes,"Fruta y verdura","Ensalada mezcla dúo canónigos y rúcula",9
+2023-01-20,viernes,"Fruta y verdura","Ensalada mezcla fresca",23
+2023-01-20,viernes,"Fruta y verdura","Ensalada mezcla gourmet",5
+2023-01-20,viernes,"Fruta y verdura","Ensalada mezcla gourmet maxi",46
+2023-01-20,viernes,"Fruta y verdura","Ensalada mezcla primavera",49
+2023-01-20,viernes,"Fruta y verdura","Ensalada mezcla tierna",20
+2023-01-20,viernes,"Fruta y verdura","Ensalada mil islas",45
+2023-01-20,viernes,"Fruta y verdura","Ensalada queso de cabra",27
+2023-01-20,viernes,"Fruta y verdura","Escarola rizada",21
+2023-01-20,viernes,"Fruta y verdura","Escarola rizada base para ensalada",12
+2023-01-20,viernes,"Fruta y verdura","Espárrago verde fino",20
+2023-01-20,viernes,"Fruta y verdura","Espárrago verde grueso",25
+2023-01-20,viernes,"Fruta y verdura","Espinaca baby base para ensalada",26
+2023-01-20,viernes,"Fruta y verdura","Espinacas cortadas",22
+2023-01-20,viernes,"Fruta y verdura","Floretas de brócoli para micro",32
+2023-01-20,viernes,"Fruta y verdura",Frambuesas,22
+2023-01-20,viernes,"Fruta y verdura",Fresas,30
+2023-01-20,viernes,"Fruta y verdura","Guacamole Hacendado",54
+2023-01-20,viernes,"Fruta y verdura",Hierbabuena,50
+2023-01-20,viernes,"Fruta y verdura",Jengibre,31
+2023-01-20,viernes,"Fruta y verdura","Judía verde plana",34
+2023-01-20,viernes,"Fruta y verdura","Judía verde redonda",26
+2023-01-20,viernes,"Fruta y verdura","Kiwi verde",11
+2023-01-20,viernes,"Fruta y verdura","Kiwis amarillos",40
+2023-01-20,viernes,"Fruta y verdura","Kiwis verdes",14
+2023-01-20,viernes,"Fruta y verdura","Lechuga corazón romana",46
+2023-01-20,viernes,"Fruta y verdura","Lechuga hoja roble",43
+2023-01-20,viernes,"Fruta y verdura","Lechuga iceberg",27
+2023-01-20,viernes,"Fruta y verdura","Lechuga iceberg base para ensalada",16
+2023-01-20,viernes,"Fruta y verdura","Lechuga romana cortada",8
+2023-01-20,viernes,"Fruta y verdura","Lechugas corazón romana",16
+2023-01-20,viernes,"Fruta y verdura",Limas,38
+2023-01-20,viernes,"Fruta y verdura",Limón,17
+2023-01-20,viernes,"Fruta y verdura",Limones,39
+2023-01-20,viernes,"Fruta y verdura","Maíz dulce en mazorca",38
+2023-01-20,viernes,"Fruta y verdura","Maíz dulce en mazorca cocido",18
+2023-01-20,viernes,"Fruta y verdura",Mango,17
+2023-01-20,viernes,"Fruta y verdura","Manzana Crimson Snow",22
+2023-01-20,viernes,"Fruta y verdura","Manzana Golden",38
+2023-01-20,viernes,"Fruta y verdura","Manzana Granny Smith",19
+2023-01-20,viernes,"Fruta y verdura","Manzana Story",33
+2023-01-20,viernes,"Fruta y verdura","Manzanas Crimson Snow",37
+2023-01-20,viernes,"Fruta y verdura","Manzanas Golden",32
+2023-01-20,viernes,"Fruta y verdura","Media col lombarda",6
+2023-01-20,viernes,"Fruta y verdura","Media papaya",9
+2023-01-20,viernes,"Fruta y verdura","Media piña",24
+2023-01-20,viernes,"Fruta y verdura","Media sandía baja en semillas",9
+2023-01-20,viernes,"Fruta y verdura","Medio melón piel de sapo",50
+2023-01-20,viernes,"Fruta y verdura","Medio repollo liso",17
+2023-01-20,viernes,"Fruta y verdura","Medio repollo rizado",35
+2023-01-20,viernes,"Fruta y verdura","Melón piel de sapo",10
+2023-01-20,viernes,"Fruta y verdura","Mix de verduras jardinera para micro",26
+2023-01-20,viernes,"Fruta y verdura","Mix de verduras paisana para micro",8
+2023-01-20,viernes,"Fruta y verdura",Moras,8
+2023-01-20,viernes,"Fruta y verdura","Naranja para mesa",25
+2023-01-20,viernes,"Fruta y verdura",Naranjas,55
+2023-01-20,viernes,"Fruta y verdura","Nectarina pulpa blanca",36
+2023-01-20,viernes,"Fruta y verdura","Palitos de zanahoria",35
+2023-01-20,viernes,"Fruta y verdura",Papaya,43
+2023-01-20,viernes,"Fruta y verdura",Paraguayo,47
+2023-01-20,viernes,"Fruta y verdura",Patata,28
+2023-01-20,viernes,"Fruta y verdura","Patata para micro",42
+2023-01-20,viernes,"Fruta y verdura",Patatas,64
+2023-01-20,viernes,"Fruta y verdura","Patatas especial para freir",43
+2023-01-20,viernes,"Fruta y verdura","Patatas guarnición",32
+2023-01-20,viernes,"Fruta y verdura","Patatas rojas",7
+2023-01-20,viernes,"Fruta y verdura",Pepino,47
+2023-01-20,viernes,"Fruta y verdura","Pepino holandés",12
+2023-01-20,viernes,"Fruta y verdura",Pepinos,38
+2023-01-20,viernes,"Fruta y verdura","Pera Conferencia",8
+2023-01-20,viernes,"Fruta y verdura","Pera Ercolina",41
+2023-01-20,viernes,"Fruta y verdura","Peras Conferencia",18
+2023-01-20,viernes,"Fruta y verdura","Perejil troceado",20
+2023-01-20,viernes,"Fruta y verdura","Picada de ajo y Perejil",19
+2023-01-20,viernes,"Fruta y verdura","Pimiento rojo",7
+2023-01-20,viernes,"Fruta y verdura","Pimiento verde",32
+2023-01-20,viernes,"Fruta y verdura","Pimiento verde freír",12
+2023-01-20,viernes,"Fruta y verdura","Pimientos rojos picantes",9
+2023-01-20,viernes,"Fruta y verdura","Pimientos semipicantes",21
+2023-01-20,viernes,"Fruta y verdura","Pimientos tricolor rojo, amarillo y verde",13
+2023-01-20,viernes,"Fruta y verdura",Piña,38
+2023-01-20,viernes,"Fruta y verdura","Piña natural a rodajas",46
+2023-01-20,viernes,"Fruta y verdura","Plátano de Canarias",23
+2023-01-20,viernes,"Fruta y verdura","Plátano macho",17
+2023-01-20,viernes,"Fruta y verdura",Pomelo,8
+2023-01-20,viernes,"Fruta y verdura","Preparado de verdura para cocido",48
+2023-01-20,viernes,"Fruta y verdura",Puerros,19
+2023-01-20,viernes,"Fruta y verdura",Rabanitos,7
+2023-01-20,viernes,"Fruta y verdura","Rama de Tomates",40
+2023-01-20,viernes,"Fruta y verdura","Remolacha cocida y pelada",23
+2023-01-20,viernes,"Fruta y verdura","Repollo liso",46
+2023-01-20,viernes,"Fruta y verdura","Repollo rizado",20
+2023-01-20,viernes,"Fruta y verdura","Rúcula base para ensalada",32
+2023-01-20,viernes,"Fruta y verdura","Salteado de setas laminadas",21
+2023-01-20,viernes,"Fruta y verdura","Sandía baja en semillas",21
+2023-01-20,viernes,"Fruta y verdura",Seta,40
+2023-01-20,viernes,"Fruta y verdura","Seta laminada",49
+2023-01-20,viernes,"Fruta y verdura","Seta shiitake",25
+2023-01-20,viernes,"Fruta y verdura","Setas al plato con perejil",39
+2023-01-20,viernes,"Fruta y verdura","Sopa juliana para micro",36
+2023-01-20,viernes,"Fruta y verdura","Tomate canario",25
+2023-01-20,viernes,"Fruta y verdura","Tomate ensalada",70
+2023-01-20,viernes,"Fruta y verdura","Tomate kumato negro",28
+2023-01-20,viernes,"Fruta y verdura","Tomate pera",34
+2023-01-20,viernes,"Fruta y verdura","Tomate rallado",17
+2023-01-20,viernes,"Fruta y verdura","Tomate rosa",16
+2023-01-20,viernes,"Fruta y verdura",Tomates,32
+2023-01-20,viernes,"Fruta y verdura","Tomates cherry",41
+2023-01-20,viernes,"Fruta y verdura","Tomates cherry en rama Dulcita",43
+2023-01-20,viernes,"Fruta y verdura","Tomates cherry pera kumato",45
+2023-01-20,viernes,"Fruta y verdura","Tomates kumato negro",24
+2023-01-20,viernes,"Fruta y verdura","Tomates pera",34
+2023-01-20,viernes,"Fruta y verdura","Uva blanca sin semillas",42
+2023-01-20,viernes,"Fruta y verdura","Uva roja sin semillas",17
+2023-01-20,viernes,"Fruta y verdura","Wraps Texas",10
+2023-01-20,viernes,"Fruta y verdura",Yuca,33
+2023-01-20,viernes,"Fruta y verdura","Zanahoria rallada base para ensalada",16
+2023-01-20,viernes,"Fruta y verdura",Zanahorias,82
+2023-01-27,viernes,"Fruta y verdura","1/4 Sandía baja en semillas",15
+2023-01-27,viernes,"Fruta y verdura","3 Vegetales para micro",28
+2023-01-27,viernes,"Fruta y verdura","Acelgas cortadas",35
+2023-01-27,viernes,"Fruta y verdura",Aguacate,24
+2023-01-27,viernes,"Fruta y verdura",Aguacates,31
+2023-01-27,viernes,"Fruta y verdura","Ajo negro dientes pelados",28
+2023-01-27,viernes,"Fruta y verdura","Ajos morados",50
+2023-01-27,viernes,"Fruta y verdura",Albahaca,11
+2023-01-27,viernes,"Fruta y verdura",Albaricoque,42
+2023-01-27,viernes,"Fruta y verdura","Apio verde",19
+2023-01-27,viernes,"Fruta y verdura",Arándanos,44
+2023-01-27,viernes,"Fruta y verdura",Banana,39
+2023-01-27,viernes,"Fruta y verdura",Batata,49
+2023-01-27,viernes,"Fruta y verdura","Batata para micro",29
+2023-01-27,viernes,"Fruta y verdura",Berenjena,12
+2023-01-27,viernes,"Fruta y verdura",Bimi,15
+2023-01-27,viernes,"Fruta y verdura",Brócoli,44
+2023-01-27,viernes,"Fruta y verdura","Calabacín blanco",47
+2023-01-27,viernes,"Fruta y verdura","Calabacín verde",35
+2023-01-27,viernes,"Fruta y verdura","Calabaza cacahuete cortada a trozos",14
+2023-01-27,viernes,"Fruta y verdura","Canónigos base para ensalada",12
+2023-01-27,viernes,"Fruta y verdura",Cebollas,57
+2023-01-27,viernes,"Fruta y verdura","Cebollas dulces",18
+2023-01-27,viernes,"Fruta y verdura","Cebollas rojas",13
+2023-01-27,viernes,"Fruta y verdura","Cebollas tiernas",33
+2023-01-27,viernes,"Fruta y verdura",Cebollino,47
+2023-01-27,viernes,"Fruta y verdura",Cereza,67
+2023-01-27,viernes,"Fruta y verdura","Champiñón grande",22
+2023-01-27,viernes,"Fruta y verdura","Champiñón laminado limpio",7
+2023-01-27,viernes,"Fruta y verdura","Champiñón pequeño",26
+2023-01-27,viernes,"Fruta y verdura","Champiñón Portobello",9
+2023-01-27,viernes,"Fruta y verdura",Cilantro,16
+2023-01-27,viernes,"Fruta y verdura","Ciruela roja",41
+2023-01-27,viernes,"Fruta y verdura","Cogollos corazón de lechuga",40
+2023-01-27,viernes,"Fruta y verdura","Cogollos de lechuga",17
+2023-01-27,viernes,"Fruta y verdura","Col lombarda",24
+2023-01-27,viernes,"Fruta y verdura",Coliflor,44
+2023-01-27,viernes,"Fruta y verdura",Endibias,41
+2023-01-27,viernes,"Fruta y verdura","Ensalada California",6
+2023-01-27,viernes,"Fruta y verdura","Ensalada César",30
+2023-01-27,viernes,"Fruta y verdura","Ensalada de la casa",34
+2023-01-27,viernes,"Fruta y verdura","Ensalada de pasta",28
+2023-01-27,viernes,"Fruta y verdura","Ensalada de pasta Listo para Comer",17
+2023-01-27,viernes,"Fruta y verdura","Ensalada ensatún",14
+2023-01-27,viernes,"Fruta y verdura","Ensalada jamón",11
+2023-01-27,viernes,"Fruta y verdura","Ensalada mezcla 4 estaciones",34
+2023-01-27,viernes,"Fruta y verdura","Ensalada mezcla brotes tiernos",26
+2023-01-27,viernes,"Fruta y verdura","Ensalada mezcla brotes tiernos maxi",6
+2023-01-27,viernes,"Fruta y verdura","Ensalada mezcla dúo canónigos y rúcula",29
+2023-01-27,viernes,"Fruta y verdura","Ensalada mezcla fresca",39
+2023-01-27,viernes,"Fruta y verdura","Ensalada mezcla gourmet",23
+2023-01-27,viernes,"Fruta y verdura","Ensalada mezcla gourmet maxi",37
+2023-01-27,viernes,"Fruta y verdura","Ensalada mezcla primavera",12
+2023-01-27,viernes,"Fruta y verdura","Ensalada mezcla tierna",34
+2023-01-27,viernes,"Fruta y verdura","Ensalada mil islas",8
+2023-01-27,viernes,"Fruta y verdura","Ensalada queso de cabra",22
+2023-01-27,viernes,"Fruta y verdura","Escarola rizada",16
+2023-01-27,viernes,"Fruta y verdura","Escarola rizada base para ensalada",48
+2023-01-27,viernes,"Fruta y verdura","Espárrago verde fino",34
+2023-01-27,viernes,"Fruta y verdura","Espárrago verde grueso",43
+2023-01-27,viernes,"Fruta y verdura","Espinaca baby base para ensalada",38
+2023-01-27,viernes,"Fruta y verdura","Espinacas cortadas",37
+2023-01-27,viernes,"Fruta y verdura","Floretas de brócoli para micro",44
+2023-01-27,viernes,"Fruta y verdura",Frambuesas,48
+2023-01-27,viernes,"Fruta y verdura",Fresas,15
+2023-01-27,viernes,"Fruta y verdura","Guacamole Hacendado",61
+2023-01-27,viernes,"Fruta y verdura",Hierbabuena,29
+2023-01-27,viernes,"Fruta y verdura",Jengibre,11
+2023-01-27,viernes,"Fruta y verdura","Judía verde plana",58
+2023-01-27,viernes,"Fruta y verdura","Judía verde redonda",31
+2023-01-27,viernes,"Fruta y verdura","Kiwi verde",31
+2023-01-27,viernes,"Fruta y verdura","Kiwis amarillos",5
+2023-01-27,viernes,"Fruta y verdura","Kiwis verdes",18
+2023-01-27,viernes,"Fruta y verdura","Lechuga corazón romana",49
+2023-01-27,viernes,"Fruta y verdura","Lechuga hoja roble",24
+2023-01-27,viernes,"Fruta y verdura","Lechuga iceberg",15
+2023-01-27,viernes,"Fruta y verdura","Lechuga iceberg base para ensalada",30
+2023-01-27,viernes,"Fruta y verdura","Lechuga romana cortada",45
+2023-01-27,viernes,"Fruta y verdura","Lechugas corazón romana",45
+2023-01-27,viernes,"Fruta y verdura",Limas,34
+2023-01-27,viernes,"Fruta y verdura",Limón,48
+2023-01-27,viernes,"Fruta y verdura",Limones,23
+2023-01-27,viernes,"Fruta y verdura","Maíz dulce en mazorca",9
+2023-01-27,viernes,"Fruta y verdura","Maíz dulce en mazorca cocido",19
+2023-01-27,viernes,"Fruta y verdura",Mango,50
+2023-01-27,viernes,"Fruta y verdura","Manzana Crimson Snow",50
+2023-01-27,viernes,"Fruta y verdura","Manzana Golden",48
+2023-01-27,viernes,"Fruta y verdura","Manzana Granny Smith",17
+2023-01-27,viernes,"Fruta y verdura","Manzana Story",50
+2023-01-27,viernes,"Fruta y verdura","Manzanas Crimson Snow",14
+2023-01-27,viernes,"Fruta y verdura","Manzanas Golden",32
+2023-01-27,viernes,"Fruta y verdura","Media col lombarda",35
+2023-01-27,viernes,"Fruta y verdura","Media papaya",24
+2023-01-27,viernes,"Fruta y verdura","Media piña",46
+2023-01-27,viernes,"Fruta y verdura","Media sandía baja en semillas",8
+2023-01-27,viernes,"Fruta y verdura","Medio melón piel de sapo",29
+2023-01-27,viernes,"Fruta y verdura","Medio repollo liso",9
+2023-01-27,viernes,"Fruta y verdura","Medio repollo rizado",48
+2023-01-27,viernes,"Fruta y verdura","Melón piel de sapo",27
+2023-01-27,viernes,"Fruta y verdura","Mix de verduras jardinera para micro",39
+2023-01-27,viernes,"Fruta y verdura","Mix de verduras paisana para micro",39
+2023-01-27,viernes,"Fruta y verdura",Moras,28
+2023-01-27,viernes,"Fruta y verdura","Naranja para mesa",28
+2023-01-27,viernes,"Fruta y verdura",Naranjas,68
+2023-01-27,viernes,"Fruta y verdura","Nectarina pulpa blanca",13
+2023-01-27,viernes,"Fruta y verdura","Palitos de zanahoria",13
+2023-01-27,viernes,"Fruta y verdura",Papaya,30
+2023-01-27,viernes,"Fruta y verdura",Paraguayo,30
+2023-01-27,viernes,"Fruta y verdura",Patata,25
+2023-01-27,viernes,"Fruta y verdura","Patata para micro",6
+2023-01-27,viernes,"Fruta y verdura",Patatas,68
+2023-01-27,viernes,"Fruta y verdura","Patatas especial para freir",22
+2023-01-27,viernes,"Fruta y verdura","Patatas guarnición",6
+2023-01-27,viernes,"Fruta y verdura","Patatas rojas",45
+2023-01-27,viernes,"Fruta y verdura",Pepino,10
+2023-01-27,viernes,"Fruta y verdura","Pepino holandés",18
+2023-01-27,viernes,"Fruta y verdura",Pepinos,13
+2023-01-27,viernes,"Fruta y verdura","Pera Conferencia",34
+2023-01-27,viernes,"Fruta y verdura","Pera Ercolina",20
+2023-01-27,viernes,"Fruta y verdura","Peras Conferencia",40
+2023-01-27,viernes,"Fruta y verdura","Perejil troceado",49
+2023-01-27,viernes,"Fruta y verdura","Picada de ajo y Perejil",32
+2023-01-27,viernes,"Fruta y verdura","Pimiento rojo",29
+2023-01-27,viernes,"Fruta y verdura","Pimiento verde",27
+2023-01-27,viernes,"Fruta y verdura","Pimiento verde freír",47
+2023-01-27,viernes,"Fruta y verdura","Pimientos rojos picantes",37
+2023-01-27,viernes,"Fruta y verdura","Pimientos semipicantes",10
+2023-01-27,viernes,"Fruta y verdura","Pimientos tricolor rojo, amarillo y verde",37
+2023-01-27,viernes,"Fruta y verdura",Piña,40
+2023-01-27,viernes,"Fruta y verdura","Piña natural a rodajas",5
+2023-01-27,viernes,"Fruta y verdura","Plátano de Canarias",17
+2023-01-27,viernes,"Fruta y verdura","Plátano macho",44
+2023-01-27,viernes,"Fruta y verdura",Pomelo,43
+2023-01-27,viernes,"Fruta y verdura","Preparado de verdura para cocido",29
+2023-01-27,viernes,"Fruta y verdura",Puerros,47
+2023-01-27,viernes,"Fruta y verdura",Rabanitos,45
+2023-01-27,viernes,"Fruta y verdura","Rama de Tomates",14
+2023-01-27,viernes,"Fruta y verdura","Remolacha cocida y pelada",38
+2023-01-27,viernes,"Fruta y verdura","Repollo liso",28
+2023-01-27,viernes,"Fruta y verdura","Repollo rizado",13
+2023-01-27,viernes,"Fruta y verdura","Rúcula base para ensalada",47
+2023-01-27,viernes,"Fruta y verdura","Salteado de setas laminadas",39
+2023-01-27,viernes,"Fruta y verdura","Sandía baja en semillas",43
+2023-01-27,viernes,"Fruta y verdura",Seta,31
+2023-01-27,viernes,"Fruta y verdura","Seta laminada",29
+2023-01-27,viernes,"Fruta y verdura","Seta shiitake",36
+2023-01-27,viernes,"Fruta y verdura","Setas al plato con perejil",21
+2023-01-27,viernes,"Fruta y verdura","Sopa juliana para micro",39
+2023-01-27,viernes,"Fruta y verdura","Tomate canario",44
+2023-01-27,viernes,"Fruta y verdura","Tomate ensalada",40
+2023-01-27,viernes,"Fruta y verdura","Tomate kumato negro",20
+2023-01-27,viernes,"Fruta y verdura","Tomate pera",15
+2023-01-27,viernes,"Fruta y verdura","Tomate rallado",16
+2023-01-27,viernes,"Fruta y verdura","Tomate rosa",12
+2023-01-27,viernes,"Fruta y verdura",Tomates,37
+2023-01-27,viernes,"Fruta y verdura","Tomates cherry",20
+2023-01-27,viernes,"Fruta y verdura","Tomates cherry en rama Dulcita",20
+2023-01-27,viernes,"Fruta y verdura","Tomates cherry pera kumato",32
+2023-01-27,viernes,"Fruta y verdura","Tomates kumato negro",6
+2023-01-27,viernes,"Fruta y verdura","Tomates pera",45
+2023-01-27,viernes,"Fruta y verdura","Uva blanca sin semillas",17
+2023-01-27,viernes,"Fruta y verdura","Uva roja sin semillas",48
+2023-01-27,viernes,"Fruta y verdura","Wraps Texas",20
+2023-01-27,viernes,"Fruta y verdura",Yuca,50
+2023-01-27,viernes,"Fruta y verdura","Zanahoria rallada base para ensalada",19
+2023-01-27,viernes,"Fruta y verdura",Zanahorias,23
+2023-02-03,viernes,"Fruta y verdura","1/4 Sandía baja en semillas",16
+2023-02-03,viernes,"Fruta y verdura","3 Vegetales para micro",47
+2023-02-03,viernes,"Fruta y verdura","Acelgas cortadas",25
+2023-02-03,viernes,"Fruta y verdura",Aguacate,40
+2023-02-03,viernes,"Fruta y verdura",Aguacates,37
+2023-02-03,viernes,"Fruta y verdura","Ajo negro dientes pelados",46
+2023-02-03,viernes,"Fruta y verdura","Ajos morados",68
+2023-02-03,viernes,"Fruta y verdura",Albahaca,48
+2023-02-03,viernes,"Fruta y verdura",Albaricoque,12
+2023-02-03,viernes,"Fruta y verdura","Apio verde",15
+2023-02-03,viernes,"Fruta y verdura",Arándanos,20
+2023-02-03,viernes,"Fruta y verdura",Banana,27
+2023-02-03,viernes,"Fruta y verdura",Batata,8
+2023-02-03,viernes,"Fruta y verdura","Batata para micro",6
+2023-02-03,viernes,"Fruta y verdura",Berenjena,14
+2023-02-03,viernes,"Fruta y verdura",Bimi,5
+2023-02-03,viernes,"Fruta y verdura",Brócoli,45
+2023-02-03,viernes,"Fruta y verdura","Calabacín blanco",35
+2023-02-03,viernes,"Fruta y verdura","Calabacín verde",37
+2023-02-03,viernes,"Fruta y verdura","Calabaza cacahuete cortada a trozos",18
+2023-02-03,viernes,"Fruta y verdura","Canónigos base para ensalada",46
+2023-02-03,viernes,"Fruta y verdura",Cebollas,47
+2023-02-03,viernes,"Fruta y verdura","Cebollas dulces",37
+2023-02-03,viernes,"Fruta y verdura","Cebollas rojas",8
+2023-02-03,viernes,"Fruta y verdura","Cebollas tiernas",48
+2023-02-03,viernes,"Fruta y verdura",Cebollino,9
+2023-02-03,viernes,"Fruta y verdura",Cereza,52
+2023-02-03,viernes,"Fruta y verdura","Champiñón grande",16
+2023-02-03,viernes,"Fruta y verdura","Champiñón laminado limpio",6
+2023-02-03,viernes,"Fruta y verdura","Champiñón pequeño",7
+2023-02-03,viernes,"Fruta y verdura","Champiñón Portobello",13
+2023-02-03,viernes,"Fruta y verdura",Cilantro,43
+2023-02-03,viernes,"Fruta y verdura","Ciruela roja",20
+2023-02-03,viernes,"Fruta y verdura","Cogollos corazón de lechuga",7
+2023-02-03,viernes,"Fruta y verdura","Cogollos de lechuga",33
+2023-02-03,viernes,"Fruta y verdura","Col lombarda",39
+2023-02-03,viernes,"Fruta y verdura",Coliflor,27
+2023-02-03,viernes,"Fruta y verdura",Endibias,36
+2023-02-03,viernes,"Fruta y verdura","Ensalada California",7
+2023-02-03,viernes,"Fruta y verdura","Ensalada César",9
+2023-02-03,viernes,"Fruta y verdura","Ensalada de la casa",46
+2023-02-03,viernes,"Fruta y verdura","Ensalada de pasta",47
+2023-02-03,viernes,"Fruta y verdura","Ensalada de pasta Listo para Comer",32
+2023-02-03,viernes,"Fruta y verdura","Ensalada ensatún",36
+2023-02-03,viernes,"Fruta y verdura","Ensalada jamón",7
+2023-02-03,viernes,"Fruta y verdura","Ensalada mezcla 4 estaciones",25
+2023-02-03,viernes,"Fruta y verdura","Ensalada mezcla brotes tiernos",46
+2023-02-03,viernes,"Fruta y verdura","Ensalada mezcla brotes tiernos maxi",22
+2023-02-03,viernes,"Fruta y verdura","Ensalada mezcla dúo canónigos y rúcula",24
+2023-02-03,viernes,"Fruta y verdura","Ensalada mezcla fresca",47
+2023-02-03,viernes,"Fruta y verdura","Ensalada mezcla gourmet",45
+2023-02-03,viernes,"Fruta y verdura","Ensalada mezcla gourmet maxi",19
+2023-02-03,viernes,"Fruta y verdura","Ensalada mezcla primavera",37
+2023-02-03,viernes,"Fruta y verdura","Ensalada mezcla tierna",6
+2023-02-03,viernes,"Fruta y verdura","Ensalada mil islas",32
+2023-02-03,viernes,"Fruta y verdura","Ensalada queso de cabra",23
+2023-02-03,viernes,"Fruta y verdura","Escarola rizada",25
+2023-02-03,viernes,"Fruta y verdura","Escarola rizada base para ensalada",37
+2023-02-03,viernes,"Fruta y verdura","Espárrago verde fino",24
+2023-02-03,viernes,"Fruta y verdura","Espárrago verde grueso",42
+2023-02-03,viernes,"Fruta y verdura","Espinaca baby base para ensalada",25
+2023-02-03,viernes,"Fruta y verdura","Espinacas cortadas",46
+2023-02-03,viernes,"Fruta y verdura","Floretas de brócoli para micro",14
+2023-02-03,viernes,"Fruta y verdura",Frambuesas,44
+2023-02-03,viernes,"Fruta y verdura",Fresas,8
+2023-02-03,viernes,"Fruta y verdura","Guacamole Hacendado",85
+2023-02-03,viernes,"Fruta y verdura",Hierbabuena,25
+2023-02-03,viernes,"Fruta y verdura",Jengibre,11
+2023-02-03,viernes,"Fruta y verdura","Judía verde plana",69
+2023-02-03,viernes,"Fruta y verdura","Judía verde redonda",24
+2023-02-03,viernes,"Fruta y verdura","Kiwi verde",33
+2023-02-03,viernes,"Fruta y verdura","Kiwis amarillos",39
+2023-02-03,viernes,"Fruta y verdura","Kiwis verdes",30
+2023-02-03,viernes,"Fruta y verdura","Lechuga corazón romana",21
+2023-02-03,viernes,"Fruta y verdura","Lechuga hoja roble",16
+2023-02-03,viernes,"Fruta y verdura","Lechuga iceberg",15
+2023-02-03,viernes,"Fruta y verdura","Lechuga iceberg base para ensalada",28
+2023-02-03,viernes,"Fruta y verdura","Lechuga romana cortada",25
+2023-02-03,viernes,"Fruta y verdura","Lechugas corazón romana",16
+2023-02-03,viernes,"Fruta y verdura",Limas,38
+2023-02-03,viernes,"Fruta y verdura",Limón,26
+2023-02-03,viernes,"Fruta y verdura",Limones,7
+2023-02-03,viernes,"Fruta y verdura","Maíz dulce en mazorca",35
+2023-02-03,viernes,"Fruta y verdura","Maíz dulce en mazorca cocido",9
+2023-02-03,viernes,"Fruta y verdura",Mango,30
+2023-02-03,viernes,"Fruta y verdura","Manzana Crimson Snow",7
+2023-02-03,viernes,"Fruta y verdura","Manzana Golden",24
+2023-02-03,viernes,"Fruta y verdura","Manzana Granny Smith",43
+2023-02-03,viernes,"Fruta y verdura","Manzana Story",48
+2023-02-03,viernes,"Fruta y verdura","Manzanas Crimson Snow",17
+2023-02-03,viernes,"Fruta y verdura","Manzanas Golden",10
+2023-02-03,viernes,"Fruta y verdura","Media col lombarda",29
+2023-02-03,viernes,"Fruta y verdura","Media papaya",21
+2023-02-03,viernes,"Fruta y verdura","Media piña",43
+2023-02-03,viernes,"Fruta y verdura","Media sandía baja en semillas",11
+2023-02-03,viernes,"Fruta y verdura","Medio melón piel de sapo",9
+2023-02-03,viernes,"Fruta y verdura","Medio repollo liso",50
+2023-02-03,viernes,"Fruta y verdura","Medio repollo rizado",36
+2023-02-03,viernes,"Fruta y verdura","Melón piel de sapo",38
+2023-02-03,viernes,"Fruta y verdura","Mix de verduras jardinera para micro",41
+2023-02-03,viernes,"Fruta y verdura","Mix de verduras paisana para micro",20
+2023-02-03,viernes,"Fruta y verdura",Moras,49
+2023-02-03,viernes,"Fruta y verdura","Naranja para mesa",37
+2023-02-03,viernes,"Fruta y verdura",Naranjas,19
+2023-02-03,viernes,"Fruta y verdura","Nectarina pulpa blanca",12
+2023-02-03,viernes,"Fruta y verdura","Palitos de zanahoria",21
+2023-02-03,viernes,"Fruta y verdura",Papaya,37
+2023-02-03,viernes,"Fruta y verdura",Paraguayo,45
+2023-02-03,viernes,"Fruta y verdura",Patata,31
+2023-02-03,viernes,"Fruta y verdura","Patata para micro",17
+2023-02-03,viernes,"Fruta y verdura",Patatas,29
+2023-02-03,viernes,"Fruta y verdura","Patatas especial para freir",30
+2023-02-03,viernes,"Fruta y verdura","Patatas guarnición",7
+2023-02-03,viernes,"Fruta y verdura","Patatas rojas",15
+2023-02-03,viernes,"Fruta y verdura",Pepino,22
+2023-02-03,viernes,"Fruta y verdura","Pepino holandés",31
+2023-02-03,viernes,"Fruta y verdura",Pepinos,16
+2023-02-03,viernes,"Fruta y verdura","Pera Conferencia",22
+2023-02-03,viernes,"Fruta y verdura","Pera Ercolina",30
+2023-02-03,viernes,"Fruta y verdura","Peras Conferencia",6
+2023-02-03,viernes,"Fruta y verdura","Perejil troceado",16
+2023-02-03,viernes,"Fruta y verdura","Picada de ajo y Perejil",26
+2023-02-03,viernes,"Fruta y verdura","Pimiento rojo",46
+2023-02-03,viernes,"Fruta y verdura","Pimiento verde",22
+2023-02-03,viernes,"Fruta y verdura","Pimiento verde freír",27
+2023-02-03,viernes,"Fruta y verdura","Pimientos rojos picantes",17
+2023-02-03,viernes,"Fruta y verdura","Pimientos semipicantes",18
+2023-02-03,viernes,"Fruta y verdura","Pimientos tricolor rojo, amarillo y verde",14
+2023-02-03,viernes,"Fruta y verdura",Piña,36
+2023-02-03,viernes,"Fruta y verdura","Piña natural a rodajas",36
+2023-02-03,viernes,"Fruta y verdura","Plátano de Canarias",50
+2023-02-03,viernes,"Fruta y verdura","Plátano macho",22
+2023-02-03,viernes,"Fruta y verdura",Pomelo,18
+2023-02-03,viernes,"Fruta y verdura","Preparado de verdura para cocido",35
+2023-02-03,viernes,"Fruta y verdura",Puerros,48
+2023-02-03,viernes,"Fruta y verdura",Rabanitos,31
+2023-02-03,viernes,"Fruta y verdura","Rama de Tomates",32
+2023-02-03,viernes,"Fruta y verdura","Remolacha cocida y pelada",5
+2023-02-03,viernes,"Fruta y verdura","Repollo liso",16
+2023-02-03,viernes,"Fruta y verdura","Repollo rizado",40
+2023-02-03,viernes,"Fruta y verdura","Rúcula base para ensalada",7
+2023-02-03,viernes,"Fruta y verdura","Salteado de setas laminadas",25
+2023-02-03,viernes,"Fruta y verdura","Sandía baja en semillas",25
+2023-02-03,viernes,"Fruta y verdura",Seta,16
+2023-02-03,viernes,"Fruta y verdura","Seta laminada",15
+2023-02-03,viernes,"Fruta y verdura","Seta shiitake",37
+2023-02-03,viernes,"Fruta y verdura","Setas al plato con perejil",21
+2023-02-03,viernes,"Fruta y verdura","Sopa juliana para micro",42
+2023-02-03,viernes,"Fruta y verdura","Tomate canario",12
+2023-02-03,viernes,"Fruta y verdura","Tomate ensalada",96
+2023-02-03,viernes,"Fruta y verdura","Tomate kumato negro",48
+2023-02-03,viernes,"Fruta y verdura","Tomate pera",40
+2023-02-03,viernes,"Fruta y verdura","Tomate rallado",39
+2023-02-03,viernes,"Fruta y verdura","Tomate rosa",48
+2023-02-03,viernes,"Fruta y verdura",Tomates,44
+2023-02-03,viernes,"Fruta y verdura","Tomates cherry",21
+2023-02-03,viernes,"Fruta y verdura","Tomates cherry en rama Dulcita",38
+2023-02-03,viernes,"Fruta y verdura","Tomates cherry pera kumato",16
+2023-02-03,viernes,"Fruta y verdura","Tomates kumato negro",45
+2023-02-03,viernes,"Fruta y verdura","Tomates pera",34
+2023-02-03,viernes,"Fruta y verdura","Uva blanca sin semillas",44
+2023-02-03,viernes,"Fruta y verdura","Uva roja sin semillas",23
+2023-02-03,viernes,"Fruta y verdura","Wraps Texas",10
+2023-02-03,viernes,"Fruta y verdura",Yuca,24
+2023-02-03,viernes,"Fruta y verdura","Zanahoria rallada base para ensalada",38
+2023-02-03,viernes,"Fruta y verdura",Zanahorias,63
+2023-02-10,viernes,"Fruta y verdura","1/4 Sandía baja en semillas",48
+2023-02-10,viernes,"Fruta y verdura","3 Vegetales para micro",30
+2023-02-10,viernes,"Fruta y verdura","Acelgas cortadas",11
+2023-02-10,viernes,"Fruta y verdura",Aguacate,12
+2023-02-10,viernes,"Fruta y verdura",Aguacates,8
+2023-02-10,viernes,"Fruta y verdura","Ajo negro dientes pelados",17
+2023-02-10,viernes,"Fruta y verdura","Ajos morados",75
+2023-02-10,viernes,"Fruta y verdura",Albahaca,13
+2023-02-10,viernes,"Fruta y verdura",Albaricoque,21
+2023-02-10,viernes,"Fruta y verdura","Apio verde",48
+2023-02-10,viernes,"Fruta y verdura",Arándanos,36
+2023-02-10,viernes,"Fruta y verdura",Banana,19
+2023-02-10,viernes,"Fruta y verdura",Batata,36
+2023-02-10,viernes,"Fruta y verdura","Batata para micro",28
+2023-02-10,viernes,"Fruta y verdura",Berenjena,41
+2023-02-10,viernes,"Fruta y verdura",Bimi,8
+2023-02-10,viernes,"Fruta y verdura",Brócoli,27
+2023-02-10,viernes,"Fruta y verdura","Calabacín blanco",46
+2023-02-10,viernes,"Fruta y verdura","Calabacín verde",12
+2023-02-10,viernes,"Fruta y verdura","Calabaza cacahuete cortada a trozos",34
+2023-02-10,viernes,"Fruta y verdura","Canónigos base para ensalada",12
+2023-02-10,viernes,"Fruta y verdura",Cebollas,71
+2023-02-10,viernes,"Fruta y verdura","Cebollas dulces",25
+2023-02-10,viernes,"Fruta y verdura","Cebollas rojas",29
+2023-02-10,viernes,"Fruta y verdura","Cebollas tiernas",50
+2023-02-10,viernes,"Fruta y verdura",Cebollino,31
+2023-02-10,viernes,"Fruta y verdura",Cereza,37
+2023-02-10,viernes,"Fruta y verdura","Champiñón grande",34
+2023-02-10,viernes,"Fruta y verdura","Champiñón laminado limpio",41
+2023-02-10,viernes,"Fruta y verdura","Champiñón pequeño",7
+2023-02-10,viernes,"Fruta y verdura","Champiñón Portobello",5
+2023-02-10,viernes,"Fruta y verdura",Cilantro,10
+2023-02-10,viernes,"Fruta y verdura","Ciruela roja",32
+2023-02-10,viernes,"Fruta y verdura","Cogollos corazón de lechuga",39
+2023-02-10,viernes,"Fruta y verdura","Cogollos de lechuga",36
+2023-02-10,viernes,"Fruta y verdura","Col lombarda",11
+2023-02-10,viernes,"Fruta y verdura",Coliflor,45
+2023-02-10,viernes,"Fruta y verdura",Endibias,29
+2023-02-10,viernes,"Fruta y verdura","Ensalada California",15
+2023-02-10,viernes,"Fruta y verdura","Ensalada César",38
+2023-02-10,viernes,"Fruta y verdura","Ensalada de la casa",50
+2023-02-10,viernes,"Fruta y verdura","Ensalada de pasta",39
+2023-02-10,viernes,"Fruta y verdura","Ensalada de pasta Listo para Comer",50
+2023-02-10,viernes,"Fruta y verdura","Ensalada ensatún",49
+2023-02-10,viernes,"Fruta y verdura","Ensalada jamón",12
+2023-02-10,viernes,"Fruta y verdura","Ensalada mezcla 4 estaciones",32
+2023-02-10,viernes,"Fruta y verdura","Ensalada mezcla brotes tiernos",15
+2023-02-10,viernes,"Fruta y verdura","Ensalada mezcla brotes tiernos maxi",17
+2023-02-10,viernes,"Fruta y verdura","Ensalada mezcla dúo canónigos y rúcula",17
+2023-02-10,viernes,"Fruta y verdura","Ensalada mezcla fresca",10
+2023-02-10,viernes,"Fruta y verdura","Ensalada mezcla gourmet",36
+2023-02-10,viernes,"Fruta y verdura","Ensalada mezcla gourmet maxi",22
+2023-02-10,viernes,"Fruta y verdura","Ensalada mezcla primavera",35
+2023-02-10,viernes,"Fruta y verdura","Ensalada mezcla tierna",45
+2023-02-10,viernes,"Fruta y verdura","Ensalada mil islas",14
+2023-02-10,viernes,"Fruta y verdura","Ensalada queso de cabra",13
+2023-02-10,viernes,"Fruta y verdura","Escarola rizada",28
+2023-02-10,viernes,"Fruta y verdura","Escarola rizada base para ensalada",9
+2023-02-10,viernes,"Fruta y verdura","Espárrago verde fino",18
+2023-02-10,viernes,"Fruta y verdura","Espárrago verde grueso",17
+2023-02-10,viernes,"Fruta y verdura","Espinaca baby base para ensalada",16
+2023-02-10,viernes,"Fruta y verdura","Espinacas cortadas",31
+2023-02-10,viernes,"Fruta y verdura","Floretas de brócoli para micro",9
+2023-02-10,viernes,"Fruta y verdura",Frambuesas,33
+2023-02-10,viernes,"Fruta y verdura",Fresas,6
+2023-02-10,viernes,"Fruta y verdura","Guacamole Hacendado",34
+2023-02-10,viernes,"Fruta y verdura",Hierbabuena,13
+2023-02-10,viernes,"Fruta y verdura",Jengibre,7
+2023-02-10,viernes,"Fruta y verdura","Judía verde plana",79
+2023-02-10,viernes,"Fruta y verdura","Judía verde redonda",39
+2023-02-10,viernes,"Fruta y verdura","Kiwi verde",28
+2023-02-10,viernes,"Fruta y verdura","Kiwis amarillos",9
+2023-02-10,viernes,"Fruta y verdura","Kiwis verdes",23
+2023-02-10,viernes,"Fruta y verdura","Lechuga corazón romana",14
+2023-02-10,viernes,"Fruta y verdura","Lechuga hoja roble",38
+2023-02-10,viernes,"Fruta y verdura","Lechuga iceberg",39
+2023-02-10,viernes,"Fruta y verdura","Lechuga iceberg base para ensalada",29
+2023-02-10,viernes,"Fruta y verdura","Lechuga romana cortada",12
+2023-02-10,viernes,"Fruta y verdura","Lechugas corazón romana",34
+2023-02-10,viernes,"Fruta y verdura",Limas,33
+2023-02-10,viernes,"Fruta y verdura",Limón,19
+2023-02-10,viernes,"Fruta y verdura",Limones,19
+2023-02-10,viernes,"Fruta y verdura","Maíz dulce en mazorca",20
+2023-02-10,viernes,"Fruta y verdura","Maíz dulce en mazorca cocido",42
+2023-02-10,viernes,"Fruta y verdura",Mango,29
+2023-02-10,viernes,"Fruta y verdura","Manzana Crimson Snow",10
+2023-02-10,viernes,"Fruta y verdura","Manzana Golden",25
+2023-02-10,viernes,"Fruta y verdura","Manzana Granny Smith",23
+2023-02-10,viernes,"Fruta y verdura","Manzana Story",41
+2023-02-10,viernes,"Fruta y verdura","Manzanas Crimson Snow",8
+2023-02-10,viernes,"Fruta y verdura","Manzanas Golden",40
+2023-02-10,viernes,"Fruta y verdura","Media col lombarda",23
+2023-02-10,viernes,"Fruta y verdura","Media papaya",20
+2023-02-10,viernes,"Fruta y verdura","Media piña",42
+2023-02-10,viernes,"Fruta y verdura","Media sandía baja en semillas",24
+2023-02-10,viernes,"Fruta y verdura","Medio melón piel de sapo",9
+2023-02-10,viernes,"Fruta y verdura","Medio repollo liso",7
+2023-02-10,viernes,"Fruta y verdura","Medio repollo rizado",26
+2023-02-10,viernes,"Fruta y verdura","Melón piel de sapo",36
+2023-02-10,viernes,"Fruta y verdura","Mix de verduras jardinera para micro",16
+2023-02-10,viernes,"Fruta y verdura","Mix de verduras paisana para micro",36
+2023-02-10,viernes,"Fruta y verdura",Moras,24
+2023-02-10,viernes,"Fruta y verdura","Naranja para mesa",49
+2023-02-10,viernes,"Fruta y verdura",Naranjas,44
+2023-02-10,viernes,"Fruta y verdura","Nectarina pulpa blanca",36
+2023-02-10,viernes,"Fruta y verdura","Palitos de zanahoria",22
+2023-02-10,viernes,"Fruta y verdura",Papaya,12
+2023-02-10,viernes,"Fruta y verdura",Paraguayo,44
+2023-02-10,viernes,"Fruta y verdura",Patata,44
+2023-02-10,viernes,"Fruta y verdura","Patata para micro",10
+2023-02-10,viernes,"Fruta y verdura",Patatas,50
+2023-02-10,viernes,"Fruta y verdura","Patatas especial para freir",32
+2023-02-10,viernes,"Fruta y verdura","Patatas guarnición",26
+2023-02-10,viernes,"Fruta y verdura","Patatas rojas",37
+2023-02-10,viernes,"Fruta y verdura",Pepino,8
+2023-02-10,viernes,"Fruta y verdura","Pepino holandés",37
+2023-02-10,viernes,"Fruta y verdura",Pepinos,12
+2023-02-10,viernes,"Fruta y verdura","Pera Conferencia",47
+2023-02-10,viernes,"Fruta y verdura","Pera Ercolina",22
+2023-02-10,viernes,"Fruta y verdura","Peras Conferencia",50
+2023-02-10,viernes,"Fruta y verdura","Perejil troceado",46
+2023-02-10,viernes,"Fruta y verdura","Picada de ajo y Perejil",12
+2023-02-10,viernes,"Fruta y verdura","Pimiento rojo",25
+2023-02-10,viernes,"Fruta y verdura","Pimiento verde",6
+2023-02-10,viernes,"Fruta y verdura","Pimiento verde freír",25
+2023-02-10,viernes,"Fruta y verdura","Pimientos rojos picantes",11
+2023-02-10,viernes,"Fruta y verdura","Pimientos semipicantes",23
+2023-02-10,viernes,"Fruta y verdura","Pimientos tricolor rojo, amarillo y verde",27
+2023-02-10,viernes,"Fruta y verdura",Piña,16
+2023-02-10,viernes,"Fruta y verdura","Piña natural a rodajas",35
+2023-02-10,viernes,"Fruta y verdura","Plátano de Canarias",17
+2023-02-10,viernes,"Fruta y verdura","Plátano macho",7
+2023-02-10,viernes,"Fruta y verdura",Pomelo,44
+2023-02-10,viernes,"Fruta y verdura","Preparado de verdura para cocido",38
+2023-02-10,viernes,"Fruta y verdura",Puerros,14
+2023-02-10,viernes,"Fruta y verdura",Rabanitos,11
+2023-02-10,viernes,"Fruta y verdura","Rama de Tomates",40
+2023-02-10,viernes,"Fruta y verdura","Remolacha cocida y pelada",43
+2023-02-10,viernes,"Fruta y verdura","Repollo liso",46
+2023-02-10,viernes,"Fruta y verdura","Repollo rizado",12
+2023-02-10,viernes,"Fruta y verdura","Rúcula base para ensalada",49
+2023-02-10,viernes,"Fruta y verdura","Salteado de setas laminadas",35
+2023-02-10,viernes,"Fruta y verdura","Sandía baja en semillas",48
+2023-02-10,viernes,"Fruta y verdura",Seta,21
+2023-02-10,viernes,"Fruta y verdura","Seta laminada",17
+2023-02-10,viernes,"Fruta y verdura","Seta shiitake",31
+2023-02-10,viernes,"Fruta y verdura","Setas al plato con perejil",45
+2023-02-10,viernes,"Fruta y verdura","Sopa juliana para micro",15
+2023-02-10,viernes,"Fruta y verdura","Tomate canario",21
+2023-02-10,viernes,"Fruta y verdura","Tomate ensalada",70
+2023-02-10,viernes,"Fruta y verdura","Tomate kumato negro",14
+2023-02-10,viernes,"Fruta y verdura","Tomate pera",8
+2023-02-10,viernes,"Fruta y verdura","Tomate rallado",50
+2023-02-10,viernes,"Fruta y verdura","Tomate rosa",46
+2023-02-10,viernes,"Fruta y verdura",Tomates,18
+2023-02-10,viernes,"Fruta y verdura","Tomates cherry",10
+2023-02-10,viernes,"Fruta y verdura","Tomates cherry en rama Dulcita",43
+2023-02-10,viernes,"Fruta y verdura","Tomates cherry pera kumato",48
+2023-02-10,viernes,"Fruta y verdura","Tomates kumato negro",41
+2023-02-10,viernes,"Fruta y verdura","Tomates pera",18
+2023-02-10,viernes,"Fruta y verdura","Uva blanca sin semillas",17
+2023-02-10,viernes,"Fruta y verdura","Uva roja sin semillas",32
+2023-02-10,viernes,"Fruta y verdura","Wraps Texas",8
+2023-02-10,viernes,"Fruta y verdura",Yuca,43
+2023-02-10,viernes,"Fruta y verdura","Zanahoria rallada base para ensalada",13
+2023-02-10,viernes,"Fruta y verdura",Zanahorias,37
+2023-02-17,viernes,"Fruta y verdura","1/4 Sandía baja en semillas",36
+2023-02-17,viernes,"Fruta y verdura","3 Vegetales para micro",23
+2023-02-17,viernes,"Fruta y verdura","Acelgas cortadas",50
+2023-02-17,viernes,"Fruta y verdura",Aguacate,13
+2023-02-17,viernes,"Fruta y verdura",Aguacates,44
+2023-02-17,viernes,"Fruta y verdura","Ajo negro dientes pelados",19
+2023-02-17,viernes,"Fruta y verdura","Ajos morados",25
+2023-02-17,viernes,"Fruta y verdura",Albahaca,18
+2023-02-17,viernes,"Fruta y verdura",Albaricoque,45
+2023-02-17,viernes,"Fruta y verdura","Apio verde",24
+2023-02-17,viernes,"Fruta y verdura",Arándanos,36
+2023-02-17,viernes,"Fruta y verdura",Banana,13
+2023-02-17,viernes,"Fruta y verdura",Batata,47
+2023-02-17,viernes,"Fruta y verdura","Batata para micro",10
+2023-02-17,viernes,"Fruta y verdura",Berenjena,27
+2023-02-17,viernes,"Fruta y verdura",Bimi,25
+2023-02-17,viernes,"Fruta y verdura",Brócoli,33
+2023-02-17,viernes,"Fruta y verdura","Calabacín blanco",37
+2023-02-17,viernes,"Fruta y verdura","Calabacín verde",32
+2023-02-17,viernes,"Fruta y verdura","Calabaza cacahuete cortada a trozos",47
+2023-02-17,viernes,"Fruta y verdura","Canónigos base para ensalada",6
+2023-02-17,viernes,"Fruta y verdura",Cebollas,56
+2023-02-17,viernes,"Fruta y verdura","Cebollas dulces",11
+2023-02-17,viernes,"Fruta y verdura","Cebollas rojas",8
+2023-02-17,viernes,"Fruta y verdura","Cebollas tiernas",28
+2023-02-17,viernes,"Fruta y verdura",Cebollino,27
+2023-02-17,viernes,"Fruta y verdura",Cereza,75
+2023-02-17,viernes,"Fruta y verdura","Champiñón grande",19
+2023-02-17,viernes,"Fruta y verdura","Champiñón laminado limpio",18
+2023-02-17,viernes,"Fruta y verdura","Champiñón pequeño",32
+2023-02-17,viernes,"Fruta y verdura","Champiñón Portobello",26
+2023-02-17,viernes,"Fruta y verdura",Cilantro,18
+2023-02-17,viernes,"Fruta y verdura","Ciruela roja",12
+2023-02-17,viernes,"Fruta y verdura","Cogollos corazón de lechuga",30
+2023-02-17,viernes,"Fruta y verdura","Cogollos de lechuga",49
+2023-02-17,viernes,"Fruta y verdura","Col lombarda",45
+2023-02-17,viernes,"Fruta y verdura",Coliflor,23
+2023-02-17,viernes,"Fruta y verdura",Endibias,44
+2023-02-17,viernes,"Fruta y verdura","Ensalada California",39
+2023-02-17,viernes,"Fruta y verdura","Ensalada César",29
+2023-02-17,viernes,"Fruta y verdura","Ensalada de la casa",41
+2023-02-17,viernes,"Fruta y verdura","Ensalada de pasta",38
+2023-02-17,viernes,"Fruta y verdura","Ensalada de pasta Listo para Comer",9
+2023-02-17,viernes,"Fruta y verdura","Ensalada ensatún",49
+2023-02-17,viernes,"Fruta y verdura","Ensalada jamón",48
+2023-02-17,viernes,"Fruta y verdura","Ensalada mezcla 4 estaciones",49
+2023-02-17,viernes,"Fruta y verdura","Ensalada mezcla brotes tiernos",26
+2023-02-17,viernes,"Fruta y verdura","Ensalada mezcla brotes tiernos maxi",49
+2023-02-17,viernes,"Fruta y verdura","Ensalada mezcla dúo canónigos y rúcula",40
+2023-02-17,viernes,"Fruta y verdura","Ensalada mezcla fresca",32
+2023-02-17,viernes,"Fruta y verdura","Ensalada mezcla gourmet",48
+2023-02-17,viernes,"Fruta y verdura","Ensalada mezcla gourmet maxi",6
+2023-02-17,viernes,"Fruta y verdura","Ensalada mezcla primavera",22
+2023-02-17,viernes,"Fruta y verdura","Ensalada mezcla tierna",15
+2023-02-17,viernes,"Fruta y verdura","Ensalada mil islas",36
+2023-02-17,viernes,"Fruta y verdura","Ensalada queso de cabra",48
+2023-02-17,viernes,"Fruta y verdura","Escarola rizada",43
+2023-02-17,viernes,"Fruta y verdura","Escarola rizada base para ensalada",48
+2023-02-17,viernes,"Fruta y verdura","Espárrago verde fino",20
+2023-02-17,viernes,"Fruta y verdura","Espárrago verde grueso",37
+2023-02-17,viernes,"Fruta y verdura","Espinaca baby base para ensalada",25
+2023-02-17,viernes,"Fruta y verdura","Espinacas cortadas",45
+2023-02-17,viernes,"Fruta y verdura","Floretas de brócoli para micro",34
+2023-02-17,viernes,"Fruta y verdura",Frambuesas,8
+2023-02-17,viernes,"Fruta y verdura",Fresas,19
+2023-02-17,viernes,"Fruta y verdura","Guacamole Hacendado",63
+2023-02-17,viernes,"Fruta y verdura",Hierbabuena,21
+2023-02-17,viernes,"Fruta y verdura",Jengibre,10
+2023-02-17,viernes,"Fruta y verdura","Judía verde plana",50
+2023-02-17,viernes,"Fruta y verdura","Judía verde redonda",5
+2023-02-17,viernes,"Fruta y verdura","Kiwi verde",47
+2023-02-17,viernes,"Fruta y verdura","Kiwis amarillos",31
+2023-02-17,viernes,"Fruta y verdura","Kiwis verdes",26
+2023-02-17,viernes,"Fruta y verdura","Lechuga corazón romana",42
+2023-02-17,viernes,"Fruta y verdura","Lechuga hoja roble",40
+2023-02-17,viernes,"Fruta y verdura","Lechuga iceberg",26
+2023-02-17,viernes,"Fruta y verdura","Lechuga iceberg base para ensalada",44
+2023-02-17,viernes,"Fruta y verdura","Lechuga romana cortada",28
+2023-02-17,viernes,"Fruta y verdura","Lechugas corazón romana",46
+2023-02-17,viernes,"Fruta y verdura",Limas,48
+2023-02-17,viernes,"Fruta y verdura",Limón,33
+2023-02-17,viernes,"Fruta y verdura",Limones,30
+2023-02-17,viernes,"Fruta y verdura","Maíz dulce en mazorca",16
+2023-02-17,viernes,"Fruta y verdura","Maíz dulce en mazorca cocido",23
+2023-02-17,viernes,"Fruta y verdura",Mango,37
+2023-02-17,viernes,"Fruta y verdura","Manzana Crimson Snow",45
+2023-02-17,viernes,"Fruta y verdura","Manzana Golden",34
+2023-02-17,viernes,"Fruta y verdura","Manzana Granny Smith",10
+2023-02-17,viernes,"Fruta y verdura","Manzana Story",49
+2023-02-17,viernes,"Fruta y verdura","Manzanas Crimson Snow",8
+2023-02-17,viernes,"Fruta y verdura","Manzanas Golden",39
+2023-02-17,viernes,"Fruta y verdura","Media col lombarda",14
+2023-02-17,viernes,"Fruta y verdura","Media papaya",6
+2023-02-17,viernes,"Fruta y verdura","Media piña",16
+2023-02-17,viernes,"Fruta y verdura","Media sandía baja en semillas",34
+2023-02-17,viernes,"Fruta y verdura","Medio melón piel de sapo",38
+2023-02-17,viernes,"Fruta y verdura","Medio repollo liso",25
+2023-02-17,viernes,"Fruta y verdura","Medio repollo rizado",10
+2023-02-17,viernes,"Fruta y verdura","Melón piel de sapo",45
+2023-02-17,viernes,"Fruta y verdura","Mix de verduras jardinera para micro",9
+2023-02-17,viernes,"Fruta y verdura","Mix de verduras paisana para micro",39
+2023-02-17,viernes,"Fruta y verdura",Moras,6
+2023-02-17,viernes,"Fruta y verdura","Naranja para mesa",5
+2023-02-17,viernes,"Fruta y verdura",Naranjas,19
+2023-02-17,viernes,"Fruta y verdura","Nectarina pulpa blanca",42
+2023-02-17,viernes,"Fruta y verdura","Palitos de zanahoria",14
+2023-02-17,viernes,"Fruta y verdura",Papaya,50
+2023-02-17,viernes,"Fruta y verdura",Paraguayo,40
+2023-02-17,viernes,"Fruta y verdura",Patata,44
+2023-02-17,viernes,"Fruta y verdura","Patata para micro",48
+2023-02-17,viernes,"Fruta y verdura",Patatas,59
+2023-02-17,viernes,"Fruta y verdura","Patatas especial para freir",33
+2023-02-17,viernes,"Fruta y verdura","Patatas guarnición",18
+2023-02-17,viernes,"Fruta y verdura","Patatas rojas",13
+2023-02-17,viernes,"Fruta y verdura",Pepino,38
+2023-02-17,viernes,"Fruta y verdura","Pepino holandés",21
+2023-02-17,viernes,"Fruta y verdura",Pepinos,36
+2023-02-17,viernes,"Fruta y verdura","Pera Conferencia",12
+2023-02-17,viernes,"Fruta y verdura","Pera Ercolina",50
+2023-02-17,viernes,"Fruta y verdura","Peras Conferencia",41
+2023-02-17,viernes,"Fruta y verdura","Perejil troceado",37
+2023-02-17,viernes,"Fruta y verdura","Picada de ajo y Perejil",41
+2023-02-17,viernes,"Fruta y verdura","Pimiento rojo",22
+2023-02-17,viernes,"Fruta y verdura","Pimiento verde",27
+2023-02-17,viernes,"Fruta y verdura","Pimiento verde freír",37
+2023-02-17,viernes,"Fruta y verdura","Pimientos rojos picantes",22
+2023-02-17,viernes,"Fruta y verdura","Pimientos semipicantes",43
+2023-02-17,viernes,"Fruta y verdura","Pimientos tricolor rojo, amarillo y verde",37
+2023-02-17,viernes,"Fruta y verdura",Piña,26
+2023-02-17,viernes,"Fruta y verdura","Piña natural a rodajas",22
+2023-02-17,viernes,"Fruta y verdura","Plátano de Canarias",44
+2023-02-17,viernes,"Fruta y verdura","Plátano macho",36
+2023-02-17,viernes,"Fruta y verdura",Pomelo,9
+2023-02-17,viernes,"Fruta y verdura","Preparado de verdura para cocido",37
+2023-02-17,viernes,"Fruta y verdura",Puerros,23
+2023-02-17,viernes,"Fruta y verdura",Rabanitos,42
+2023-02-17,viernes,"Fruta y verdura","Rama de Tomates",37
+2023-02-17,viernes,"Fruta y verdura","Remolacha cocida y pelada",28
+2023-02-17,viernes,"Fruta y verdura","Repollo liso",30
+2023-02-17,viernes,"Fruta y verdura","Repollo rizado",38
+2023-02-17,viernes,"Fruta y verdura","Rúcula base para ensalada",24
+2023-02-17,viernes,"Fruta y verdura","Salteado de setas laminadas",45
+2023-02-17,viernes,"Fruta y verdura","Sandía baja en semillas",49
+2023-02-17,viernes,"Fruta y verdura",Seta,34
+2023-02-17,viernes,"Fruta y verdura","Seta laminada",47
+2023-02-17,viernes,"Fruta y verdura","Seta shiitake",12
+2023-02-17,viernes,"Fruta y verdura","Setas al plato con perejil",37
+2023-02-17,viernes,"Fruta y verdura","Sopa juliana para micro",35
+2023-02-17,viernes,"Fruta y verdura","Tomate canario",8
+2023-02-17,viernes,"Fruta y verdura","Tomate ensalada",64
+2023-02-17,viernes,"Fruta y verdura","Tomate kumato negro",40
+2023-02-17,viernes,"Fruta y verdura","Tomate pera",28
+2023-02-17,viernes,"Fruta y verdura","Tomate rallado",32
+2023-02-17,viernes,"Fruta y verdura","Tomate rosa",6
+2023-02-17,viernes,"Fruta y verdura",Tomates,21
+2023-02-17,viernes,"Fruta y verdura","Tomates cherry",26
+2023-02-17,viernes,"Fruta y verdura","Tomates cherry en rama Dulcita",31
+2023-02-17,viernes,"Fruta y verdura","Tomates cherry pera kumato",6
+2023-02-17,viernes,"Fruta y verdura","Tomates kumato negro",48
+2023-02-17,viernes,"Fruta y verdura","Tomates pera",29
+2023-02-17,viernes,"Fruta y verdura","Uva blanca sin semillas",37
+2023-02-17,viernes,"Fruta y verdura","Uva roja sin semillas",17
+2023-02-17,viernes,"Fruta y verdura","Wraps Texas",16
+2023-02-17,viernes,"Fruta y verdura",Yuca,47
+2023-02-17,viernes,"Fruta y verdura","Zanahoria rallada base para ensalada",6
+2023-02-17,viernes,"Fruta y verdura",Zanahorias,83
+2023-02-24,viernes,"Fruta y verdura","1/4 Sandía baja en semillas",5
+2023-02-24,viernes,"Fruta y verdura","3 Vegetales para micro",25
+2023-02-24,viernes,"Fruta y verdura","Acelgas cortadas",18
+2023-02-24,viernes,"Fruta y verdura",Aguacate,17
+2023-02-24,viernes,"Fruta y verdura",Aguacates,22
+2023-02-24,viernes,"Fruta y verdura","Ajo negro dientes pelados",14
+2023-02-24,viernes,"Fruta y verdura","Ajos morados",58
+2023-02-24,viernes,"Fruta y verdura",Albahaca,46
+2023-02-24,viernes,"Fruta y verdura",Albaricoque,31
+2023-02-24,viernes,"Fruta y verdura","Apio verde",19
+2023-02-24,viernes,"Fruta y verdura",Arándanos,38
+2023-02-24,viernes,"Fruta y verdura",Banana,5
+2023-02-24,viernes,"Fruta y verdura",Batata,43
+2023-02-24,viernes,"Fruta y verdura","Batata para micro",28
+2023-02-24,viernes,"Fruta y verdura",Berenjena,7
+2023-02-24,viernes,"Fruta y verdura",Bimi,16
+2023-02-24,viernes,"Fruta y verdura",Brócoli,26
+2023-02-24,viernes,"Fruta y verdura","Calabacín blanco",14
+2023-02-24,viernes,"Fruta y verdura","Calabacín verde",35
+2023-02-24,viernes,"Fruta y verdura","Calabaza cacahuete cortada a trozos",20
+2023-02-24,viernes,"Fruta y verdura","Canónigos base para ensalada",6
+2023-02-24,viernes,"Fruta y verdura",Cebollas,41
+2023-02-24,viernes,"Fruta y verdura","Cebollas dulces",38
+2023-02-24,viernes,"Fruta y verdura","Cebollas rojas",24
+2023-02-24,viernes,"Fruta y verdura","Cebollas tiernas",37
+2023-02-24,viernes,"Fruta y verdura",Cebollino,6
+2023-02-24,viernes,"Fruta y verdura",Cereza,65
+2023-02-24,viernes,"Fruta y verdura","Champiñón grande",33
+2023-02-24,viernes,"Fruta y verdura","Champiñón laminado limpio",28
+2023-02-24,viernes,"Fruta y verdura","Champiñón pequeño",25
+2023-02-24,viernes,"Fruta y verdura","Champiñón Portobello",18
+2023-02-24,viernes,"Fruta y verdura",Cilantro,39
+2023-02-24,viernes,"Fruta y verdura","Ciruela roja",22
+2023-02-24,viernes,"Fruta y verdura","Cogollos corazón de lechuga",30
+2023-02-24,viernes,"Fruta y verdura","Cogollos de lechuga",29
+2023-02-24,viernes,"Fruta y verdura","Col lombarda",35
+2023-02-24,viernes,"Fruta y verdura",Coliflor,14
+2023-02-24,viernes,"Fruta y verdura",Endibias,47
+2023-02-24,viernes,"Fruta y verdura","Ensalada California",39
+2023-02-24,viernes,"Fruta y verdura","Ensalada César",17
+2023-02-24,viernes,"Fruta y verdura","Ensalada de la casa",14
+2023-02-24,viernes,"Fruta y verdura","Ensalada de pasta",45
+2023-02-24,viernes,"Fruta y verdura","Ensalada de pasta Listo para Comer",15
+2023-02-24,viernes,"Fruta y verdura","Ensalada ensatún",47
+2023-02-24,viernes,"Fruta y verdura","Ensalada jamón",23
+2023-02-24,viernes,"Fruta y verdura","Ensalada mezcla 4 estaciones",24
+2023-02-24,viernes,"Fruta y verdura","Ensalada mezcla brotes tiernos",37
+2023-02-24,viernes,"Fruta y verdura","Ensalada mezcla brotes tiernos maxi",10
+2023-02-24,viernes,"Fruta y verdura","Ensalada mezcla dúo canónigos y rúcula",17
+2023-02-24,viernes,"Fruta y verdura","Ensalada mezcla fresca",43
+2023-02-24,viernes,"Fruta y verdura","Ensalada mezcla gourmet",21
+2023-02-24,viernes,"Fruta y verdura","Ensalada mezcla gourmet maxi",31
+2023-02-24,viernes,"Fruta y verdura","Ensalada mezcla primavera",8
+2023-02-24,viernes,"Fruta y verdura","Ensalada mezcla tierna",15
+2023-02-24,viernes,"Fruta y verdura","Ensalada mil islas",43
+2023-02-24,viernes,"Fruta y verdura","Ensalada queso de cabra",40
+2023-02-24,viernes,"Fruta y verdura","Escarola rizada",34
+2023-02-24,viernes,"Fruta y verdura","Escarola rizada base para ensalada",11
+2023-02-24,viernes,"Fruta y verdura","Espárrago verde fino",11
+2023-02-24,viernes,"Fruta y verdura","Espárrago verde grueso",19
+2023-02-24,viernes,"Fruta y verdura","Espinaca baby base para ensalada",34
+2023-02-24,viernes,"Fruta y verdura","Espinacas cortadas",24
+2023-02-24,viernes,"Fruta y verdura","Floretas de brócoli para micro",25
+2023-02-24,viernes,"Fruta y verdura",Frambuesas,21
+2023-02-24,viernes,"Fruta y verdura",Fresas,6
+2023-02-24,viernes,"Fruta y verdura","Guacamole Hacendado",75
+2023-02-24,viernes,"Fruta y verdura",Hierbabuena,27
+2023-02-24,viernes,"Fruta y verdura",Jengibre,31
+2023-02-24,viernes,"Fruta y verdura","Judía verde plana",67
+2023-02-24,viernes,"Fruta y verdura","Judía verde redonda",22
+2023-02-24,viernes,"Fruta y verdura","Kiwi verde",18
+2023-02-24,viernes,"Fruta y verdura","Kiwis amarillos",6
+2023-02-24,viernes,"Fruta y verdura","Kiwis verdes",41
+2023-02-24,viernes,"Fruta y verdura","Lechuga corazón romana",32
+2023-02-24,viernes,"Fruta y verdura","Lechuga hoja roble",10
+2023-02-24,viernes,"Fruta y verdura","Lechuga iceberg",37
+2023-02-24,viernes,"Fruta y verdura","Lechuga iceberg base para ensalada",48
+2023-02-24,viernes,"Fruta y verdura","Lechuga romana cortada",33
+2023-02-24,viernes,"Fruta y verdura","Lechugas corazón romana",41
+2023-02-24,viernes,"Fruta y verdura",Limas,18
+2023-02-24,viernes,"Fruta y verdura",Limón,41
+2023-02-24,viernes,"Fruta y verdura",Limones,23
+2023-02-24,viernes,"Fruta y verdura","Maíz dulce en mazorca",27
+2023-02-24,viernes,"Fruta y verdura","Maíz dulce en mazorca cocido",43
+2023-02-24,viernes,"Fruta y verdura",Mango,13
+2023-02-24,viernes,"Fruta y verdura","Manzana Crimson Snow",33
+2023-02-24,viernes,"Fruta y verdura","Manzana Golden",49
+2023-02-24,viernes,"Fruta y verdura","Manzana Granny Smith",17
+2023-02-24,viernes,"Fruta y verdura","Manzana Story",15
+2023-02-24,viernes,"Fruta y verdura","Manzanas Crimson Snow",30
+2023-02-24,viernes,"Fruta y verdura","Manzanas Golden",43
+2023-02-24,viernes,"Fruta y verdura","Media col lombarda",23
+2023-02-24,viernes,"Fruta y verdura","Media papaya",11
+2023-02-24,viernes,"Fruta y verdura","Media piña",9
+2023-02-24,viernes,"Fruta y verdura","Media sandía baja en semillas",44
+2023-02-24,viernes,"Fruta y verdura","Medio melón piel de sapo",12
+2023-02-24,viernes,"Fruta y verdura","Medio repollo liso",23
+2023-02-24,viernes,"Fruta y verdura","Medio repollo rizado",22
+2023-02-24,viernes,"Fruta y verdura","Melón piel de sapo",24
+2023-02-24,viernes,"Fruta y verdura","Mix de verduras jardinera para micro",47
+2023-02-24,viernes,"Fruta y verdura","Mix de verduras paisana para micro",17
+2023-02-24,viernes,"Fruta y verdura",Moras,19
+2023-02-24,viernes,"Fruta y verdura","Naranja para mesa",25
+2023-02-24,viernes,"Fruta y verdura",Naranjas,56
+2023-02-24,viernes,"Fruta y verdura","Nectarina pulpa blanca",15
+2023-02-24,viernes,"Fruta y verdura","Palitos de zanahoria",26
+2023-02-24,viernes,"Fruta y verdura",Papaya,40
+2023-02-24,viernes,"Fruta y verdura",Paraguayo,23
+2023-02-24,viernes,"Fruta y verdura",Patata,22
+2023-02-24,viernes,"Fruta y verdura","Patata para micro",9
+2023-02-24,viernes,"Fruta y verdura",Patatas,54
+2023-02-24,viernes,"Fruta y verdura","Patatas especial para freir",30
+2023-02-24,viernes,"Fruta y verdura","Patatas guarnición",26
+2023-02-24,viernes,"Fruta y verdura","Patatas rojas",48
+2023-02-24,viernes,"Fruta y verdura",Pepino,25
+2023-02-24,viernes,"Fruta y verdura","Pepino holandés",22
+2023-02-24,viernes,"Fruta y verdura",Pepinos,29
+2023-02-24,viernes,"Fruta y verdura","Pera Conferencia",16
+2023-02-24,viernes,"Fruta y verdura","Pera Ercolina",42
+2023-02-24,viernes,"Fruta y verdura","Peras Conferencia",22
+2023-02-24,viernes,"Fruta y verdura","Perejil troceado",11
+2023-02-24,viernes,"Fruta y verdura","Picada de ajo y Perejil",28
+2023-02-24,viernes,"Fruta y verdura","Pimiento rojo",22
+2023-02-24,viernes,"Fruta y verdura","Pimiento verde",37
+2023-02-24,viernes,"Fruta y verdura","Pimiento verde freír",10
+2023-02-24,viernes,"Fruta y verdura","Pimientos rojos picantes",6
+2023-02-24,viernes,"Fruta y verdura","Pimientos semipicantes",34
+2023-02-24,viernes,"Fruta y verdura","Pimientos tricolor rojo, amarillo y verde",19
+2023-02-24,viernes,"Fruta y verdura",Piña,41
+2023-02-24,viernes,"Fruta y verdura","Piña natural a rodajas",14
+2023-02-24,viernes,"Fruta y verdura","Plátano de Canarias",35
+2023-02-24,viernes,"Fruta y verdura","Plátano macho",20
+2023-02-24,viernes,"Fruta y verdura",Pomelo,5
+2023-02-24,viernes,"Fruta y verdura","Preparado de verdura para cocido",40
+2023-02-24,viernes,"Fruta y verdura",Puerros,19
+2023-02-24,viernes,"Fruta y verdura",Rabanitos,12
+2023-02-24,viernes,"Fruta y verdura","Rama de Tomates",31
+2023-02-24,viernes,"Fruta y verdura","Remolacha cocida y pelada",20
+2023-02-24,viernes,"Fruta y verdura","Repollo liso",34
+2023-02-24,viernes,"Fruta y verdura","Repollo rizado",11
+2023-02-24,viernes,"Fruta y verdura","Rúcula base para ensalada",8
+2023-02-24,viernes,"Fruta y verdura","Salteado de setas laminadas",40
+2023-02-24,viernes,"Fruta y verdura","Sandía baja en semillas",5
+2023-02-24,viernes,"Fruta y verdura",Seta,29
+2023-02-24,viernes,"Fruta y verdura","Seta laminada",43
+2023-02-24,viernes,"Fruta y verdura","Seta shiitake",14
+2023-02-24,viernes,"Fruta y verdura","Setas al plato con perejil",25
+2023-02-24,viernes,"Fruta y verdura","Sopa juliana para micro",48
+2023-02-24,viernes,"Fruta y verdura","Tomate canario",44
+2023-02-24,viernes,"Fruta y verdura","Tomate ensalada",36
+2023-02-24,viernes,"Fruta y verdura","Tomate kumato negro",49
+2023-02-24,viernes,"Fruta y verdura","Tomate pera",6
+2023-02-24,viernes,"Fruta y verdura","Tomate rallado",26
+2023-02-24,viernes,"Fruta y verdura","Tomate rosa",34
+2023-02-24,viernes,"Fruta y verdura",Tomates,9
+2023-02-24,viernes,"Fruta y verdura","Tomates cherry",28
+2023-02-24,viernes,"Fruta y verdura","Tomates cherry en rama Dulcita",8
+2023-02-24,viernes,"Fruta y verdura","Tomates cherry pera kumato",25
+2023-02-24,viernes,"Fruta y verdura","Tomates kumato negro",6
+2023-02-24,viernes,"Fruta y verdura","Tomates pera",46
+2023-02-24,viernes,"Fruta y verdura","Uva blanca sin semillas",44
+2023-02-24,viernes,"Fruta y verdura","Uva roja sin semillas",8
+2023-02-24,viernes,"Fruta y verdura","Wraps Texas",26
+2023-02-24,viernes,"Fruta y verdura",Yuca,7
+2023-02-24,viernes,"Fruta y verdura","Zanahoria rallada base para ensalada",14
+2023-02-24,viernes,"Fruta y verdura",Zanahorias,24
+2023-03-03,viernes,"Fruta y verdura","1/4 Sandía baja en semillas",42
+2023-03-03,viernes,"Fruta y verdura","3 Vegetales para micro",31
+2023-03-03,viernes,"Fruta y verdura","Acelgas cortadas",44
+2023-03-03,viernes,"Fruta y verdura",Aguacate,11
+2023-03-03,viernes,"Fruta y verdura",Aguacates,8
+2023-03-03,viernes,"Fruta y verdura","Ajo negro dientes pelados",5
+2023-03-03,viernes,"Fruta y verdura","Ajos morados",52
+2023-03-03,viernes,"Fruta y verdura",Albahaca,21
+2023-03-03,viernes,"Fruta y verdura",Albaricoque,8
+2023-03-03,viernes,"Fruta y verdura","Apio verde",35
+2023-03-03,viernes,"Fruta y verdura",Arándanos,6
+2023-03-03,viernes,"Fruta y verdura",Banana,39
+2023-03-03,viernes,"Fruta y verdura",Batata,8
+2023-03-03,viernes,"Fruta y verdura","Batata para micro",20
+2023-03-03,viernes,"Fruta y verdura",Berenjena,37
+2023-03-03,viernes,"Fruta y verdura",Bimi,38
+2023-03-03,viernes,"Fruta y verdura",Brócoli,49
+2023-03-03,viernes,"Fruta y verdura","Calabacín blanco",37
+2023-03-03,viernes,"Fruta y verdura","Calabacín verde",12
+2023-03-03,viernes,"Fruta y verdura","Calabaza cacahuete cortada a trozos",14
+2023-03-03,viernes,"Fruta y verdura","Canónigos base para ensalada",39
+2023-03-03,viernes,"Fruta y verdura",Cebollas,52
+2023-03-03,viernes,"Fruta y verdura","Cebollas dulces",49
+2023-03-03,viernes,"Fruta y verdura","Cebollas rojas",47
+2023-03-03,viernes,"Fruta y verdura","Cebollas tiernas",39
+2023-03-03,viernes,"Fruta y verdura",Cebollino,44
+2023-03-03,viernes,"Fruta y verdura",Cereza,28
+2023-03-03,viernes,"Fruta y verdura","Champiñón grande",30
+2023-03-03,viernes,"Fruta y verdura","Champiñón laminado limpio",46
+2023-03-03,viernes,"Fruta y verdura","Champiñón pequeño",31
+2023-03-03,viernes,"Fruta y verdura","Champiñón Portobello",16
+2023-03-03,viernes,"Fruta y verdura",Cilantro,42
+2023-03-03,viernes,"Fruta y verdura","Ciruela roja",11
+2023-03-03,viernes,"Fruta y verdura","Cogollos corazón de lechuga",47
+2023-03-03,viernes,"Fruta y verdura","Cogollos de lechuga",14
+2023-03-03,viernes,"Fruta y verdura","Col lombarda",44
+2023-03-03,viernes,"Fruta y verdura",Coliflor,46
+2023-03-03,viernes,"Fruta y verdura",Endibias,49
+2023-03-03,viernes,"Fruta y verdura","Ensalada California",18
+2023-03-03,viernes,"Fruta y verdura","Ensalada César",49
+2023-03-03,viernes,"Fruta y verdura","Ensalada de la casa",23
+2023-03-03,viernes,"Fruta y verdura","Ensalada de pasta",43
+2023-03-03,viernes,"Fruta y verdura","Ensalada de pasta Listo para Comer",11
+2023-03-03,viernes,"Fruta y verdura","Ensalada ensatún",13
+2023-03-03,viernes,"Fruta y verdura","Ensalada jamón",45
+2023-03-03,viernes,"Fruta y verdura","Ensalada mezcla 4 estaciones",24
+2023-03-03,viernes,"Fruta y verdura","Ensalada mezcla brotes tiernos",22
+2023-03-03,viernes,"Fruta y verdura","Ensalada mezcla brotes tiernos maxi",11
+2023-03-03,viernes,"Fruta y verdura","Ensalada mezcla dúo canónigos y rúcula",28
+2023-03-03,viernes,"Fruta y verdura","Ensalada mezcla fresca",48
+2023-03-03,viernes,"Fruta y verdura","Ensalada mezcla gourmet",40
+2023-03-03,viernes,"Fruta y verdura","Ensalada mezcla gourmet maxi",30
+2023-03-03,viernes,"Fruta y verdura","Ensalada mezcla primavera",45
+2023-03-03,viernes,"Fruta y verdura","Ensalada mezcla tierna",27
+2023-03-03,viernes,"Fruta y verdura","Ensalada mil islas",28
+2023-03-03,viernes,"Fruta y verdura","Ensalada queso de cabra",29
+2023-03-03,viernes,"Fruta y verdura","Escarola rizada",33
+2023-03-03,viernes,"Fruta y verdura","Escarola rizada base para ensalada",18
+2023-03-03,viernes,"Fruta y verdura","Espárrago verde fino",13
+2023-03-03,viernes,"Fruta y verdura","Espárrago verde grueso",20
+2023-03-03,viernes,"Fruta y verdura","Espinaca baby base para ensalada",16
+2023-03-03,viernes,"Fruta y verdura","Espinacas cortadas",14
+2023-03-03,viernes,"Fruta y verdura","Floretas de brócoli para micro",19
+2023-03-03,viernes,"Fruta y verdura",Frambuesas,40
+2023-03-03,viernes,"Fruta y verdura",Fresas,48
+2023-03-03,viernes,"Fruta y verdura","Guacamole Hacendado",79
+2023-03-03,viernes,"Fruta y verdura",Hierbabuena,28
+2023-03-03,viernes,"Fruta y verdura",Jengibre,50
+2023-03-03,viernes,"Fruta y verdura","Judía verde plana",64
+2023-03-03,viernes,"Fruta y verdura","Judía verde redonda",34
+2023-03-03,viernes,"Fruta y verdura","Kiwi verde",25
+2023-03-03,viernes,"Fruta y verdura","Kiwis amarillos",6
+2023-03-03,viernes,"Fruta y verdura","Kiwis verdes",37
+2023-03-03,viernes,"Fruta y verdura","Lechuga corazón romana",40
+2023-03-03,viernes,"Fruta y verdura","Lechuga hoja roble",45
+2023-03-03,viernes,"Fruta y verdura","Lechuga iceberg",43
+2023-03-03,viernes,"Fruta y verdura","Lechuga iceberg base para ensalada",38
+2023-03-03,viernes,"Fruta y verdura","Lechuga romana cortada",25
+2023-03-03,viernes,"Fruta y verdura","Lechugas corazón romana",35
+2023-03-03,viernes,"Fruta y verdura",Limas,43
+2023-03-03,viernes,"Fruta y verdura",Limón,28
+2023-03-03,viernes,"Fruta y verdura",Limones,50
+2023-03-03,viernes,"Fruta y verdura","Maíz dulce en mazorca",25
+2023-03-03,viernes,"Fruta y verdura","Maíz dulce en mazorca cocido",42
+2023-03-03,viernes,"Fruta y verdura",Mango,36
+2023-03-03,viernes,"Fruta y verdura","Manzana Crimson Snow",15
+2023-03-03,viernes,"Fruta y verdura","Manzana Golden",40
+2023-03-03,viernes,"Fruta y verdura","Manzana Granny Smith",28
+2023-03-03,viernes,"Fruta y verdura","Manzana Story",11
+2023-03-03,viernes,"Fruta y verdura","Manzanas Crimson Snow",7
+2023-03-03,viernes,"Fruta y verdura","Manzanas Golden",25
+2023-03-03,viernes,"Fruta y verdura","Media col lombarda",29
+2023-03-03,viernes,"Fruta y verdura","Media papaya",20
+2023-03-03,viernes,"Fruta y verdura","Media piña",12
+2023-03-03,viernes,"Fruta y verdura","Media sandía baja en semillas",16
+2023-03-03,viernes,"Fruta y verdura","Medio melón piel de sapo",29
+2023-03-03,viernes,"Fruta y verdura","Medio repollo liso",37
+2023-03-03,viernes,"Fruta y verdura","Medio repollo rizado",16
+2023-03-03,viernes,"Fruta y verdura","Melón piel de sapo",35
+2023-03-03,viernes,"Fruta y verdura","Mix de verduras jardinera para micro",31
+2023-03-03,viernes,"Fruta y verdura","Mix de verduras paisana para micro",18
+2023-03-03,viernes,"Fruta y verdura",Moras,20
+2023-03-03,viernes,"Fruta y verdura","Naranja para mesa",15
+2023-03-03,viernes,"Fruta y verdura",Naranjas,47
+2023-03-03,viernes,"Fruta y verdura","Nectarina pulpa blanca",39
+2023-03-03,viernes,"Fruta y verdura","Palitos de zanahoria",7
+2023-03-03,viernes,"Fruta y verdura",Papaya,13
+2023-03-03,viernes,"Fruta y verdura",Paraguayo,10
+2023-03-03,viernes,"Fruta y verdura",Patata,32
+2023-03-03,viernes,"Fruta y verdura","Patata para micro",26
+2023-03-03,viernes,"Fruta y verdura",Patatas,60
+2023-03-03,viernes,"Fruta y verdura","Patatas especial para freir",12
+2023-03-03,viernes,"Fruta y verdura","Patatas guarnición",44
+2023-03-03,viernes,"Fruta y verdura","Patatas rojas",38
+2023-03-03,viernes,"Fruta y verdura",Pepino,46
+2023-03-03,viernes,"Fruta y verdura","Pepino holandés",47
+2023-03-03,viernes,"Fruta y verdura",Pepinos,38
+2023-03-03,viernes,"Fruta y verdura","Pera Conferencia",47
+2023-03-03,viernes,"Fruta y verdura","Pera Ercolina",6
+2023-03-03,viernes,"Fruta y verdura","Peras Conferencia",43
+2023-03-03,viernes,"Fruta y verdura","Perejil troceado",31
+2023-03-03,viernes,"Fruta y verdura","Picada de ajo y Perejil",34
+2023-03-03,viernes,"Fruta y verdura","Pimiento rojo",27
+2023-03-03,viernes,"Fruta y verdura","Pimiento verde",48
+2023-03-03,viernes,"Fruta y verdura","Pimiento verde freír",43
+2023-03-03,viernes,"Fruta y verdura","Pimientos rojos picantes",8
+2023-03-03,viernes,"Fruta y verdura","Pimientos semipicantes",27
+2023-03-03,viernes,"Fruta y verdura","Pimientos tricolor rojo, amarillo y verde",45
+2023-03-03,viernes,"Fruta y verdura",Piña,10
+2023-03-03,viernes,"Fruta y verdura","Piña natural a rodajas",45
+2023-03-03,viernes,"Fruta y verdura","Plátano de Canarias",29
+2023-03-03,viernes,"Fruta y verdura","Plátano macho",24
+2023-03-03,viernes,"Fruta y verdura",Pomelo,38
+2023-03-03,viernes,"Fruta y verdura","Preparado de verdura para cocido",10
+2023-03-03,viernes,"Fruta y verdura",Puerros,16
+2023-03-03,viernes,"Fruta y verdura",Rabanitos,11
+2023-03-03,viernes,"Fruta y verdura","Rama de Tomates",35
+2023-03-03,viernes,"Fruta y verdura","Remolacha cocida y pelada",7
+2023-03-03,viernes,"Fruta y verdura","Repollo liso",29
+2023-03-03,viernes,"Fruta y verdura","Repollo rizado",8
+2023-03-03,viernes,"Fruta y verdura","Rúcula base para ensalada",48
+2023-03-03,viernes,"Fruta y verdura","Salteado de setas laminadas",33
+2023-03-03,viernes,"Fruta y verdura","Sandía baja en semillas",34
+2023-03-03,viernes,"Fruta y verdura",Seta,31
+2023-03-03,viernes,"Fruta y verdura","Seta laminada",7
+2023-03-03,viernes,"Fruta y verdura","Seta shiitake",30
+2023-03-03,viernes,"Fruta y verdura","Setas al plato con perejil",8
+2023-03-03,viernes,"Fruta y verdura","Sopa juliana para micro",27
+2023-03-03,viernes,"Fruta y verdura","Tomate canario",13
+2023-03-03,viernes,"Fruta y verdura","Tomate ensalada",43
+2023-03-03,viernes,"Fruta y verdura","Tomate kumato negro",15
+2023-03-03,viernes,"Fruta y verdura","Tomate pera",18
+2023-03-03,viernes,"Fruta y verdura","Tomate rallado",14
+2023-03-03,viernes,"Fruta y verdura","Tomate rosa",20
+2023-03-03,viernes,"Fruta y verdura",Tomates,30
+2023-03-03,viernes,"Fruta y verdura","Tomates cherry",42
+2023-03-03,viernes,"Fruta y verdura","Tomates cherry en rama Dulcita",22
+2023-03-03,viernes,"Fruta y verdura","Tomates cherry pera kumato",13
+2023-03-03,viernes,"Fruta y verdura","Tomates kumato negro",30
+2023-03-03,viernes,"Fruta y verdura","Tomates pera",24
+2023-03-03,viernes,"Fruta y verdura","Uva blanca sin semillas",49
+2023-03-03,viernes,"Fruta y verdura","Uva roja sin semillas",41
+2023-03-03,viernes,"Fruta y verdura","Wraps Texas",43
+2023-03-03,viernes,"Fruta y verdura",Yuca,18
+2023-03-03,viernes,"Fruta y verdura","Zanahoria rallada base para ensalada",33
+2023-03-03,viernes,"Fruta y verdura",Zanahorias,72
+2023-03-10,viernes,"Fruta y verdura","1/4 Sandía baja en semillas",18
+2023-03-10,viernes,"Fruta y verdura","3 Vegetales para micro",40
+2023-03-10,viernes,"Fruta y verdura","Acelgas cortadas",33
+2023-03-10,viernes,"Fruta y verdura",Aguacate,16
+2023-03-10,viernes,"Fruta y verdura",Aguacates,14
+2023-03-10,viernes,"Fruta y verdura","Ajo negro dientes pelados",24
+2023-03-10,viernes,"Fruta y verdura","Ajos morados",64
+2023-03-10,viernes,"Fruta y verdura",Albahaca,19
+2023-03-10,viernes,"Fruta y verdura",Albaricoque,39
+2023-03-10,viernes,"Fruta y verdura","Apio verde",49
+2023-03-10,viernes,"Fruta y verdura",Arándanos,26
+2023-03-10,viernes,"Fruta y verdura",Banana,50
+2023-03-10,viernes,"Fruta y verdura",Batata,45
+2023-03-10,viernes,"Fruta y verdura","Batata para micro",23
+2023-03-10,viernes,"Fruta y verdura",Berenjena,20
+2023-03-10,viernes,"Fruta y verdura",Bimi,38
+2023-03-10,viernes,"Fruta y verdura",Brócoli,22
+2023-03-10,viernes,"Fruta y verdura","Calabacín blanco",7
+2023-03-10,viernes,"Fruta y verdura","Calabacín verde",38
+2023-03-10,viernes,"Fruta y verdura","Calabaza cacahuete cortada a trozos",45
+2023-03-10,viernes,"Fruta y verdura","Canónigos base para ensalada",21
+2023-03-10,viernes,"Fruta y verdura",Cebollas,25
+2023-03-10,viernes,"Fruta y verdura","Cebollas dulces",45
+2023-03-10,viernes,"Fruta y verdura","Cebollas rojas",11
+2023-03-10,viernes,"Fruta y verdura","Cebollas tiernas",27
+2023-03-10,viernes,"Fruta y verdura",Cebollino,25
+2023-03-10,viernes,"Fruta y verdura",Cereza,22
+2023-03-10,viernes,"Fruta y verdura","Champiñón grande",19
+2023-03-10,viernes,"Fruta y verdura","Champiñón laminado limpio",34
+2023-03-10,viernes,"Fruta y verdura","Champiñón pequeño",23
+2023-03-10,viernes,"Fruta y verdura","Champiñón Portobello",22
+2023-03-10,viernes,"Fruta y verdura",Cilantro,20
+2023-03-10,viernes,"Fruta y verdura","Ciruela roja",33
+2023-03-10,viernes,"Fruta y verdura","Cogollos corazón de lechuga",50
+2023-03-10,viernes,"Fruta y verdura","Cogollos de lechuga",29
+2023-03-10,viernes,"Fruta y verdura","Col lombarda",42
+2023-03-10,viernes,"Fruta y verdura",Coliflor,47
+2023-03-10,viernes,"Fruta y verdura",Endibias,28
+2023-03-10,viernes,"Fruta y verdura","Ensalada California",9
+2023-03-10,viernes,"Fruta y verdura","Ensalada César",10
+2023-03-10,viernes,"Fruta y verdura","Ensalada de la casa",49
+2023-03-10,viernes,"Fruta y verdura","Ensalada de pasta",32
+2023-03-10,viernes,"Fruta y verdura","Ensalada de pasta Listo para Comer",10
+2023-03-10,viernes,"Fruta y verdura","Ensalada ensatún",37
+2023-03-10,viernes,"Fruta y verdura","Ensalada jamón",43
+2023-03-10,viernes,"Fruta y verdura","Ensalada mezcla 4 estaciones",17
+2023-03-10,viernes,"Fruta y verdura","Ensalada mezcla brotes tiernos",34
+2023-03-10,viernes,"Fruta y verdura","Ensalada mezcla brotes tiernos maxi",13
+2023-03-10,viernes,"Fruta y verdura","Ensalada mezcla dúo canónigos y rúcula",24
+2023-03-10,viernes,"Fruta y verdura","Ensalada mezcla fresca",32
+2023-03-10,viernes,"Fruta y verdura","Ensalada mezcla gourmet",47
+2023-03-10,viernes,"Fruta y verdura","Ensalada mezcla gourmet maxi",11
+2023-03-10,viernes,"Fruta y verdura","Ensalada mezcla primavera",11
+2023-03-10,viernes,"Fruta y verdura","Ensalada mezcla tierna",34
+2023-03-10,viernes,"Fruta y verdura","Ensalada mil islas",40
+2023-03-10,viernes,"Fruta y verdura","Ensalada queso de cabra",25
+2023-03-10,viernes,"Fruta y verdura","Escarola rizada",6
+2023-03-10,viernes,"Fruta y verdura","Escarola rizada base para ensalada",43
+2023-03-10,viernes,"Fruta y verdura","Espárrago verde fino",35
+2023-03-10,viernes,"Fruta y verdura","Espárrago verde grueso",50
+2023-03-10,viernes,"Fruta y verdura","Espinaca baby base para ensalada",32
+2023-03-10,viernes,"Fruta y verdura","Espinacas cortadas",8
+2023-03-10,viernes,"Fruta y verdura","Floretas de brócoli para micro",14
+2023-03-10,viernes,"Fruta y verdura",Frambuesas,50
+2023-03-10,viernes,"Fruta y verdura",Fresas,10
+2023-03-10,viernes,"Fruta y verdura","Guacamole Hacendado",63
+2023-03-10,viernes,"Fruta y verdura",Hierbabuena,26
+2023-03-10,viernes,"Fruta y verdura",Jengibre,16
+2023-03-10,viernes,"Fruta y verdura","Judía verde plana",52
+2023-03-10,viernes,"Fruta y verdura","Judía verde redonda",44
+2023-03-10,viernes,"Fruta y verdura","Kiwi verde",26
+2023-03-10,viernes,"Fruta y verdura","Kiwis amarillos",21
+2023-03-10,viernes,"Fruta y verdura","Kiwis verdes",20
+2023-03-10,viernes,"Fruta y verdura","Lechuga corazón romana",47
+2023-03-10,viernes,"Fruta y verdura","Lechuga hoja roble",25
+2023-03-10,viernes,"Fruta y verdura","Lechuga iceberg",31
+2023-03-10,viernes,"Fruta y verdura","Lechuga iceberg base para ensalada",11
+2023-03-10,viernes,"Fruta y verdura","Lechuga romana cortada",29
+2023-03-10,viernes,"Fruta y verdura","Lechugas corazón romana",5
+2023-03-10,viernes,"Fruta y verdura",Limas,20
+2023-03-10,viernes,"Fruta y verdura",Limón,21
+2023-03-10,viernes,"Fruta y verdura",Limones,20
+2023-03-10,viernes,"Fruta y verdura","Maíz dulce en mazorca",9
+2023-03-10,viernes,"Fruta y verdura","Maíz dulce en mazorca cocido",48
+2023-03-10,viernes,"Fruta y verdura",Mango,22
+2023-03-10,viernes,"Fruta y verdura","Manzana Crimson Snow",7
+2023-03-10,viernes,"Fruta y verdura","Manzana Golden",48
+2023-03-10,viernes,"Fruta y verdura","Manzana Granny Smith",19
+2023-03-10,viernes,"Fruta y verdura","Manzana Story",35
+2023-03-10,viernes,"Fruta y verdura","Manzanas Crimson Snow",38
+2023-03-10,viernes,"Fruta y verdura","Manzanas Golden",29
+2023-03-10,viernes,"Fruta y verdura","Media col lombarda",27
+2023-03-10,viernes,"Fruta y verdura","Media papaya",8
+2023-03-10,viernes,"Fruta y verdura","Media piña",44
+2023-03-10,viernes,"Fruta y verdura","Media sandía baja en semillas",46
+2023-03-10,viernes,"Fruta y verdura","Medio melón piel de sapo",32
+2023-03-10,viernes,"Fruta y verdura","Medio repollo liso",47
+2023-03-10,viernes,"Fruta y verdura","Medio repollo rizado",31
+2023-03-10,viernes,"Fruta y verdura","Melón piel de sapo",31
+2023-03-10,viernes,"Fruta y verdura","Mix de verduras jardinera para micro",48
+2023-03-10,viernes,"Fruta y verdura","Mix de verduras paisana para micro",11
+2023-03-10,viernes,"Fruta y verdura",Moras,11
+2023-03-10,viernes,"Fruta y verdura","Naranja para mesa",12
+2023-03-10,viernes,"Fruta y verdura",Naranjas,62
+2023-03-10,viernes,"Fruta y verdura","Nectarina pulpa blanca",20
+2023-03-10,viernes,"Fruta y verdura","Palitos de zanahoria",11
+2023-03-10,viernes,"Fruta y verdura",Papaya,13
+2023-03-10,viernes,"Fruta y verdura",Paraguayo,13
+2023-03-10,viernes,"Fruta y verdura",Patata,6
+2023-03-10,viernes,"Fruta y verdura","Patata para micro",28
+2023-03-10,viernes,"Fruta y verdura",Patatas,64
+2023-03-10,viernes,"Fruta y verdura","Patatas especial para freir",6
+2023-03-10,viernes,"Fruta y verdura","Patatas guarnición",41
+2023-03-10,viernes,"Fruta y verdura","Patatas rojas",38
+2023-03-10,viernes,"Fruta y verdura",Pepino,18
+2023-03-10,viernes,"Fruta y verdura","Pepino holandés",14
+2023-03-10,viernes,"Fruta y verdura",Pepinos,13
+2023-03-10,viernes,"Fruta y verdura","Pera Conferencia",43
+2023-03-10,viernes,"Fruta y verdura","Pera Ercolina",31
+2023-03-10,viernes,"Fruta y verdura","Peras Conferencia",50
+2023-03-10,viernes,"Fruta y verdura","Perejil troceado",25
+2023-03-10,viernes,"Fruta y verdura","Picada de ajo y Perejil",22
+2023-03-10,viernes,"Fruta y verdura","Pimiento rojo",28
+2023-03-10,viernes,"Fruta y verdura","Pimiento verde",23
+2023-03-10,viernes,"Fruta y verdura","Pimiento verde freír",34
+2023-03-10,viernes,"Fruta y verdura","Pimientos rojos picantes",27
+2023-03-10,viernes,"Fruta y verdura","Pimientos semipicantes",11
+2023-03-10,viernes,"Fruta y verdura","Pimientos tricolor rojo, amarillo y verde",26
+2023-03-10,viernes,"Fruta y verdura",Piña,48
+2023-03-10,viernes,"Fruta y verdura","Piña natural a rodajas",45
+2023-03-10,viernes,"Fruta y verdura","Plátano de Canarias",16
+2023-03-10,viernes,"Fruta y verdura","Plátano macho",14
+2023-03-10,viernes,"Fruta y verdura",Pomelo,29
+2023-03-10,viernes,"Fruta y verdura","Preparado de verdura para cocido",22
+2023-03-10,viernes,"Fruta y verdura",Puerros,21
+2023-03-10,viernes,"Fruta y verdura",Rabanitos,39
+2023-03-10,viernes,"Fruta y verdura","Rama de Tomates",43
+2023-03-10,viernes,"Fruta y verdura","Remolacha cocida y pelada",26
+2023-03-10,viernes,"Fruta y verdura","Repollo liso",20
+2023-03-10,viernes,"Fruta y verdura","Repollo rizado",28
+2023-03-10,viernes,"Fruta y verdura","Rúcula base para ensalada",35
+2023-03-10,viernes,"Fruta y verdura","Salteado de setas laminadas",7
+2023-03-10,viernes,"Fruta y verdura","Sandía baja en semillas",11
+2023-03-10,viernes,"Fruta y verdura",Seta,6
+2023-03-10,viernes,"Fruta y verdura","Seta laminada",39
+2023-03-10,viernes,"Fruta y verdura","Seta shiitake",11
+2023-03-10,viernes,"Fruta y verdura","Setas al plato con perejil",20
+2023-03-10,viernes,"Fruta y verdura","Sopa juliana para micro",9
+2023-03-10,viernes,"Fruta y verdura","Tomate canario",40
+2023-03-10,viernes,"Fruta y verdura","Tomate ensalada",69
+2023-03-10,viernes,"Fruta y verdura","Tomate kumato negro",26
+2023-03-10,viernes,"Fruta y verdura","Tomate pera",15
+2023-03-10,viernes,"Fruta y verdura","Tomate rallado",18
+2023-03-10,viernes,"Fruta y verdura","Tomate rosa",19
+2023-03-10,viernes,"Fruta y verdura",Tomates,12
+2023-03-10,viernes,"Fruta y verdura","Tomates cherry",35
+2023-03-10,viernes,"Fruta y verdura","Tomates cherry en rama Dulcita",7
+2023-03-10,viernes,"Fruta y verdura","Tomates cherry pera kumato",5
+2023-03-10,viernes,"Fruta y verdura","Tomates kumato negro",25
+2023-03-10,viernes,"Fruta y verdura","Tomates pera",32
+2023-03-10,viernes,"Fruta y verdura","Uva blanca sin semillas",24
+2023-03-10,viernes,"Fruta y verdura","Uva roja sin semillas",26
+2023-03-10,viernes,"Fruta y verdura","Wraps Texas",35
+2023-03-10,viernes,"Fruta y verdura",Yuca,37
+2023-03-10,viernes,"Fruta y verdura","Zanahoria rallada base para ensalada",40
+2023-03-10,viernes,"Fruta y verdura",Zanahorias,33
+2023-03-17,viernes,"Fruta y verdura","1/4 Sandía baja en semillas",14
+2023-03-17,viernes,"Fruta y verdura","3 Vegetales para micro",6
+2023-03-17,viernes,"Fruta y verdura","Acelgas cortadas",23
+2023-03-17,viernes,"Fruta y verdura",Aguacate,37
+2023-03-17,viernes,"Fruta y verdura",Aguacates,50
+2023-03-17,viernes,"Fruta y verdura","Ajo negro dientes pelados",22
+2023-03-17,viernes,"Fruta y verdura","Ajos morados",62
+2023-03-17,viernes,"Fruta y verdura",Albahaca,8
+2023-03-17,viernes,"Fruta y verdura",Albaricoque,31
+2023-03-17,viernes,"Fruta y verdura","Apio verde",14
+2023-03-17,viernes,"Fruta y verdura",Arándanos,35
+2023-03-17,viernes,"Fruta y verdura",Banana,50
+2023-03-17,viernes,"Fruta y verdura",Batata,38
+2023-03-17,viernes,"Fruta y verdura","Batata para micro",23
+2023-03-17,viernes,"Fruta y verdura",Berenjena,43
+2023-03-17,viernes,"Fruta y verdura",Bimi,15
+2023-03-17,viernes,"Fruta y verdura",Brócoli,27
+2023-03-17,viernes,"Fruta y verdura","Calabacín blanco",19
+2023-03-17,viernes,"Fruta y verdura","Calabacín verde",27
+2023-03-17,viernes,"Fruta y verdura","Calabaza cacahuete cortada a trozos",33
+2023-03-17,viernes,"Fruta y verdura","Canónigos base para ensalada",49
+2023-03-17,viernes,"Fruta y verdura",Cebollas,66
+2023-03-17,viernes,"Fruta y verdura","Cebollas dulces",15
+2023-03-17,viernes,"Fruta y verdura","Cebollas rojas",39
+2023-03-17,viernes,"Fruta y verdura","Cebollas tiernas",33
+2023-03-17,viernes,"Fruta y verdura",Cebollino,32
+2023-03-17,viernes,"Fruta y verdura",Cereza,72
+2023-03-17,viernes,"Fruta y verdura","Champiñón grande",5
+2023-03-17,viernes,"Fruta y verdura","Champiñón laminado limpio",25
+2023-03-17,viernes,"Fruta y verdura","Champiñón pequeño",41
+2023-03-17,viernes,"Fruta y verdura","Champiñón Portobello",34
+2023-03-17,viernes,"Fruta y verdura",Cilantro,16
+2023-03-17,viernes,"Fruta y verdura","Ciruela roja",44
+2023-03-17,viernes,"Fruta y verdura","Cogollos corazón de lechuga",33
+2023-03-17,viernes,"Fruta y verdura","Cogollos de lechuga",21
+2023-03-17,viernes,"Fruta y verdura","Col lombarda",11
+2023-03-17,viernes,"Fruta y verdura",Coliflor,16
+2023-03-17,viernes,"Fruta y verdura",Endibias,50
+2023-03-17,viernes,"Fruta y verdura","Ensalada California",47
+2023-03-17,viernes,"Fruta y verdura","Ensalada César",39
+2023-03-17,viernes,"Fruta y verdura","Ensalada de la casa",23
+2023-03-17,viernes,"Fruta y verdura","Ensalada de pasta",29
+2023-03-17,viernes,"Fruta y verdura","Ensalada de pasta Listo para Comer",13
+2023-03-17,viernes,"Fruta y verdura","Ensalada ensatún",18
+2023-03-17,viernes,"Fruta y verdura","Ensalada jamón",12
+2023-03-17,viernes,"Fruta y verdura","Ensalada mezcla 4 estaciones",10
+2023-03-17,viernes,"Fruta y verdura","Ensalada mezcla brotes tiernos",5
+2023-03-17,viernes,"Fruta y verdura","Ensalada mezcla brotes tiernos maxi",32
+2023-03-17,viernes,"Fruta y verdura","Ensalada mezcla dúo canónigos y rúcula",44
+2023-03-17,viernes,"Fruta y verdura","Ensalada mezcla fresca",14
+2023-03-17,viernes,"Fruta y verdura","Ensalada mezcla gourmet",21
+2023-03-17,viernes,"Fruta y verdura","Ensalada mezcla gourmet maxi",16
+2023-03-17,viernes,"Fruta y verdura","Ensalada mezcla primavera",34
+2023-03-17,viernes,"Fruta y verdura","Ensalada mezcla tierna",6
+2023-03-17,viernes,"Fruta y verdura","Ensalada mil islas",30
+2023-03-17,viernes,"Fruta y verdura","Ensalada queso de cabra",45
+2023-03-17,viernes,"Fruta y verdura","Escarola rizada",10
+2023-03-17,viernes,"Fruta y verdura","Escarola rizada base para ensalada",36
+2023-03-17,viernes,"Fruta y verdura","Espárrago verde fino",27
+2023-03-17,viernes,"Fruta y verdura","Espárrago verde grueso",22
+2023-03-17,viernes,"Fruta y verdura","Espinaca baby base para ensalada",16
+2023-03-17,viernes,"Fruta y verdura","Espinacas cortadas",11
+2023-03-17,viernes,"Fruta y verdura","Floretas de brócoli para micro",36
+2023-03-17,viernes,"Fruta y verdura",Frambuesas,39
+2023-03-17,viernes,"Fruta y verdura",Fresas,13
+2023-03-17,viernes,"Fruta y verdura","Guacamole Hacendado",93
+2023-03-17,viernes,"Fruta y verdura",Hierbabuena,35
+2023-03-17,viernes,"Fruta y verdura",Jengibre,43
+2023-03-17,viernes,"Fruta y verdura","Judía verde plana",52
+2023-03-17,viernes,"Fruta y verdura","Judía verde redonda",33
+2023-03-17,viernes,"Fruta y verdura","Kiwi verde",49
+2023-03-17,viernes,"Fruta y verdura","Kiwis amarillos",37
+2023-03-17,viernes,"Fruta y verdura","Kiwis verdes",23
+2023-03-17,viernes,"Fruta y verdura","Lechuga corazón romana",22
+2023-03-17,viernes,"Fruta y verdura","Lechuga hoja roble",44
+2023-03-17,viernes,"Fruta y verdura","Lechuga iceberg",35
+2023-03-17,viernes,"Fruta y verdura","Lechuga iceberg base para ensalada",42
+2023-03-17,viernes,"Fruta y verdura","Lechuga romana cortada",46
+2023-03-17,viernes,"Fruta y verdura","Lechugas corazón romana",45
+2023-03-17,viernes,"Fruta y verdura",Limas,41
+2023-03-17,viernes,"Fruta y verdura",Limón,14
+2023-03-17,viernes,"Fruta y verdura",Limones,46
+2023-03-17,viernes,"Fruta y verdura","Maíz dulce en mazorca",40
+2023-03-17,viernes,"Fruta y verdura","Maíz dulce en mazorca cocido",44
+2023-03-17,viernes,"Fruta y verdura",Mango,44
+2023-03-17,viernes,"Fruta y verdura","Manzana Crimson Snow",29
+2023-03-17,viernes,"Fruta y verdura","Manzana Golden",23
+2023-03-17,viernes,"Fruta y verdura","Manzana Granny Smith",33
+2023-03-17,viernes,"Fruta y verdura","Manzana Story",5
+2023-03-17,viernes,"Fruta y verdura","Manzanas Crimson Snow",11
+2023-03-17,viernes,"Fruta y verdura","Manzanas Golden",27
+2023-03-17,viernes,"Fruta y verdura","Media col lombarda",48
+2023-03-17,viernes,"Fruta y verdura","Media papaya",49
+2023-03-17,viernes,"Fruta y verdura","Media piña",7
+2023-03-17,viernes,"Fruta y verdura","Media sandía baja en semillas",40
+2023-03-17,viernes,"Fruta y verdura","Medio melón piel de sapo",20
+2023-03-17,viernes,"Fruta y verdura","Medio repollo liso",49
+2023-03-17,viernes,"Fruta y verdura","Medio repollo rizado",26
+2023-03-17,viernes,"Fruta y verdura","Melón piel de sapo",33
+2023-03-17,viernes,"Fruta y verdura","Mix de verduras jardinera para micro",17
+2023-03-17,viernes,"Fruta y verdura","Mix de verduras paisana para micro",41
+2023-03-17,viernes,"Fruta y verdura",Moras,14
+2023-03-17,viernes,"Fruta y verdura","Naranja para mesa",11
+2023-03-17,viernes,"Fruta y verdura",Naranjas,77
+2023-03-17,viernes,"Fruta y verdura","Nectarina pulpa blanca",28
+2023-03-17,viernes,"Fruta y verdura","Palitos de zanahoria",32
+2023-03-17,viernes,"Fruta y verdura",Papaya,41
+2023-03-17,viernes,"Fruta y verdura",Paraguayo,6
+2023-03-17,viernes,"Fruta y verdura",Patata,26
+2023-03-17,viernes,"Fruta y verdura","Patata para micro",15
+2023-03-17,viernes,"Fruta y verdura",Patatas,12
+2023-03-17,viernes,"Fruta y verdura","Patatas especial para freir",19
+2023-03-17,viernes,"Fruta y verdura","Patatas guarnición",33
+2023-03-17,viernes,"Fruta y verdura","Patatas rojas",7
+2023-03-17,viernes,"Fruta y verdura",Pepino,21
+2023-03-17,viernes,"Fruta y verdura","Pepino holandés",17
+2023-03-17,viernes,"Fruta y verdura",Pepinos,9
+2023-03-17,viernes,"Fruta y verdura","Pera Conferencia",35
+2023-03-17,viernes,"Fruta y verdura","Pera Ercolina",24
+2023-03-17,viernes,"Fruta y verdura","Peras Conferencia",33
+2023-03-17,viernes,"Fruta y verdura","Perejil troceado",18
+2023-03-17,viernes,"Fruta y verdura","Picada de ajo y Perejil",19
+2023-03-17,viernes,"Fruta y verdura","Pimiento rojo",50
+2023-03-17,viernes,"Fruta y verdura","Pimiento verde",17
+2023-03-17,viernes,"Fruta y verdura","Pimiento verde freír",16
+2023-03-17,viernes,"Fruta y verdura","Pimientos rojos picantes",40
+2023-03-17,viernes,"Fruta y verdura","Pimientos semipicantes",30
+2023-03-17,viernes,"Fruta y verdura","Pimientos tricolor rojo, amarillo y verde",34
+2023-03-17,viernes,"Fruta y verdura",Piña,32
+2023-03-17,viernes,"Fruta y verdura","Piña natural a rodajas",7
+2023-03-17,viernes,"Fruta y verdura","Plátano de Canarias",50
+2023-03-17,viernes,"Fruta y verdura","Plátano macho",47
+2023-03-17,viernes,"Fruta y verdura",Pomelo,23
+2023-03-17,viernes,"Fruta y verdura","Preparado de verdura para cocido",16
+2023-03-17,viernes,"Fruta y verdura",Puerros,31
+2023-03-17,viernes,"Fruta y verdura",Rabanitos,36
+2023-03-17,viernes,"Fruta y verdura","Rama de Tomates",27
+2023-03-17,viernes,"Fruta y verdura","Remolacha cocida y pelada",30
+2023-03-17,viernes,"Fruta y verdura","Repollo liso",41
+2023-03-17,viernes,"Fruta y verdura","Repollo rizado",6
+2023-03-17,viernes,"Fruta y verdura","Rúcula base para ensalada",14
+2023-03-17,viernes,"Fruta y verdura","Salteado de setas laminadas",46
+2023-03-17,viernes,"Fruta y verdura","Sandía baja en semillas",25
+2023-03-17,viernes,"Fruta y verdura",Seta,40
+2023-03-17,viernes,"Fruta y verdura","Seta laminada",33
+2023-03-17,viernes,"Fruta y verdura","Seta shiitake",15
+2023-03-17,viernes,"Fruta y verdura","Setas al plato con perejil",20
+2023-03-17,viernes,"Fruta y verdura","Sopa juliana para micro",15
+2023-03-17,viernes,"Fruta y verdura","Tomate canario",18
+2023-03-17,viernes,"Fruta y verdura","Tomate ensalada",31
+2023-03-17,viernes,"Fruta y verdura","Tomate kumato negro",23
+2023-03-17,viernes,"Fruta y verdura","Tomate pera",14
+2023-03-17,viernes,"Fruta y verdura","Tomate rallado",12
+2023-03-17,viernes,"Fruta y verdura","Tomate rosa",29
+2023-03-17,viernes,"Fruta y verdura",Tomates,11
+2023-03-17,viernes,"Fruta y verdura","Tomates cherry",40
+2023-03-17,viernes,"Fruta y verdura","Tomates cherry en rama Dulcita",50
+2023-03-17,viernes,"Fruta y verdura","Tomates cherry pera kumato",17
+2023-03-17,viernes,"Fruta y verdura","Tomates kumato negro",46
+2023-03-17,viernes,"Fruta y verdura","Tomates pera",20
+2023-03-17,viernes,"Fruta y verdura","Uva blanca sin semillas",43
+2023-03-17,viernes,"Fruta y verdura","Uva roja sin semillas",6
+2023-03-17,viernes,"Fruta y verdura","Wraps Texas",40
+2023-03-17,viernes,"Fruta y verdura",Yuca,29
+2023-03-17,viernes,"Fruta y verdura","Zanahoria rallada base para ensalada",10
+2023-03-17,viernes,"Fruta y verdura",Zanahorias,52
+2023-03-24,viernes,"Fruta y verdura","1/4 Sandía baja en semillas",8
+2023-03-24,viernes,"Fruta y verdura","3 Vegetales para micro",30
+2023-03-24,viernes,"Fruta y verdura","Acelgas cortadas",28
+2023-03-24,viernes,"Fruta y verdura",Aguacate,17
+2023-03-24,viernes,"Fruta y verdura",Aguacates,19
+2023-03-24,viernes,"Fruta y verdura","Ajo negro dientes pelados",35
+2023-03-24,viernes,"Fruta y verdura","Ajos morados",46
+2023-03-24,viernes,"Fruta y verdura",Albahaca,37
+2023-03-24,viernes,"Fruta y verdura",Albaricoque,30
+2023-03-24,viernes,"Fruta y verdura","Apio verde",45
+2023-03-24,viernes,"Fruta y verdura",Arándanos,43
+2023-03-24,viernes,"Fruta y verdura",Banana,11
+2023-03-24,viernes,"Fruta y verdura",Batata,40
+2023-03-24,viernes,"Fruta y verdura","Batata para micro",31
+2023-03-24,viernes,"Fruta y verdura",Berenjena,20
+2023-03-24,viernes,"Fruta y verdura",Bimi,43
+2023-03-24,viernes,"Fruta y verdura",Brócoli,27
+2023-03-24,viernes,"Fruta y verdura","Calabacín blanco",14
+2023-03-24,viernes,"Fruta y verdura","Calabacín verde",49
+2023-03-24,viernes,"Fruta y verdura","Calabaza cacahuete cortada a trozos",5
+2023-03-24,viernes,"Fruta y verdura","Canónigos base para ensalada",21
+2023-03-24,viernes,"Fruta y verdura",Cebollas,36
+2023-03-24,viernes,"Fruta y verdura","Cebollas dulces",13
+2023-03-24,viernes,"Fruta y verdura","Cebollas rojas",6
+2023-03-24,viernes,"Fruta y verdura","Cebollas tiernas",10
+2023-03-24,viernes,"Fruta y verdura",Cebollino,31
+2023-03-24,viernes,"Fruta y verdura",Cereza,83
+2023-03-24,viernes,"Fruta y verdura","Champiñón grande",20
+2023-03-24,viernes,"Fruta y verdura","Champiñón laminado limpio",12
+2023-03-24,viernes,"Fruta y verdura","Champiñón pequeño",24
+2023-03-24,viernes,"Fruta y verdura","Champiñón Portobello",12
+2023-03-24,viernes,"Fruta y verdura",Cilantro,40
+2023-03-24,viernes,"Fruta y verdura","Ciruela roja",15
+2023-03-24,viernes,"Fruta y verdura","Cogollos corazón de lechuga",50
+2023-03-24,viernes,"Fruta y verdura","Cogollos de lechuga",12
+2023-03-24,viernes,"Fruta y verdura","Col lombarda",46
+2023-03-24,viernes,"Fruta y verdura",Coliflor,15
+2023-03-24,viernes,"Fruta y verdura",Endibias,24
+2023-03-24,viernes,"Fruta y verdura","Ensalada California",29
+2023-03-24,viernes,"Fruta y verdura","Ensalada César",24
+2023-03-24,viernes,"Fruta y verdura","Ensalada de la casa",24
+2023-03-24,viernes,"Fruta y verdura","Ensalada de pasta",44
+2023-03-24,viernes,"Fruta y verdura","Ensalada de pasta Listo para Comer",46
+2023-03-24,viernes,"Fruta y verdura","Ensalada ensatún",36
+2023-03-24,viernes,"Fruta y verdura","Ensalada jamón",46
+2023-03-24,viernes,"Fruta y verdura","Ensalada mezcla 4 estaciones",20
+2023-03-24,viernes,"Fruta y verdura","Ensalada mezcla brotes tiernos",20
+2023-03-24,viernes,"Fruta y verdura","Ensalada mezcla brotes tiernos maxi",27
+2023-03-24,viernes,"Fruta y verdura","Ensalada mezcla dúo canónigos y rúcula",33
+2023-03-24,viernes,"Fruta y verdura","Ensalada mezcla fresca",11
+2023-03-24,viernes,"Fruta y verdura","Ensalada mezcla gourmet",30
+2023-03-24,viernes,"Fruta y verdura","Ensalada mezcla gourmet maxi",48
+2023-03-24,viernes,"Fruta y verdura","Ensalada mezcla primavera",7
+2023-03-24,viernes,"Fruta y verdura","Ensalada mezcla tierna",17
+2023-03-24,viernes,"Fruta y verdura","Ensalada mil islas",46
+2023-03-24,viernes,"Fruta y verdura","Ensalada queso de cabra",41
+2023-03-24,viernes,"Fruta y verdura","Escarola rizada",28
+2023-03-24,viernes,"Fruta y verdura","Escarola rizada base para ensalada",26
+2023-03-24,viernes,"Fruta y verdura","Espárrago verde fino",19
+2023-03-24,viernes,"Fruta y verdura","Espárrago verde grueso",48
+2023-03-24,viernes,"Fruta y verdura","Espinaca baby base para ensalada",39
+2023-03-24,viernes,"Fruta y verdura","Espinacas cortadas",20
+2023-03-24,viernes,"Fruta y verdura","Floretas de brócoli para micro",25
+2023-03-24,viernes,"Fruta y verdura",Frambuesas,20
+2023-03-24,viernes,"Fruta y verdura",Fresas,28
+2023-03-24,viernes,"Fruta y verdura","Guacamole Hacendado",52
+2023-03-24,viernes,"Fruta y verdura",Hierbabuena,7
+2023-03-24,viernes,"Fruta y verdura",Jengibre,23
+2023-03-24,viernes,"Fruta y verdura","Judía verde plana",44
+2023-03-24,viernes,"Fruta y verdura","Judía verde redonda",32
+2023-03-24,viernes,"Fruta y verdura","Kiwi verde",50
+2023-03-24,viernes,"Fruta y verdura","Kiwis amarillos",37
+2023-03-24,viernes,"Fruta y verdura","Kiwis verdes",24
+2023-03-24,viernes,"Fruta y verdura","Lechuga corazón romana",13
+2023-03-24,viernes,"Fruta y verdura","Lechuga hoja roble",25
+2023-03-24,viernes,"Fruta y verdura","Lechuga iceberg",20
+2023-03-24,viernes,"Fruta y verdura","Lechuga iceberg base para ensalada",13
+2023-03-24,viernes,"Fruta y verdura","Lechuga romana cortada",17
+2023-03-24,viernes,"Fruta y verdura","Lechugas corazón romana",33
+2023-03-24,viernes,"Fruta y verdura",Limas,18
+2023-03-24,viernes,"Fruta y verdura",Limón,49
+2023-03-24,viernes,"Fruta y verdura",Limones,15
+2023-03-24,viernes,"Fruta y verdura","Maíz dulce en mazorca",28
+2023-03-24,viernes,"Fruta y verdura","Maíz dulce en mazorca cocido",30
+2023-03-24,viernes,"Fruta y verdura",Mango,30
+2023-03-24,viernes,"Fruta y verdura","Manzana Crimson Snow",44
+2023-03-24,viernes,"Fruta y verdura","Manzana Golden",22
+2023-03-24,viernes,"Fruta y verdura","Manzana Granny Smith",13
+2023-03-24,viernes,"Fruta y verdura","Manzana Story",50
+2023-03-24,viernes,"Fruta y verdura","Manzanas Crimson Snow",12
+2023-03-24,viernes,"Fruta y verdura","Manzanas Golden",20
+2023-03-24,viernes,"Fruta y verdura","Media col lombarda",38
+2023-03-24,viernes,"Fruta y verdura","Media papaya",17
+2023-03-24,viernes,"Fruta y verdura","Media piña",37
+2023-03-24,viernes,"Fruta y verdura","Media sandía baja en semillas",23
+2023-03-24,viernes,"Fruta y verdura","Medio melón piel de sapo",10
+2023-03-24,viernes,"Fruta y verdura","Medio repollo liso",13
+2023-03-24,viernes,"Fruta y verdura","Medio repollo rizado",35
+2023-03-24,viernes,"Fruta y verdura","Melón piel de sapo",42
+2023-03-24,viernes,"Fruta y verdura","Mix de verduras jardinera para micro",38
+2023-03-24,viernes,"Fruta y verdura","Mix de verduras paisana para micro",32
+2023-03-24,viernes,"Fruta y verdura",Moras,15
+2023-03-24,viernes,"Fruta y verdura","Naranja para mesa",50
+2023-03-24,viernes,"Fruta y verdura",Naranjas,88
+2023-03-24,viernes,"Fruta y verdura","Nectarina pulpa blanca",10
+2023-03-24,viernes,"Fruta y verdura","Palitos de zanahoria",14
+2023-03-24,viernes,"Fruta y verdura",Papaya,41
+2023-03-24,viernes,"Fruta y verdura",Paraguayo,20
+2023-03-24,viernes,"Fruta y verdura",Patata,15
+2023-03-24,viernes,"Fruta y verdura","Patata para micro",27
+2023-03-24,viernes,"Fruta y verdura",Patatas,54
+2023-03-24,viernes,"Fruta y verdura","Patatas especial para freir",22
+2023-03-24,viernes,"Fruta y verdura","Patatas guarnición",24
+2023-03-24,viernes,"Fruta y verdura","Patatas rojas",10
+2023-03-24,viernes,"Fruta y verdura",Pepino,44
+2023-03-24,viernes,"Fruta y verdura","Pepino holandés",12
+2023-03-24,viernes,"Fruta y verdura",Pepinos,11
+2023-03-24,viernes,"Fruta y verdura","Pera Conferencia",24
+2023-03-24,viernes,"Fruta y verdura","Pera Ercolina",37
+2023-03-24,viernes,"Fruta y verdura","Peras Conferencia",44
+2023-03-24,viernes,"Fruta y verdura","Perejil troceado",30
+2023-03-24,viernes,"Fruta y verdura","Picada de ajo y Perejil",46
+2023-03-24,viernes,"Fruta y verdura","Pimiento rojo",26
+2023-03-24,viernes,"Fruta y verdura","Pimiento verde",7
+2023-03-24,viernes,"Fruta y verdura","Pimiento verde freír",7
+2023-03-24,viernes,"Fruta y verdura","Pimientos rojos picantes",7
+2023-03-24,viernes,"Fruta y verdura","Pimientos semipicantes",44
+2023-03-24,viernes,"Fruta y verdura","Pimientos tricolor rojo, amarillo y verde",15
+2023-03-24,viernes,"Fruta y verdura",Piña,44
+2023-03-24,viernes,"Fruta y verdura","Piña natural a rodajas",43
+2023-03-24,viernes,"Fruta y verdura","Plátano de Canarias",30
+2023-03-24,viernes,"Fruta y verdura","Plátano macho",43
+2023-03-24,viernes,"Fruta y verdura",Pomelo,32
+2023-03-24,viernes,"Fruta y verdura","Preparado de verdura para cocido",41
+2023-03-24,viernes,"Fruta y verdura",Puerros,5
+2023-03-24,viernes,"Fruta y verdura",Rabanitos,29
+2023-03-24,viernes,"Fruta y verdura","Rama de Tomates",42
+2023-03-24,viernes,"Fruta y verdura","Remolacha cocida y pelada",6
+2023-03-24,viernes,"Fruta y verdura","Repollo liso",22
+2023-03-24,viernes,"Fruta y verdura","Repollo rizado",7
+2023-03-24,viernes,"Fruta y verdura","Rúcula base para ensalada",28
+2023-03-24,viernes,"Fruta y verdura","Salteado de setas laminadas",5
+2023-03-24,viernes,"Fruta y verdura","Sandía baja en semillas",20
+2023-03-24,viernes,"Fruta y verdura",Seta,36
+2023-03-24,viernes,"Fruta y verdura","Seta laminada",22
+2023-03-24,viernes,"Fruta y verdura","Seta shiitake",23
+2023-03-24,viernes,"Fruta y verdura","Setas al plato con perejil",30
+2023-03-24,viernes,"Fruta y verdura","Sopa juliana para micro",41
+2023-03-24,viernes,"Fruta y verdura","Tomate canario",14
+2023-03-24,viernes,"Fruta y verdura","Tomate ensalada",46
+2023-03-24,viernes,"Fruta y verdura","Tomate kumato negro",19
+2023-03-24,viernes,"Fruta y verdura","Tomate pera",22
+2023-03-24,viernes,"Fruta y verdura","Tomate rallado",47
+2023-03-24,viernes,"Fruta y verdura","Tomate rosa",43
+2023-03-24,viernes,"Fruta y verdura",Tomates,26
+2023-03-24,viernes,"Fruta y verdura","Tomates cherry",21
+2023-03-24,viernes,"Fruta y verdura","Tomates cherry en rama Dulcita",32
+2023-03-24,viernes,"Fruta y verdura","Tomates cherry pera kumato",12
+2023-03-24,viernes,"Fruta y verdura","Tomates kumato negro",26
+2023-03-24,viernes,"Fruta y verdura","Tomates pera",28
+2023-03-24,viernes,"Fruta y verdura","Uva blanca sin semillas",35
+2023-03-24,viernes,"Fruta y verdura","Uva roja sin semillas",21
+2023-03-24,viernes,"Fruta y verdura","Wraps Texas",41
+2023-03-24,viernes,"Fruta y verdura",Yuca,13
+2023-03-24,viernes,"Fruta y verdura","Zanahoria rallada base para ensalada",43
+2023-03-24,viernes,"Fruta y verdura",Zanahorias,65
+2023-03-31,viernes,"Fruta y verdura","1/4 Sandía baja en semillas",33
+2023-03-31,viernes,"Fruta y verdura","3 Vegetales para micro",8
+2023-03-31,viernes,"Fruta y verdura","Acelgas cortadas",20
+2023-03-31,viernes,"Fruta y verdura",Aguacate,29
+2023-03-31,viernes,"Fruta y verdura",Aguacates,40
+2023-03-31,viernes,"Fruta y verdura","Ajo negro dientes pelados",9
+2023-03-31,viernes,"Fruta y verdura","Ajos morados",59
+2023-03-31,viernes,"Fruta y verdura",Albahaca,12
+2023-03-31,viernes,"Fruta y verdura",Albaricoque,43
+2023-03-31,viernes,"Fruta y verdura","Apio verde",44
+2023-03-31,viernes,"Fruta y verdura",Arándanos,10
+2023-03-31,viernes,"Fruta y verdura",Banana,27
+2023-03-31,viernes,"Fruta y verdura",Batata,8
+2023-03-31,viernes,"Fruta y verdura","Batata para micro",36
+2023-03-31,viernes,"Fruta y verdura",Berenjena,41
+2023-03-31,viernes,"Fruta y verdura",Bimi,10
+2023-03-31,viernes,"Fruta y verdura",Brócoli,49
+2023-03-31,viernes,"Fruta y verdura","Calabacín blanco",31
+2023-03-31,viernes,"Fruta y verdura","Calabacín verde",6
+2023-03-31,viernes,"Fruta y verdura","Calabaza cacahuete cortada a trozos",24
+2023-03-31,viernes,"Fruta y verdura","Canónigos base para ensalada",8
+2023-03-31,viernes,"Fruta y verdura",Cebollas,43
+2023-03-31,viernes,"Fruta y verdura","Cebollas dulces",43
+2023-03-31,viernes,"Fruta y verdura","Cebollas rojas",14
+2023-03-31,viernes,"Fruta y verdura","Cebollas tiernas",43
+2023-03-31,viernes,"Fruta y verdura",Cebollino,27
+2023-03-31,viernes,"Fruta y verdura",Cereza,84
+2023-03-31,viernes,"Fruta y verdura","Champiñón grande",47
+2023-03-31,viernes,"Fruta y verdura","Champiñón laminado limpio",7
+2023-03-31,viernes,"Fruta y verdura","Champiñón pequeño",36
+2023-03-31,viernes,"Fruta y verdura","Champiñón Portobello",36
+2023-03-31,viernes,"Fruta y verdura",Cilantro,33
+2023-03-31,viernes,"Fruta y verdura","Ciruela roja",28
+2023-03-31,viernes,"Fruta y verdura","Cogollos corazón de lechuga",8
+2023-03-31,viernes,"Fruta y verdura","Cogollos de lechuga",14
+2023-03-31,viernes,"Fruta y verdura","Col lombarda",50
+2023-03-31,viernes,"Fruta y verdura",Coliflor,35
+2023-03-31,viernes,"Fruta y verdura",Endibias,33
+2023-03-31,viernes,"Fruta y verdura","Ensalada California",35
+2023-03-31,viernes,"Fruta y verdura","Ensalada César",28
+2023-03-31,viernes,"Fruta y verdura","Ensalada de la casa",43
+2023-03-31,viernes,"Fruta y verdura","Ensalada de pasta",7
+2023-03-31,viernes,"Fruta y verdura","Ensalada de pasta Listo para Comer",25
+2023-03-31,viernes,"Fruta y verdura","Ensalada ensatún",10
+2023-03-31,viernes,"Fruta y verdura","Ensalada jamón",42
+2023-03-31,viernes,"Fruta y verdura","Ensalada mezcla 4 estaciones",34
+2023-03-31,viernes,"Fruta y verdura","Ensalada mezcla brotes tiernos",8
+2023-03-31,viernes,"Fruta y verdura","Ensalada mezcla brotes tiernos maxi",13
+2023-03-31,viernes,"Fruta y verdura","Ensalada mezcla dúo canónigos y rúcula",25
+2023-03-31,viernes,"Fruta y verdura","Ensalada mezcla fresca",47
+2023-03-31,viernes,"Fruta y verdura","Ensalada mezcla gourmet",22
+2023-03-31,viernes,"Fruta y verdura","Ensalada mezcla gourmet maxi",48
+2023-03-31,viernes,"Fruta y verdura","Ensalada mezcla primavera",26
+2023-03-31,viernes,"Fruta y verdura","Ensalada mezcla tierna",27
+2023-03-31,viernes,"Fruta y verdura","Ensalada mil islas",32
+2023-03-31,viernes,"Fruta y verdura","Ensalada queso de cabra",30
+2023-03-31,viernes,"Fruta y verdura","Escarola rizada",11
+2023-03-31,viernes,"Fruta y verdura","Escarola rizada base para ensalada",27
+2023-03-31,viernes,"Fruta y verdura","Espárrago verde fino",33
+2023-03-31,viernes,"Fruta y verdura","Espárrago verde grueso",16
+2023-03-31,viernes,"Fruta y verdura","Espinaca baby base para ensalada",38
+2023-03-31,viernes,"Fruta y verdura","Espinacas cortadas",50
+2023-03-31,viernes,"Fruta y verdura","Floretas de brócoli para micro",23
+2023-03-31,viernes,"Fruta y verdura",Frambuesas,35
+2023-03-31,viernes,"Fruta y verdura",Fresas,27
+2023-03-31,viernes,"Fruta y verdura","Guacamole Hacendado",53
+2023-03-31,viernes,"Fruta y verdura",Hierbabuena,15
+2023-03-31,viernes,"Fruta y verdura",Jengibre,23
+2023-03-31,viernes,"Fruta y verdura","Judía verde plana",52
+2023-03-31,viernes,"Fruta y verdura","Judía verde redonda",36
+2023-03-31,viernes,"Fruta y verdura","Kiwi verde",20
+2023-03-31,viernes,"Fruta y verdura","Kiwis amarillos",21
+2023-03-31,viernes,"Fruta y verdura","Kiwis verdes",45
+2023-03-31,viernes,"Fruta y verdura","Lechuga corazón romana",49
+2023-03-31,viernes,"Fruta y verdura","Lechuga hoja roble",12
+2023-03-31,viernes,"Fruta y verdura","Lechuga iceberg",17
+2023-03-31,viernes,"Fruta y verdura","Lechuga iceberg base para ensalada",42
+2023-03-31,viernes,"Fruta y verdura","Lechuga romana cortada",22
+2023-03-31,viernes,"Fruta y verdura","Lechugas corazón romana",46
+2023-03-31,viernes,"Fruta y verdura",Limas,40
+2023-03-31,viernes,"Fruta y verdura",Limón,35
+2023-03-31,viernes,"Fruta y verdura",Limones,33
+2023-03-31,viernes,"Fruta y verdura","Maíz dulce en mazorca",29
+2023-03-31,viernes,"Fruta y verdura","Maíz dulce en mazorca cocido",21
+2023-03-31,viernes,"Fruta y verdura",Mango,50
+2023-03-31,viernes,"Fruta y verdura","Manzana Crimson Snow",41
+2023-03-31,viernes,"Fruta y verdura","Manzana Golden",36
+2023-03-31,viernes,"Fruta y verdura","Manzana Granny Smith",13
+2023-03-31,viernes,"Fruta y verdura","Manzana Story",7
+2023-03-31,viernes,"Fruta y verdura","Manzanas Crimson Snow",10
+2023-03-31,viernes,"Fruta y verdura","Manzanas Golden",29
+2023-03-31,viernes,"Fruta y verdura","Media col lombarda",10
+2023-03-31,viernes,"Fruta y verdura","Media papaya",46
+2023-03-31,viernes,"Fruta y verdura","Media piña",50
+2023-03-31,viernes,"Fruta y verdura","Media sandía baja en semillas",47
+2023-03-31,viernes,"Fruta y verdura","Medio melón piel de sapo",31
+2023-03-31,viernes,"Fruta y verdura","Medio repollo liso",10
+2023-03-31,viernes,"Fruta y verdura","Medio repollo rizado",41
+2023-03-31,viernes,"Fruta y verdura","Melón piel de sapo",10
+2023-03-31,viernes,"Fruta y verdura","Mix de verduras jardinera para micro",16
+2023-03-31,viernes,"Fruta y verdura","Mix de verduras paisana para micro",49
+2023-03-31,viernes,"Fruta y verdura",Moras,30
+2023-03-31,viernes,"Fruta y verdura","Naranja para mesa",36
+2023-03-31,viernes,"Fruta y verdura",Naranjas,57
+2023-03-31,viernes,"Fruta y verdura","Nectarina pulpa blanca",45
+2023-03-31,viernes,"Fruta y verdura","Palitos de zanahoria",42
+2023-03-31,viernes,"Fruta y verdura",Papaya,5
+2023-03-31,viernes,"Fruta y verdura",Paraguayo,33
+2023-03-31,viernes,"Fruta y verdura",Patata,26
+2023-03-31,viernes,"Fruta y verdura","Patata para micro",6
+2023-03-31,viernes,"Fruta y verdura",Patatas,49
+2023-03-31,viernes,"Fruta y verdura","Patatas especial para freir",21
+2023-03-31,viernes,"Fruta y verdura","Patatas guarnición",15
+2023-03-31,viernes,"Fruta y verdura","Patatas rojas",6
+2023-03-31,viernes,"Fruta y verdura",Pepino,14
+2023-03-31,viernes,"Fruta y verdura","Pepino holandés",23
+2023-03-31,viernes,"Fruta y verdura",Pepinos,41
+2023-03-31,viernes,"Fruta y verdura","Pera Conferencia",31
+2023-03-31,viernes,"Fruta y verdura","Pera Ercolina",22
+2023-03-31,viernes,"Fruta y verdura","Peras Conferencia",5
+2023-03-31,viernes,"Fruta y verdura","Perejil troceado",37
+2023-03-31,viernes,"Fruta y verdura","Picada de ajo y Perejil",8
+2023-03-31,viernes,"Fruta y verdura","Pimiento rojo",24
+2023-03-31,viernes,"Fruta y verdura","Pimiento verde",40
+2023-03-31,viernes,"Fruta y verdura","Pimiento verde freír",13
+2023-03-31,viernes,"Fruta y verdura","Pimientos rojos picantes",24
+2023-03-31,viernes,"Fruta y verdura","Pimientos semipicantes",40
+2023-03-31,viernes,"Fruta y verdura","Pimientos tricolor rojo, amarillo y verde",44
+2023-03-31,viernes,"Fruta y verdura",Piña,20
+2023-03-31,viernes,"Fruta y verdura","Piña natural a rodajas",31
+2023-03-31,viernes,"Fruta y verdura","Plátano de Canarias",19
+2023-03-31,viernes,"Fruta y verdura","Plátano macho",21
+2023-03-31,viernes,"Fruta y verdura",Pomelo,47
+2023-03-31,viernes,"Fruta y verdura","Preparado de verdura para cocido",43
+2023-03-31,viernes,"Fruta y verdura",Puerros,44
+2023-03-31,viernes,"Fruta y verdura",Rabanitos,14
+2023-03-31,viernes,"Fruta y verdura","Rama de Tomates",43
+2023-03-31,viernes,"Fruta y verdura","Remolacha cocida y pelada",6
+2023-03-31,viernes,"Fruta y verdura","Repollo liso",45
+2023-03-31,viernes,"Fruta y verdura","Repollo rizado",47
+2023-03-31,viernes,"Fruta y verdura","Rúcula base para ensalada",8
+2023-03-31,viernes,"Fruta y verdura","Salteado de setas laminadas",10
+2023-03-31,viernes,"Fruta y verdura","Sandía baja en semillas",14
+2023-03-31,viernes,"Fruta y verdura",Seta,26
+2023-03-31,viernes,"Fruta y verdura","Seta laminada",40
+2023-03-31,viernes,"Fruta y verdura","Seta shiitake",22
+2023-03-31,viernes,"Fruta y verdura","Setas al plato con perejil",12
+2023-03-31,viernes,"Fruta y verdura","Sopa juliana para micro",12
+2023-03-31,viernes,"Fruta y verdura","Tomate canario",23
+2023-03-31,viernes,"Fruta y verdura","Tomate ensalada",57
+2023-03-31,viernes,"Fruta y verdura","Tomate kumato negro",6
+2023-03-31,viernes,"Fruta y verdura","Tomate pera",30
+2023-03-31,viernes,"Fruta y verdura","Tomate rallado",35
+2023-03-31,viernes,"Fruta y verdura","Tomate rosa",22
+2023-03-31,viernes,"Fruta y verdura",Tomates,43
+2023-03-31,viernes,"Fruta y verdura","Tomates cherry",5
+2023-03-31,viernes,"Fruta y verdura","Tomates cherry en rama Dulcita",27
+2023-03-31,viernes,"Fruta y verdura","Tomates cherry pera kumato",7
+2023-03-31,viernes,"Fruta y verdura","Tomates kumato negro",31
+2023-03-31,viernes,"Fruta y verdura","Tomates pera",14
+2023-03-31,viernes,"Fruta y verdura","Uva blanca sin semillas",27
+2023-03-31,viernes,"Fruta y verdura","Uva roja sin semillas",38
+2023-03-31,viernes,"Fruta y verdura","Wraps Texas",13
+2023-03-31,viernes,"Fruta y verdura",Yuca,45
+2023-03-31,viernes,"Fruta y verdura","Zanahoria rallada base para ensalada",42
+2023-03-31,viernes,"Fruta y verdura",Zanahorias,38
+2023-04-14,viernes,"Fruta y verdura","1/4 Sandía baja en semillas",9
+2023-04-14,viernes,"Fruta y verdura","3 Vegetales para micro",17
+2023-04-14,viernes,"Fruta y verdura","Acelgas cortadas",16
+2023-04-14,viernes,"Fruta y verdura",Aguacate,21
+2023-04-14,viernes,"Fruta y verdura",Aguacates,12
+2023-04-14,viernes,"Fruta y verdura","Ajo negro dientes pelados",37
+2023-04-14,viernes,"Fruta y verdura","Ajos morados",94
+2023-04-14,viernes,"Fruta y verdura",Albahaca,17
+2023-04-14,viernes,"Fruta y verdura",Albaricoque,5
+2023-04-14,viernes,"Fruta y verdura","Apio verde",49
+2023-04-14,viernes,"Fruta y verdura",Arándanos,23
+2023-04-14,viernes,"Fruta y verdura",Banana,35
+2023-04-14,viernes,"Fruta y verdura",Batata,42
+2023-04-14,viernes,"Fruta y verdura","Batata para micro",14
+2023-04-14,viernes,"Fruta y verdura",Berenjena,32
+2023-04-14,viernes,"Fruta y verdura",Bimi,19
+2023-04-14,viernes,"Fruta y verdura",Brócoli,15
+2023-04-14,viernes,"Fruta y verdura","Calabacín blanco",15
+2023-04-14,viernes,"Fruta y verdura","Calabacín verde",47
+2023-04-14,viernes,"Fruta y verdura","Calabaza cacahuete cortada a trozos",6
+2023-04-14,viernes,"Fruta y verdura","Canónigos base para ensalada",34
+2023-04-14,viernes,"Fruta y verdura",Cebollas,80
+2023-04-14,viernes,"Fruta y verdura","Cebollas dulces",32
+2023-04-14,viernes,"Fruta y verdura","Cebollas rojas",7
+2023-04-14,viernes,"Fruta y verdura","Cebollas tiernas",34
+2023-04-14,viernes,"Fruta y verdura",Cebollino,25
+2023-04-14,viernes,"Fruta y verdura",Cereza,48
+2023-04-14,viernes,"Fruta y verdura","Champiñón grande",50
+2023-04-14,viernes,"Fruta y verdura","Champiñón laminado limpio",5
+2023-04-14,viernes,"Fruta y verdura","Champiñón pequeño",19
+2023-04-14,viernes,"Fruta y verdura","Champiñón Portobello",37
+2023-04-14,viernes,"Fruta y verdura",Cilantro,22
+2023-04-14,viernes,"Fruta y verdura","Ciruela roja",30
+2023-04-14,viernes,"Fruta y verdura","Cogollos corazón de lechuga",26
+2023-04-14,viernes,"Fruta y verdura","Cogollos de lechuga",7
+2023-04-14,viernes,"Fruta y verdura","Col lombarda",20
+2023-04-14,viernes,"Fruta y verdura",Coliflor,14
+2023-04-14,viernes,"Fruta y verdura",Endibias,22
+2023-04-14,viernes,"Fruta y verdura","Ensalada California",33
+2023-04-14,viernes,"Fruta y verdura","Ensalada César",6
+2023-04-14,viernes,"Fruta y verdura","Ensalada de la casa",37
+2023-04-14,viernes,"Fruta y verdura","Ensalada de pasta",25
+2023-04-14,viernes,"Fruta y verdura","Ensalada de pasta Listo para Comer",47
+2023-04-14,viernes,"Fruta y verdura","Ensalada ensatún",35
+2023-04-14,viernes,"Fruta y verdura","Ensalada jamón",17
+2023-04-14,viernes,"Fruta y verdura","Ensalada mezcla 4 estaciones",31
+2023-04-14,viernes,"Fruta y verdura","Ensalada mezcla brotes tiernos",28
+2023-04-14,viernes,"Fruta y verdura","Ensalada mezcla brotes tiernos maxi",38
+2023-04-14,viernes,"Fruta y verdura","Ensalada mezcla dúo canónigos y rúcula",6
+2023-04-14,viernes,"Fruta y verdura","Ensalada mezcla fresca",8
+2023-04-14,viernes,"Fruta y verdura","Ensalada mezcla gourmet",48
+2023-04-14,viernes,"Fruta y verdura","Ensalada mezcla gourmet maxi",30
+2023-04-14,viernes,"Fruta y verdura","Ensalada mezcla primavera",18
+2023-04-14,viernes,"Fruta y verdura","Ensalada mezcla tierna",20
+2023-04-14,viernes,"Fruta y verdura","Ensalada mil islas",29
+2023-04-14,viernes,"Fruta y verdura","Ensalada queso de cabra",20
+2023-04-14,viernes,"Fruta y verdura","Escarola rizada",25
+2023-04-14,viernes,"Fruta y verdura","Escarola rizada base para ensalada",24
+2023-04-14,viernes,"Fruta y verdura","Espárrago verde fino",15
+2023-04-14,viernes,"Fruta y verdura","Espárrago verde grueso",7
+2023-04-14,viernes,"Fruta y verdura","Espinaca baby base para ensalada",34
+2023-04-14,viernes,"Fruta y verdura","Espinacas cortadas",50
+2023-04-14,viernes,"Fruta y verdura","Floretas de brócoli para micro",44
+2023-04-14,viernes,"Fruta y verdura",Frambuesas,31
+2023-04-14,viernes,"Fruta y verdura",Fresas,22
+2023-04-14,viernes,"Fruta y verdura","Guacamole Hacendado",24
+2023-04-14,viernes,"Fruta y verdura",Hierbabuena,7
+2023-04-14,viernes,"Fruta y verdura",Jengibre,24
+2023-04-14,viernes,"Fruta y verdura","Judía verde plana",66
+2023-04-14,viernes,"Fruta y verdura","Judía verde redonda",34
+2023-04-14,viernes,"Fruta y verdura","Kiwi verde",44
+2023-04-14,viernes,"Fruta y verdura","Kiwis amarillos",20
+2023-04-14,viernes,"Fruta y verdura","Kiwis verdes",22
+2023-04-14,viernes,"Fruta y verdura","Lechuga corazón romana",36
+2023-04-14,viernes,"Fruta y verdura","Lechuga hoja roble",14
+2023-04-14,viernes,"Fruta y verdura","Lechuga iceberg",15
+2023-04-14,viernes,"Fruta y verdura","Lechuga iceberg base para ensalada",50
+2023-04-14,viernes,"Fruta y verdura","Lechuga romana cortada",19
+2023-04-14,viernes,"Fruta y verdura","Lechugas corazón romana",39
+2023-04-14,viernes,"Fruta y verdura",Limas,30
+2023-04-14,viernes,"Fruta y verdura",Limón,46
+2023-04-14,viernes,"Fruta y verdura",Limones,50
+2023-04-14,viernes,"Fruta y verdura","Maíz dulce en mazorca",22
+2023-04-14,viernes,"Fruta y verdura","Maíz dulce en mazorca cocido",28
+2023-04-14,viernes,"Fruta y verdura",Mango,16
+2023-04-14,viernes,"Fruta y verdura","Manzana Crimson Snow",41
+2023-04-14,viernes,"Fruta y verdura","Manzana Golden",20
+2023-04-14,viernes,"Fruta y verdura","Manzana Granny Smith",48
+2023-04-14,viernes,"Fruta y verdura","Manzana Story",9
+2023-04-14,viernes,"Fruta y verdura","Manzanas Crimson Snow",36
+2023-04-14,viernes,"Fruta y verdura","Manzanas Golden",21
+2023-04-14,viernes,"Fruta y verdura","Media col lombarda",39
+2023-04-14,viernes,"Fruta y verdura","Media papaya",30
+2023-04-14,viernes,"Fruta y verdura","Media piña",27
+2023-04-14,viernes,"Fruta y verdura","Media sandía baja en semillas",43
+2023-04-14,viernes,"Fruta y verdura","Medio melón piel de sapo",30
+2023-04-14,viernes,"Fruta y verdura","Medio repollo liso",35
+2023-04-14,viernes,"Fruta y verdura","Medio repollo rizado",16
+2023-04-14,viernes,"Fruta y verdura","Melón piel de sapo",22
+2023-04-14,viernes,"Fruta y verdura","Mix de verduras jardinera para micro",38
+2023-04-14,viernes,"Fruta y verdura","Mix de verduras paisana para micro",5
+2023-04-14,viernes,"Fruta y verdura",Moras,34
+2023-04-14,viernes,"Fruta y verdura","Naranja para mesa",30
+2023-04-14,viernes,"Fruta y verdura",Naranjas,47
+2023-04-14,viernes,"Fruta y verdura","Nectarina pulpa blanca",6
+2023-04-14,viernes,"Fruta y verdura","Palitos de zanahoria",21
+2023-04-14,viernes,"Fruta y verdura",Papaya,34
+2023-04-14,viernes,"Fruta y verdura",Paraguayo,20
+2023-04-14,viernes,"Fruta y verdura",Patata,46
+2023-04-14,viernes,"Fruta y verdura","Patata para micro",19
+2023-04-14,viernes,"Fruta y verdura",Patatas,70
+2023-04-14,viernes,"Fruta y verdura","Patatas especial para freir",14
+2023-04-14,viernes,"Fruta y verdura","Patatas guarnición",39
+2023-04-14,viernes,"Fruta y verdura","Patatas rojas",6
+2023-04-14,viernes,"Fruta y verdura",Pepino,36
+2023-04-14,viernes,"Fruta y verdura","Pepino holandés",17
+2023-04-14,viernes,"Fruta y verdura",Pepinos,32
+2023-04-14,viernes,"Fruta y verdura","Pera Conferencia",17
+2023-04-14,viernes,"Fruta y verdura","Pera Ercolina",10
+2023-04-14,viernes,"Fruta y verdura","Peras Conferencia",39
+2023-04-14,viernes,"Fruta y verdura","Perejil troceado",22
+2023-04-14,viernes,"Fruta y verdura","Picada de ajo y Perejil",35
+2023-04-14,viernes,"Fruta y verdura","Pimiento rojo",50
+2023-04-14,viernes,"Fruta y verdura","Pimiento verde",21
+2023-04-14,viernes,"Fruta y verdura","Pimiento verde freír",35
+2023-04-14,viernes,"Fruta y verdura","Pimientos rojos picantes",6
+2023-04-14,viernes,"Fruta y verdura","Pimientos semipicantes",50
+2023-04-14,viernes,"Fruta y verdura","Pimientos tricolor rojo, amarillo y verde",26
+2023-04-14,viernes,"Fruta y verdura",Piña,34
+2023-04-14,viernes,"Fruta y verdura","Piña natural a rodajas",22
+2023-04-14,viernes,"Fruta y verdura","Plátano de Canarias",45
+2023-04-14,viernes,"Fruta y verdura","Plátano macho",9
+2023-04-14,viernes,"Fruta y verdura",Pomelo,19
+2023-04-14,viernes,"Fruta y verdura","Preparado de verdura para cocido",17
+2023-04-14,viernes,"Fruta y verdura",Puerros,31
+2023-04-14,viernes,"Fruta y verdura",Rabanitos,40
+2023-04-14,viernes,"Fruta y verdura","Rama de Tomates",20
+2023-04-14,viernes,"Fruta y verdura","Remolacha cocida y pelada",35
+2023-04-14,viernes,"Fruta y verdura","Repollo liso",49
+2023-04-14,viernes,"Fruta y verdura","Repollo rizado",45
+2023-04-14,viernes,"Fruta y verdura","Rúcula base para ensalada",50
+2023-04-14,viernes,"Fruta y verdura","Salteado de setas laminadas",49
+2023-04-14,viernes,"Fruta y verdura","Sandía baja en semillas",21
+2023-04-14,viernes,"Fruta y verdura",Seta,48
+2023-04-14,viernes,"Fruta y verdura","Seta laminada",21
+2023-04-14,viernes,"Fruta y verdura","Seta shiitake",15
+2023-04-14,viernes,"Fruta y verdura","Setas al plato con perejil",39
+2023-04-14,viernes,"Fruta y verdura","Sopa juliana para micro",6
+2023-04-14,viernes,"Fruta y verdura","Tomate canario",9
+2023-04-14,viernes,"Fruta y verdura","Tomate ensalada",97
+2023-04-14,viernes,"Fruta y verdura","Tomate kumato negro",45
+2023-04-14,viernes,"Fruta y verdura","Tomate pera",12
+2023-04-14,viernes,"Fruta y verdura","Tomate rallado",47
+2023-04-14,viernes,"Fruta y verdura","Tomate rosa",42
+2023-04-14,viernes,"Fruta y verdura",Tomates,49
+2023-04-14,viernes,"Fruta y verdura","Tomates cherry",9
+2023-04-14,viernes,"Fruta y verdura","Tomates cherry en rama Dulcita",13
+2023-04-14,viernes,"Fruta y verdura","Tomates cherry pera kumato",31
+2023-04-14,viernes,"Fruta y verdura","Tomates kumato negro",28
+2023-04-14,viernes,"Fruta y verdura","Tomates pera",7
+2023-04-14,viernes,"Fruta y verdura","Uva blanca sin semillas",17
+2023-04-14,viernes,"Fruta y verdura","Uva roja sin semillas",18
+2023-04-14,viernes,"Fruta y verdura","Wraps Texas",36
+2023-04-14,viernes,"Fruta y verdura",Yuca,39
+2023-04-14,viernes,"Fruta y verdura","Zanahoria rallada base para ensalada",19
+2023-04-14,viernes,"Fruta y verdura",Zanahorias,58
+2023-04-21,viernes,"Fruta y verdura","1/4 Sandía baja en semillas",41
+2023-04-21,viernes,"Fruta y verdura","3 Vegetales para micro",39
+2023-04-21,viernes,"Fruta y verdura","Acelgas cortadas",23
+2023-04-21,viernes,"Fruta y verdura",Aguacate,12
+2023-04-21,viernes,"Fruta y verdura",Aguacates,17
+2023-04-21,viernes,"Fruta y verdura","Ajo negro dientes pelados",46
+2023-04-21,viernes,"Fruta y verdura","Ajos morados",74
+2023-04-21,viernes,"Fruta y verdura",Albahaca,39
+2023-04-21,viernes,"Fruta y verdura",Albaricoque,25
+2023-04-21,viernes,"Fruta y verdura","Apio verde",30
+2023-04-21,viernes,"Fruta y verdura",Arándanos,26
+2023-04-21,viernes,"Fruta y verdura",Banana,41
+2023-04-21,viernes,"Fruta y verdura",Batata,38
+2023-04-21,viernes,"Fruta y verdura","Batata para micro",18
+2023-04-21,viernes,"Fruta y verdura",Berenjena,50
+2023-04-21,viernes,"Fruta y verdura",Bimi,37
+2023-04-21,viernes,"Fruta y verdura",Brócoli,44
+2023-04-21,viernes,"Fruta y verdura","Calabacín blanco",26
+2023-04-21,viernes,"Fruta y verdura","Calabacín verde",33
+2023-04-21,viernes,"Fruta y verdura","Calabaza cacahuete cortada a trozos",27
+2023-04-21,viernes,"Fruta y verdura","Canónigos base para ensalada",27
+2023-04-21,viernes,"Fruta y verdura",Cebollas,31
+2023-04-21,viernes,"Fruta y verdura","Cebollas dulces",34
+2023-04-21,viernes,"Fruta y verdura","Cebollas rojas",48
+2023-04-21,viernes,"Fruta y verdura","Cebollas tiernas",41
+2023-04-21,viernes,"Fruta y verdura",Cebollino,11
+2023-04-21,viernes,"Fruta y verdura",Cereza,34
+2023-04-21,viernes,"Fruta y verdura","Champiñón grande",29
+2023-04-21,viernes,"Fruta y verdura","Champiñón laminado limpio",11
+2023-04-21,viernes,"Fruta y verdura","Champiñón pequeño",45
+2023-04-21,viernes,"Fruta y verdura","Champiñón Portobello",40
+2023-04-21,viernes,"Fruta y verdura",Cilantro,45
+2023-04-21,viernes,"Fruta y verdura","Ciruela roja",19
+2023-04-21,viernes,"Fruta y verdura","Cogollos corazón de lechuga",28
+2023-04-21,viernes,"Fruta y verdura","Cogollos de lechuga",38
+2023-04-21,viernes,"Fruta y verdura","Col lombarda",47
+2023-04-21,viernes,"Fruta y verdura",Coliflor,36
+2023-04-21,viernes,"Fruta y verdura",Endibias,39
+2023-04-21,viernes,"Fruta y verdura","Ensalada California",19
+2023-04-21,viernes,"Fruta y verdura","Ensalada César",16
+2023-04-21,viernes,"Fruta y verdura","Ensalada de la casa",42
+2023-04-21,viernes,"Fruta y verdura","Ensalada de pasta",25
+2023-04-21,viernes,"Fruta y verdura","Ensalada de pasta Listo para Comer",9
+2023-04-21,viernes,"Fruta y verdura","Ensalada ensatún",32
+2023-04-21,viernes,"Fruta y verdura","Ensalada jamón",13
+2023-04-21,viernes,"Fruta y verdura","Ensalada mezcla 4 estaciones",6
+2023-04-21,viernes,"Fruta y verdura","Ensalada mezcla brotes tiernos",40
+2023-04-21,viernes,"Fruta y verdura","Ensalada mezcla brotes tiernos maxi",33
+2023-04-21,viernes,"Fruta y verdura","Ensalada mezcla dúo canónigos y rúcula",23
+2023-04-21,viernes,"Fruta y verdura","Ensalada mezcla fresca",13
+2023-04-21,viernes,"Fruta y verdura","Ensalada mezcla gourmet",30
+2023-04-21,viernes,"Fruta y verdura","Ensalada mezcla gourmet maxi",47
+2023-04-21,viernes,"Fruta y verdura","Ensalada mezcla primavera",20
+2023-04-21,viernes,"Fruta y verdura","Ensalada mezcla tierna",35
+2023-04-21,viernes,"Fruta y verdura","Ensalada mil islas",42
+2023-04-21,viernes,"Fruta y verdura","Ensalada queso de cabra",31
+2023-04-21,viernes,"Fruta y verdura","Escarola rizada",11
+2023-04-21,viernes,"Fruta y verdura","Escarola rizada base para ensalada",26
+2023-04-21,viernes,"Fruta y verdura","Espárrago verde fino",8
+2023-04-21,viernes,"Fruta y verdura","Espárrago verde grueso",29
+2023-04-21,viernes,"Fruta y verdura","Espinaca baby base para ensalada",23
+2023-04-21,viernes,"Fruta y verdura","Espinacas cortadas",22
+2023-04-21,viernes,"Fruta y verdura","Floretas de brócoli para micro",37
+2023-04-21,viernes,"Fruta y verdura",Frambuesas,34
+2023-04-21,viernes,"Fruta y verdura",Fresas,15
+2023-04-21,viernes,"Fruta y verdura","Guacamole Hacendado",56
+2023-04-21,viernes,"Fruta y verdura",Hierbabuena,14
+2023-04-21,viernes,"Fruta y verdura",Jengibre,18
+2023-04-21,viernes,"Fruta y verdura","Judía verde plana",60
+2023-04-21,viernes,"Fruta y verdura","Judía verde redonda",19
+2023-04-21,viernes,"Fruta y verdura","Kiwi verde",43
+2023-04-21,viernes,"Fruta y verdura","Kiwis amarillos",36
+2023-04-21,viernes,"Fruta y verdura","Kiwis verdes",46
+2023-04-21,viernes,"Fruta y verdura","Lechuga corazón romana",8
+2023-04-21,viernes,"Fruta y verdura","Lechuga hoja roble",25
+2023-04-21,viernes,"Fruta y verdura","Lechuga iceberg",42
+2023-04-21,viernes,"Fruta y verdura","Lechuga iceberg base para ensalada",45
+2023-04-21,viernes,"Fruta y verdura","Lechuga romana cortada",36
+2023-04-21,viernes,"Fruta y verdura","Lechugas corazón romana",38
+2023-04-21,viernes,"Fruta y verdura",Limas,30
+2023-04-21,viernes,"Fruta y verdura",Limón,45
+2023-04-21,viernes,"Fruta y verdura",Limones,20
+2023-04-21,viernes,"Fruta y verdura","Maíz dulce en mazorca",49
+2023-04-21,viernes,"Fruta y verdura","Maíz dulce en mazorca cocido",49
+2023-04-21,viernes,"Fruta y verdura",Mango,12
+2023-04-21,viernes,"Fruta y verdura","Manzana Crimson Snow",24
+2023-04-21,viernes,"Fruta y verdura","Manzana Golden",20
+2023-04-21,viernes,"Fruta y verdura","Manzana Granny Smith",29
+2023-04-21,viernes,"Fruta y verdura","Manzana Story",26
+2023-04-21,viernes,"Fruta y verdura","Manzanas Crimson Snow",48
+2023-04-21,viernes,"Fruta y verdura","Manzanas Golden",36
+2023-04-21,viernes,"Fruta y verdura","Media col lombarda",7
+2023-04-21,viernes,"Fruta y verdura","Media papaya",34
+2023-04-21,viernes,"Fruta y verdura","Media piña",47
+2023-04-21,viernes,"Fruta y verdura","Media sandía baja en semillas",32
+2023-04-21,viernes,"Fruta y verdura","Medio melón piel de sapo",26
+2023-04-21,viernes,"Fruta y verdura","Medio repollo liso",42
+2023-04-21,viernes,"Fruta y verdura","Medio repollo rizado",25
+2023-04-21,viernes,"Fruta y verdura","Melón piel de sapo",8
+2023-04-21,viernes,"Fruta y verdura","Mix de verduras jardinera para micro",37
+2023-04-21,viernes,"Fruta y verdura","Mix de verduras paisana para micro",31
+2023-04-21,viernes,"Fruta y verdura",Moras,33
+2023-04-21,viernes,"Fruta y verdura","Naranja para mesa",37
+2023-04-21,viernes,"Fruta y verdura",Naranjas,31
+2023-04-21,viernes,"Fruta y verdura","Nectarina pulpa blanca",19
+2023-04-21,viernes,"Fruta y verdura","Palitos de zanahoria",36
+2023-04-21,viernes,"Fruta y verdura",Papaya,8
+2023-04-21,viernes,"Fruta y verdura",Paraguayo,28
+2023-04-21,viernes,"Fruta y verdura",Patata,19
+2023-04-21,viernes,"Fruta y verdura","Patata para micro",21
+2023-04-21,viernes,"Fruta y verdura",Patatas,74
+2023-04-21,viernes,"Fruta y verdura","Patatas especial para freir",49
+2023-04-21,viernes,"Fruta y verdura","Patatas guarnición",42
+2023-04-21,viernes,"Fruta y verdura","Patatas rojas",42
+2023-04-21,viernes,"Fruta y verdura",Pepino,50
+2023-04-21,viernes,"Fruta y verdura","Pepino holandés",50
+2023-04-21,viernes,"Fruta y verdura",Pepinos,48
+2023-04-21,viernes,"Fruta y verdura","Pera Conferencia",6
+2023-04-21,viernes,"Fruta y verdura","Pera Ercolina",30
+2023-04-21,viernes,"Fruta y verdura","Peras Conferencia",9
+2023-04-21,viernes,"Fruta y verdura","Perejil troceado",45
+2023-04-21,viernes,"Fruta y verdura","Picada de ajo y Perejil",34
+2023-04-21,viernes,"Fruta y verdura","Pimiento rojo",16
+2023-04-21,viernes,"Fruta y verdura","Pimiento verde",32
+2023-04-21,viernes,"Fruta y verdura","Pimiento verde freír",26
+2023-04-21,viernes,"Fruta y verdura","Pimientos rojos picantes",41
+2023-04-21,viernes,"Fruta y verdura","Pimientos semipicantes",23
+2023-04-21,viernes,"Fruta y verdura","Pimientos tricolor rojo, amarillo y verde",20
+2023-04-21,viernes,"Fruta y verdura",Piña,15
+2023-04-21,viernes,"Fruta y verdura","Piña natural a rodajas",19
+2023-04-21,viernes,"Fruta y verdura","Plátano de Canarias",23
+2023-04-21,viernes,"Fruta y verdura","Plátano macho",8
+2023-04-21,viernes,"Fruta y verdura",Pomelo,12
+2023-04-21,viernes,"Fruta y verdura","Preparado de verdura para cocido",50
+2023-04-21,viernes,"Fruta y verdura",Puerros,46
+2023-04-21,viernes,"Fruta y verdura",Rabanitos,23
+2023-04-21,viernes,"Fruta y verdura","Rama de Tomates",41
+2023-04-21,viernes,"Fruta y verdura","Remolacha cocida y pelada",13
+2023-04-21,viernes,"Fruta y verdura","Repollo liso",15
+2023-04-21,viernes,"Fruta y verdura","Repollo rizado",17
+2023-04-21,viernes,"Fruta y verdura","Rúcula base para ensalada",7
+2023-04-21,viernes,"Fruta y verdura","Salteado de setas laminadas",11
+2023-04-21,viernes,"Fruta y verdura","Sandía baja en semillas",26
+2023-04-21,viernes,"Fruta y verdura",Seta,22
+2023-04-21,viernes,"Fruta y verdura","Seta laminada",45
+2023-04-21,viernes,"Fruta y verdura","Seta shiitake",25
+2023-04-21,viernes,"Fruta y verdura","Setas al plato con perejil",39
+2023-04-21,viernes,"Fruta y verdura","Sopa juliana para micro",46
+2023-04-21,viernes,"Fruta y verdura","Tomate canario",49
+2023-04-21,viernes,"Fruta y verdura","Tomate ensalada",73
+2023-04-21,viernes,"Fruta y verdura","Tomate kumato negro",40
+2023-04-21,viernes,"Fruta y verdura","Tomate pera",26
+2023-04-21,viernes,"Fruta y verdura","Tomate rallado",50
+2023-04-21,viernes,"Fruta y verdura","Tomate rosa",46
+2023-04-21,viernes,"Fruta y verdura",Tomates,44
+2023-04-21,viernes,"Fruta y verdura","Tomates cherry",22
+2023-04-21,viernes,"Fruta y verdura","Tomates cherry en rama Dulcita",35
+2023-04-21,viernes,"Fruta y verdura","Tomates cherry pera kumato",50
+2023-04-21,viernes,"Fruta y verdura","Tomates kumato negro",31
+2023-04-21,viernes,"Fruta y verdura","Tomates pera",36
+2023-04-21,viernes,"Fruta y verdura","Uva blanca sin semillas",34
+2023-04-21,viernes,"Fruta y verdura","Uva roja sin semillas",10
+2023-04-21,viernes,"Fruta y verdura","Wraps Texas",7
+2023-04-21,viernes,"Fruta y verdura",Yuca,19
+2023-04-21,viernes,"Fruta y verdura","Zanahoria rallada base para ensalada",10
+2023-04-21,viernes,"Fruta y verdura",Zanahorias,55
+2023-04-28,viernes,"Fruta y verdura","1/4 Sandía baja en semillas",37
+2023-04-28,viernes,"Fruta y verdura","3 Vegetales para micro",32
+2023-04-28,viernes,"Fruta y verdura","Acelgas cortadas",20
+2023-04-28,viernes,"Fruta y verdura",Aguacate,47
+2023-04-28,viernes,"Fruta y verdura",Aguacates,20
+2023-04-28,viernes,"Fruta y verdura","Ajo negro dientes pelados",45
+2023-04-28,viernes,"Fruta y verdura","Ajos morados",36
+2023-04-28,viernes,"Fruta y verdura",Albahaca,41
+2023-04-28,viernes,"Fruta y verdura",Albaricoque,38
+2023-04-28,viernes,"Fruta y verdura","Apio verde",28
+2023-04-28,viernes,"Fruta y verdura",Arándanos,37
+2023-04-28,viernes,"Fruta y verdura",Banana,33
+2023-04-28,viernes,"Fruta y verdura",Batata,43
+2023-04-28,viernes,"Fruta y verdura","Batata para micro",20
+2023-04-28,viernes,"Fruta y verdura",Berenjena,32
+2023-04-28,viernes,"Fruta y verdura",Bimi,14
+2023-04-28,viernes,"Fruta y verdura",Brócoli,14
+2023-04-28,viernes,"Fruta y verdura","Calabacín blanco",40
+2023-04-28,viernes,"Fruta y verdura","Calabacín verde",48
+2023-04-28,viernes,"Fruta y verdura","Calabaza cacahuete cortada a trozos",48
+2023-04-28,viernes,"Fruta y verdura","Canónigos base para ensalada",44
+2023-04-28,viernes,"Fruta y verdura",Cebollas,61
+2023-04-28,viernes,"Fruta y verdura","Cebollas dulces",27
+2023-04-28,viernes,"Fruta y verdura","Cebollas rojas",27
+2023-04-28,viernes,"Fruta y verdura","Cebollas tiernas",32
+2023-04-28,viernes,"Fruta y verdura",Cebollino,24
+2023-04-28,viernes,"Fruta y verdura",Cereza,44
+2023-04-28,viernes,"Fruta y verdura","Champiñón grande",42
+2023-04-28,viernes,"Fruta y verdura","Champiñón laminado limpio",34
+2023-04-28,viernes,"Fruta y verdura","Champiñón pequeño",33
+2023-04-28,viernes,"Fruta y verdura","Champiñón Portobello",47
+2023-04-28,viernes,"Fruta y verdura",Cilantro,35
+2023-04-28,viernes,"Fruta y verdura","Ciruela roja",6
+2023-04-28,viernes,"Fruta y verdura","Cogollos corazón de lechuga",27
+2023-04-28,viernes,"Fruta y verdura","Cogollos de lechuga",6
+2023-04-28,viernes,"Fruta y verdura","Col lombarda",20
+2023-04-28,viernes,"Fruta y verdura",Coliflor,15
+2023-04-28,viernes,"Fruta y verdura",Endibias,34
+2023-04-28,viernes,"Fruta y verdura","Ensalada California",6
+2023-04-28,viernes,"Fruta y verdura","Ensalada César",26
+2023-04-28,viernes,"Fruta y verdura","Ensalada de la casa",37
+2023-04-28,viernes,"Fruta y verdura","Ensalada de pasta",34
+2023-04-28,viernes,"Fruta y verdura","Ensalada de pasta Listo para Comer",10
+2023-04-28,viernes,"Fruta y verdura","Ensalada ensatún",37
+2023-04-28,viernes,"Fruta y verdura","Ensalada jamón",42
+2023-04-28,viernes,"Fruta y verdura","Ensalada mezcla 4 estaciones",46
+2023-04-28,viernes,"Fruta y verdura","Ensalada mezcla brotes tiernos",40
+2023-04-28,viernes,"Fruta y verdura","Ensalada mezcla brotes tiernos maxi",20
+2023-04-28,viernes,"Fruta y verdura","Ensalada mezcla dúo canónigos y rúcula",17
+2023-04-28,viernes,"Fruta y verdura","Ensalada mezcla fresca",31
+2023-04-28,viernes,"Fruta y verdura","Ensalada mezcla gourmet",48
+2023-04-28,viernes,"Fruta y verdura","Ensalada mezcla gourmet maxi",21
+2023-04-28,viernes,"Fruta y verdura","Ensalada mezcla primavera",48
+2023-04-28,viernes,"Fruta y verdura","Ensalada mezcla tierna",42
+2023-04-28,viernes,"Fruta y verdura","Ensalada mil islas",27
+2023-04-28,viernes,"Fruta y verdura","Ensalada queso de cabra",11
+2023-04-28,viernes,"Fruta y verdura","Escarola rizada",44
+2023-04-28,viernes,"Fruta y verdura","Escarola rizada base para ensalada",7
+2023-04-28,viernes,"Fruta y verdura","Espárrago verde fino",31
+2023-04-28,viernes,"Fruta y verdura","Espárrago verde grueso",41
+2023-04-28,viernes,"Fruta y verdura","Espinaca baby base para ensalada",13
+2023-04-28,viernes,"Fruta y verdura","Espinacas cortadas",13
+2023-04-28,viernes,"Fruta y verdura","Floretas de brócoli para micro",49
+2023-04-28,viernes,"Fruta y verdura",Frambuesas,26
+2023-04-28,viernes,"Fruta y verdura",Fresas,19
+2023-04-28,viernes,"Fruta y verdura","Guacamole Hacendado",68
+2023-04-28,viernes,"Fruta y verdura",Hierbabuena,42
+2023-04-28,viernes,"Fruta y verdura",Jengibre,31
+2023-04-28,viernes,"Fruta y verdura","Judía verde plana",82
+2023-04-28,viernes,"Fruta y verdura","Judía verde redonda",27
+2023-04-28,viernes,"Fruta y verdura","Kiwi verde",20
+2023-04-28,viernes,"Fruta y verdura","Kiwis amarillos",19
+2023-04-28,viernes,"Fruta y verdura","Kiwis verdes",19
+2023-04-28,viernes,"Fruta y verdura","Lechuga corazón romana",42
+2023-04-28,viernes,"Fruta y verdura","Lechuga hoja roble",12
+2023-04-28,viernes,"Fruta y verdura","Lechuga iceberg",33
+2023-04-28,viernes,"Fruta y verdura","Lechuga iceberg base para ensalada",39
+2023-04-28,viernes,"Fruta y verdura","Lechuga romana cortada",24
+2023-04-28,viernes,"Fruta y verdura","Lechugas corazón romana",39
+2023-04-28,viernes,"Fruta y verdura",Limas,39
+2023-04-28,viernes,"Fruta y verdura",Limón,47
+2023-04-28,viernes,"Fruta y verdura",Limones,10
+2023-04-28,viernes,"Fruta y verdura","Maíz dulce en mazorca",47
+2023-04-28,viernes,"Fruta y verdura","Maíz dulce en mazorca cocido",37
+2023-04-28,viernes,"Fruta y verdura",Mango,23
+2023-04-28,viernes,"Fruta y verdura","Manzana Crimson Snow",18
+2023-04-28,viernes,"Fruta y verdura","Manzana Golden",14
+2023-04-28,viernes,"Fruta y verdura","Manzana Granny Smith",16
+2023-04-28,viernes,"Fruta y verdura","Manzana Story",15
+2023-04-28,viernes,"Fruta y verdura","Manzanas Crimson Snow",16
+2023-04-28,viernes,"Fruta y verdura","Manzanas Golden",26
+2023-04-28,viernes,"Fruta y verdura","Media col lombarda",48
+2023-04-28,viernes,"Fruta y verdura","Media papaya",19
+2023-04-28,viernes,"Fruta y verdura","Media piña",16
+2023-04-28,viernes,"Fruta y verdura","Media sandía baja en semillas",36
+2023-04-28,viernes,"Fruta y verdura","Medio melón piel de sapo",26
+2023-04-28,viernes,"Fruta y verdura","Medio repollo liso",17
+2023-04-28,viernes,"Fruta y verdura","Medio repollo rizado",37
+2023-04-28,viernes,"Fruta y verdura","Melón piel de sapo",39
+2023-04-28,viernes,"Fruta y verdura","Mix de verduras jardinera para micro",17
+2023-04-28,viernes,"Fruta y verdura","Mix de verduras paisana para micro",10
+2023-04-28,viernes,"Fruta y verdura",Moras,44
+2023-04-28,viernes,"Fruta y verdura","Naranja para mesa",41
+2023-04-28,viernes,"Fruta y verdura",Naranjas,67
+2023-04-28,viernes,"Fruta y verdura","Nectarina pulpa blanca",49
+2023-04-28,viernes,"Fruta y verdura","Palitos de zanahoria",13
+2023-04-28,viernes,"Fruta y verdura",Papaya,30
+2023-04-28,viernes,"Fruta y verdura",Paraguayo,28
+2023-04-28,viernes,"Fruta y verdura",Patata,11
+2023-04-28,viernes,"Fruta y verdura","Patata para micro",21
+2023-04-28,viernes,"Fruta y verdura",Patatas,44
+2023-04-28,viernes,"Fruta y verdura","Patatas especial para freir",29
+2023-04-28,viernes,"Fruta y verdura","Patatas guarnición",42
+2023-04-28,viernes,"Fruta y verdura","Patatas rojas",12
+2023-04-28,viernes,"Fruta y verdura",Pepino,27
+2023-04-28,viernes,"Fruta y verdura","Pepino holandés",29
+2023-04-28,viernes,"Fruta y verdura",Pepinos,20
+2023-04-28,viernes,"Fruta y verdura","Pera Conferencia",42
+2023-04-28,viernes,"Fruta y verdura","Pera Ercolina",42
+2023-04-28,viernes,"Fruta y verdura","Peras Conferencia",24
+2023-04-28,viernes,"Fruta y verdura","Perejil troceado",34
+2023-04-28,viernes,"Fruta y verdura","Picada de ajo y Perejil",9
+2023-04-28,viernes,"Fruta y verdura","Pimiento rojo",35
+2023-04-28,viernes,"Fruta y verdura","Pimiento verde",15
+2023-04-28,viernes,"Fruta y verdura","Pimiento verde freír",31
+2023-04-28,viernes,"Fruta y verdura","Pimientos rojos picantes",37
+2023-04-28,viernes,"Fruta y verdura","Pimientos semipicantes",39
+2023-04-28,viernes,"Fruta y verdura","Pimientos tricolor rojo, amarillo y verde",8
+2023-04-28,viernes,"Fruta y verdura",Piña,22
+2023-04-28,viernes,"Fruta y verdura","Piña natural a rodajas",47
+2023-04-28,viernes,"Fruta y verdura","Plátano de Canarias",49
+2023-04-28,viernes,"Fruta y verdura","Plátano macho",12
+2023-04-28,viernes,"Fruta y verdura",Pomelo,32
+2023-04-28,viernes,"Fruta y verdura","Preparado de verdura para cocido",38
+2023-04-28,viernes,"Fruta y verdura",Puerros,41
+2023-04-28,viernes,"Fruta y verdura",Rabanitos,31
+2023-04-28,viernes,"Fruta y verdura","Rama de Tomates",37
+2023-04-28,viernes,"Fruta y verdura","Remolacha cocida y pelada",19
+2023-04-28,viernes,"Fruta y verdura","Repollo liso",10
+2023-04-28,viernes,"Fruta y verdura","Repollo rizado",41
+2023-04-28,viernes,"Fruta y verdura","Rúcula base para ensalada",29
+2023-04-28,viernes,"Fruta y verdura","Salteado de setas laminadas",15
+2023-04-28,viernes,"Fruta y verdura","Sandía baja en semillas",23
+2023-04-28,viernes,"Fruta y verdura",Seta,27
+2023-04-28,viernes,"Fruta y verdura","Seta laminada",42
+2023-04-28,viernes,"Fruta y verdura","Seta shiitake",21
+2023-04-28,viernes,"Fruta y verdura","Setas al plato con perejil",46
+2023-04-28,viernes,"Fruta y verdura","Sopa juliana para micro",25
+2023-04-28,viernes,"Fruta y verdura","Tomate canario",26
+2023-04-28,viernes,"Fruta y verdura","Tomate ensalada",56
+2023-04-28,viernes,"Fruta y verdura","Tomate kumato negro",31
+2023-04-28,viernes,"Fruta y verdura","Tomate pera",7
+2023-04-28,viernes,"Fruta y verdura","Tomate rallado",45
+2023-04-28,viernes,"Fruta y verdura","Tomate rosa",14
+2023-04-28,viernes,"Fruta y verdura",Tomates,31
+2023-04-28,viernes,"Fruta y verdura","Tomates cherry",36
+2023-04-28,viernes,"Fruta y verdura","Tomates cherry en rama Dulcita",13
+2023-04-28,viernes,"Fruta y verdura","Tomates cherry pera kumato",11
+2023-04-28,viernes,"Fruta y verdura","Tomates kumato negro",35
+2023-04-28,viernes,"Fruta y verdura","Tomates pera",31
+2023-04-28,viernes,"Fruta y verdura","Uva blanca sin semillas",32
+2023-04-28,viernes,"Fruta y verdura","Uva roja sin semillas",18
+2023-04-28,viernes,"Fruta y verdura","Wraps Texas",6
+2023-04-28,viernes,"Fruta y verdura",Yuca,15
+2023-04-28,viernes,"Fruta y verdura","Zanahoria rallada base para ensalada",48
+2023-04-28,viernes,"Fruta y verdura",Zanahorias,40
+2023-05-05,viernes,"Fruta y verdura","1/4 Sandía baja en semillas",21
+2023-05-05,viernes,"Fruta y verdura","3 Vegetales para micro",15
+2023-05-05,viernes,"Fruta y verdura","Acelgas cortadas",18
+2023-05-05,viernes,"Fruta y verdura",Aguacate,12
+2023-05-05,viernes,"Fruta y verdura",Aguacates,31
+2023-05-05,viernes,"Fruta y verdura","Ajo negro dientes pelados",38
+2023-05-05,viernes,"Fruta y verdura","Ajos morados",44
+2023-05-05,viernes,"Fruta y verdura",Albahaca,22
+2023-05-05,viernes,"Fruta y verdura",Albaricoque,50
+2023-05-05,viernes,"Fruta y verdura","Apio verde",12
+2023-05-05,viernes,"Fruta y verdura",Arándanos,6
+2023-05-05,viernes,"Fruta y verdura",Banana,31
+2023-05-05,viernes,"Fruta y verdura",Batata,49
+2023-05-05,viernes,"Fruta y verdura","Batata para micro",26
+2023-05-05,viernes,"Fruta y verdura",Berenjena,46
+2023-05-05,viernes,"Fruta y verdura",Bimi,35
+2023-05-05,viernes,"Fruta y verdura",Brócoli,9
+2023-05-05,viernes,"Fruta y verdura","Calabacín blanco",49
+2023-05-05,viernes,"Fruta y verdura","Calabacín verde",40
+2023-05-05,viernes,"Fruta y verdura","Calabaza cacahuete cortada a trozos",13
+2023-05-05,viernes,"Fruta y verdura","Canónigos base para ensalada",42
+2023-05-05,viernes,"Fruta y verdura",Cebollas,75
+2023-05-05,viernes,"Fruta y verdura","Cebollas dulces",45
+2023-05-05,viernes,"Fruta y verdura","Cebollas rojas",17
+2023-05-05,viernes,"Fruta y verdura","Cebollas tiernas",21
+2023-05-05,viernes,"Fruta y verdura",Cebollino,12
+2023-05-05,viernes,"Fruta y verdura",Cereza,66
+2023-05-05,viernes,"Fruta y verdura","Champiñón grande",30
+2023-05-05,viernes,"Fruta y verdura","Champiñón laminado limpio",18
+2023-05-05,viernes,"Fruta y verdura","Champiñón pequeño",30
+2023-05-05,viernes,"Fruta y verdura","Champiñón Portobello",29
+2023-05-05,viernes,"Fruta y verdura",Cilantro,19
+2023-05-05,viernes,"Fruta y verdura","Ciruela roja",42
+2023-05-05,viernes,"Fruta y verdura","Cogollos corazón de lechuga",28
+2023-05-05,viernes,"Fruta y verdura","Cogollos de lechuga",30
+2023-05-05,viernes,"Fruta y verdura","Col lombarda",21
+2023-05-05,viernes,"Fruta y verdura",Coliflor,13
+2023-05-05,viernes,"Fruta y verdura",Endibias,17
+2023-05-05,viernes,"Fruta y verdura","Ensalada California",18
+2023-05-05,viernes,"Fruta y verdura","Ensalada César",29
+2023-05-05,viernes,"Fruta y verdura","Ensalada de la casa",35
+2023-05-05,viernes,"Fruta y verdura","Ensalada de pasta",18
+2023-05-05,viernes,"Fruta y verdura","Ensalada de pasta Listo para Comer",25
+2023-05-05,viernes,"Fruta y verdura","Ensalada ensatún",42
+2023-05-05,viernes,"Fruta y verdura","Ensalada jamón",36
+2023-05-05,viernes,"Fruta y verdura","Ensalada mezcla 4 estaciones",34
+2023-05-05,viernes,"Fruta y verdura","Ensalada mezcla brotes tiernos",41
+2023-05-05,viernes,"Fruta y verdura","Ensalada mezcla brotes tiernos maxi",30
+2023-05-05,viernes,"Fruta y verdura","Ensalada mezcla dúo canónigos y rúcula",19
+2023-05-05,viernes,"Fruta y verdura","Ensalada mezcla fresca",9
+2023-05-05,viernes,"Fruta y verdura","Ensalada mezcla gourmet",42
+2023-05-05,viernes,"Fruta y verdura","Ensalada mezcla gourmet maxi",6
+2023-05-05,viernes,"Fruta y verdura","Ensalada mezcla primavera",40
+2023-05-05,viernes,"Fruta y verdura","Ensalada mezcla tierna",22
+2023-05-05,viernes,"Fruta y verdura","Ensalada mil islas",49
+2023-05-05,viernes,"Fruta y verdura","Ensalada queso de cabra",8
+2023-05-05,viernes,"Fruta y verdura","Escarola rizada",30
+2023-05-05,viernes,"Fruta y verdura","Escarola rizada base para ensalada",40
+2023-05-05,viernes,"Fruta y verdura","Espárrago verde fino",44
+2023-05-05,viernes,"Fruta y verdura","Espárrago verde grueso",49
+2023-05-05,viernes,"Fruta y verdura","Espinaca baby base para ensalada",50
+2023-05-05,viernes,"Fruta y verdura","Espinacas cortadas",45
+2023-05-05,viernes,"Fruta y verdura","Floretas de brócoli para micro",40
+2023-05-05,viernes,"Fruta y verdura",Frambuesas,15
+2023-05-05,viernes,"Fruta y verdura",Fresas,9
+2023-05-05,viernes,"Fruta y verdura","Guacamole Hacendado",58
+2023-05-05,viernes,"Fruta y verdura",Hierbabuena,31
+2023-05-05,viernes,"Fruta y verdura",Jengibre,7
+2023-05-05,viernes,"Fruta y verdura","Judía verde plana",58
+2023-05-05,viernes,"Fruta y verdura","Judía verde redonda",47
+2023-05-05,viernes,"Fruta y verdura","Kiwi verde",27
+2023-05-05,viernes,"Fruta y verdura","Kiwis amarillos",6
+2023-05-05,viernes,"Fruta y verdura","Kiwis verdes",35
+2023-05-05,viernes,"Fruta y verdura","Lechuga corazón romana",37
+2023-05-05,viernes,"Fruta y verdura","Lechuga hoja roble",49
+2023-05-05,viernes,"Fruta y verdura","Lechuga iceberg",21
+2023-05-05,viernes,"Fruta y verdura","Lechuga iceberg base para ensalada",50
+2023-05-05,viernes,"Fruta y verdura","Lechuga romana cortada",38
+2023-05-05,viernes,"Fruta y verdura","Lechugas corazón romana",22
+2023-05-05,viernes,"Fruta y verdura",Limas,37
+2023-05-05,viernes,"Fruta y verdura",Limón,29
+2023-05-05,viernes,"Fruta y verdura",Limones,41
+2023-05-05,viernes,"Fruta y verdura","Maíz dulce en mazorca",37
+2023-05-05,viernes,"Fruta y verdura","Maíz dulce en mazorca cocido",50
+2023-05-05,viernes,"Fruta y verdura",Mango,35
+2023-05-05,viernes,"Fruta y verdura","Manzana Crimson Snow",21
+2023-05-05,viernes,"Fruta y verdura","Manzana Golden",14
+2023-05-05,viernes,"Fruta y verdura","Manzana Granny Smith",24
+2023-05-05,viernes,"Fruta y verdura","Manzana Story",32
+2023-05-05,viernes,"Fruta y verdura","Manzanas Crimson Snow",34
+2023-05-05,viernes,"Fruta y verdura","Manzanas Golden",18
+2023-05-05,viernes,"Fruta y verdura","Media col lombarda",8
+2023-05-05,viernes,"Fruta y verdura","Media papaya",27
+2023-05-05,viernes,"Fruta y verdura","Media piña",13
+2023-05-05,viernes,"Fruta y verdura","Media sandía baja en semillas",46
+2023-05-05,viernes,"Fruta y verdura","Medio melón piel de sapo",19
+2023-05-05,viernes,"Fruta y verdura","Medio repollo liso",44
+2023-05-05,viernes,"Fruta y verdura","Medio repollo rizado",20
+2023-05-05,viernes,"Fruta y verdura","Melón piel de sapo",21
+2023-05-05,viernes,"Fruta y verdura","Mix de verduras jardinera para micro",22
+2023-05-05,viernes,"Fruta y verdura","Mix de verduras paisana para micro",45
+2023-05-05,viernes,"Fruta y verdura",Moras,28
+2023-05-05,viernes,"Fruta y verdura","Naranja para mesa",6
+2023-05-05,viernes,"Fruta y verdura",Naranjas,65
+2023-05-05,viernes,"Fruta y verdura","Nectarina pulpa blanca",29
+2023-05-05,viernes,"Fruta y verdura","Palitos de zanahoria",10
+2023-05-05,viernes,"Fruta y verdura",Papaya,40
+2023-05-05,viernes,"Fruta y verdura",Paraguayo,30
+2023-05-05,viernes,"Fruta y verdura",Patata,29
+2023-05-05,viernes,"Fruta y verdura","Patata para micro",9
+2023-05-05,viernes,"Fruta y verdura",Patatas,66
+2023-05-05,viernes,"Fruta y verdura","Patatas especial para freir",27
+2023-05-05,viernes,"Fruta y verdura","Patatas guarnición",44
+2023-05-05,viernes,"Fruta y verdura","Patatas rojas",45
+2023-05-05,viernes,"Fruta y verdura",Pepino,41
+2023-05-05,viernes,"Fruta y verdura","Pepino holandés",8
+2023-05-05,viernes,"Fruta y verdura",Pepinos,7
+2023-05-05,viernes,"Fruta y verdura","Pera Conferencia",29
+2023-05-05,viernes,"Fruta y verdura","Pera Ercolina",17
+2023-05-05,viernes,"Fruta y verdura","Peras Conferencia",27
+2023-05-05,viernes,"Fruta y verdura","Perejil troceado",38
+2023-05-05,viernes,"Fruta y verdura","Picada de ajo y Perejil",49
+2023-05-05,viernes,"Fruta y verdura","Pimiento rojo",5
+2023-05-05,viernes,"Fruta y verdura","Pimiento verde",44
+2023-05-05,viernes,"Fruta y verdura","Pimiento verde freír",24
+2023-05-05,viernes,"Fruta y verdura","Pimientos rojos picantes",43
+2023-05-05,viernes,"Fruta y verdura","Pimientos semipicantes",42
+2023-05-05,viernes,"Fruta y verdura","Pimientos tricolor rojo, amarillo y verde",5
+2023-05-05,viernes,"Fruta y verdura",Piña,8
+2023-05-05,viernes,"Fruta y verdura","Piña natural a rodajas",28
+2023-05-05,viernes,"Fruta y verdura","Plátano de Canarias",45
+2023-05-05,viernes,"Fruta y verdura","Plátano macho",19
+2023-05-05,viernes,"Fruta y verdura",Pomelo,27
+2023-05-05,viernes,"Fruta y verdura","Preparado de verdura para cocido",28
+2023-05-05,viernes,"Fruta y verdura",Puerros,39
+2023-05-05,viernes,"Fruta y verdura",Rabanitos,34
+2023-05-05,viernes,"Fruta y verdura","Rama de Tomates",17
+2023-05-05,viernes,"Fruta y verdura","Remolacha cocida y pelada",17
+2023-05-05,viernes,"Fruta y verdura","Repollo liso",33
+2023-05-05,viernes,"Fruta y verdura","Repollo rizado",33
+2023-05-05,viernes,"Fruta y verdura","Rúcula base para ensalada",44
+2023-05-05,viernes,"Fruta y verdura","Salteado de setas laminadas",20
+2023-05-05,viernes,"Fruta y verdura","Sandía baja en semillas",44
+2023-05-05,viernes,"Fruta y verdura",Seta,47
+2023-05-05,viernes,"Fruta y verdura","Seta laminada",46
+2023-05-05,viernes,"Fruta y verdura","Seta shiitake",44
+2023-05-05,viernes,"Fruta y verdura","Setas al plato con perejil",25
+2023-05-05,viernes,"Fruta y verdura","Sopa juliana para micro",37
+2023-05-05,viernes,"Fruta y verdura","Tomate canario",11
+2023-05-05,viernes,"Fruta y verdura","Tomate ensalada",49
+2023-05-05,viernes,"Fruta y verdura","Tomate kumato negro",18
+2023-05-05,viernes,"Fruta y verdura","Tomate pera",12
+2023-05-05,viernes,"Fruta y verdura","Tomate rallado",21
+2023-05-05,viernes,"Fruta y verdura","Tomate rosa",28
+2023-05-05,viernes,"Fruta y verdura",Tomates,12
+2023-05-05,viernes,"Fruta y verdura","Tomates cherry",26
+2023-05-05,viernes,"Fruta y verdura","Tomates cherry en rama Dulcita",39
+2023-05-05,viernes,"Fruta y verdura","Tomates cherry pera kumato",35
+2023-05-05,viernes,"Fruta y verdura","Tomates kumato negro",14
+2023-05-05,viernes,"Fruta y verdura","Tomates pera",29
+2023-05-05,viernes,"Fruta y verdura","Uva blanca sin semillas",27
+2023-05-05,viernes,"Fruta y verdura","Uva roja sin semillas",12
+2023-05-05,viernes,"Fruta y verdura","Wraps Texas",31
+2023-05-05,viernes,"Fruta y verdura",Yuca,19
+2023-05-05,viernes,"Fruta y verdura","Zanahoria rallada base para ensalada",44
+2023-05-05,viernes,"Fruta y verdura",Zanahorias,62
+2023-05-12,viernes,"Fruta y verdura","1/4 Sandía baja en semillas",26
+2023-05-12,viernes,"Fruta y verdura","3 Vegetales para micro",32
+2023-05-12,viernes,"Fruta y verdura","Acelgas cortadas",22
+2023-05-12,viernes,"Fruta y verdura",Aguacate,18
+2023-05-12,viernes,"Fruta y verdura",Aguacates,38
+2023-05-12,viernes,"Fruta y verdura","Ajo negro dientes pelados",29
+2023-05-12,viernes,"Fruta y verdura","Ajos morados",33
+2023-05-12,viernes,"Fruta y verdura",Albahaca,50
+2023-05-12,viernes,"Fruta y verdura",Albaricoque,33
+2023-05-12,viernes,"Fruta y verdura","Apio verde",35
+2023-05-12,viernes,"Fruta y verdura",Arándanos,8
+2023-05-12,viernes,"Fruta y verdura",Banana,29
+2023-05-12,viernes,"Fruta y verdura",Batata,19
+2023-05-12,viernes,"Fruta y verdura","Batata para micro",39
+2023-05-12,viernes,"Fruta y verdura",Berenjena,42
+2023-05-12,viernes,"Fruta y verdura",Bimi,13
+2023-05-12,viernes,"Fruta y verdura",Brócoli,12
+2023-05-12,viernes,"Fruta y verdura","Calabacín blanco",13
+2023-05-12,viernes,"Fruta y verdura","Calabacín verde",42
+2023-05-12,viernes,"Fruta y verdura","Calabaza cacahuete cortada a trozos",24
+2023-05-12,viernes,"Fruta y verdura","Canónigos base para ensalada",33
+2023-05-12,viernes,"Fruta y verdura",Cebollas,32
+2023-05-12,viernes,"Fruta y verdura","Cebollas dulces",33
+2023-05-12,viernes,"Fruta y verdura","Cebollas rojas",35
+2023-05-12,viernes,"Fruta y verdura","Cebollas tiernas",10
+2023-05-12,viernes,"Fruta y verdura",Cebollino,42
+2023-05-12,viernes,"Fruta y verdura",Cereza,63
+2023-05-12,viernes,"Fruta y verdura","Champiñón grande",43
+2023-05-12,viernes,"Fruta y verdura","Champiñón laminado limpio",27
+2023-05-12,viernes,"Fruta y verdura","Champiñón pequeño",29
+2023-05-12,viernes,"Fruta y verdura","Champiñón Portobello",18
+2023-05-12,viernes,"Fruta y verdura",Cilantro,21
+2023-05-12,viernes,"Fruta y verdura","Ciruela roja",20
+2023-05-12,viernes,"Fruta y verdura","Cogollos corazón de lechuga",44
+2023-05-12,viernes,"Fruta y verdura","Cogollos de lechuga",24
+2023-05-12,viernes,"Fruta y verdura","Col lombarda",46
+2023-05-12,viernes,"Fruta y verdura",Coliflor,18
+2023-05-12,viernes,"Fruta y verdura",Endibias,20
+2023-05-12,viernes,"Fruta y verdura","Ensalada California",45
+2023-05-12,viernes,"Fruta y verdura","Ensalada César",39
+2023-05-12,viernes,"Fruta y verdura","Ensalada de la casa",30
+2023-05-12,viernes,"Fruta y verdura","Ensalada de pasta",38
+2023-05-12,viernes,"Fruta y verdura","Ensalada de pasta Listo para Comer",45
+2023-05-12,viernes,"Fruta y verdura","Ensalada ensatún",34
+2023-05-12,viernes,"Fruta y verdura","Ensalada jamón",40
+2023-05-12,viernes,"Fruta y verdura","Ensalada mezcla 4 estaciones",24
+2023-05-12,viernes,"Fruta y verdura","Ensalada mezcla brotes tiernos",5
+2023-05-12,viernes,"Fruta y verdura","Ensalada mezcla brotes tiernos maxi",30
+2023-05-12,viernes,"Fruta y verdura","Ensalada mezcla dúo canónigos y rúcula",37
+2023-05-12,viernes,"Fruta y verdura","Ensalada mezcla fresca",47
+2023-05-12,viernes,"Fruta y verdura","Ensalada mezcla gourmet",40
+2023-05-12,viernes,"Fruta y verdura","Ensalada mezcla gourmet maxi",43
+2023-05-12,viernes,"Fruta y verdura","Ensalada mezcla primavera",33
+2023-05-12,viernes,"Fruta y verdura","Ensalada mezcla tierna",29
+2023-05-12,viernes,"Fruta y verdura","Ensalada mil islas",38
+2023-05-12,viernes,"Fruta y verdura","Ensalada queso de cabra",47
+2023-05-12,viernes,"Fruta y verdura","Escarola rizada",19
+2023-05-12,viernes,"Fruta y verdura","Escarola rizada base para ensalada",47
+2023-05-12,viernes,"Fruta y verdura","Espárrago verde fino",7
+2023-05-12,viernes,"Fruta y verdura","Espárrago verde grueso",34
+2023-05-12,viernes,"Fruta y verdura","Espinaca baby base para ensalada",27
+2023-05-12,viernes,"Fruta y verdura","Espinacas cortadas",41
+2023-05-12,viernes,"Fruta y verdura","Floretas de brócoli para micro",40
+2023-05-12,viernes,"Fruta y verdura",Frambuesas,23
+2023-05-12,viernes,"Fruta y verdura",Fresas,27
+2023-05-12,viernes,"Fruta y verdura","Guacamole Hacendado",63
+2023-05-12,viernes,"Fruta y verdura",Hierbabuena,19
+2023-05-12,viernes,"Fruta y verdura",Jengibre,47
+2023-05-12,viernes,"Fruta y verdura","Judía verde plana",60
+2023-05-12,viernes,"Fruta y verdura","Judía verde redonda",22
+2023-05-12,viernes,"Fruta y verdura","Kiwi verde",35
+2023-05-12,viernes,"Fruta y verdura","Kiwis amarillos",45
+2023-05-12,viernes,"Fruta y verdura","Kiwis verdes",15
+2023-05-12,viernes,"Fruta y verdura","Lechuga corazón romana",13
+2023-05-12,viernes,"Fruta y verdura","Lechuga hoja roble",19
+2023-05-12,viernes,"Fruta y verdura","Lechuga iceberg",17
+2023-05-12,viernes,"Fruta y verdura","Lechuga iceberg base para ensalada",39
+2023-05-12,viernes,"Fruta y verdura","Lechuga romana cortada",19
+2023-05-12,viernes,"Fruta y verdura","Lechugas corazón romana",39
+2023-05-12,viernes,"Fruta y verdura",Limas,24
+2023-05-12,viernes,"Fruta y verdura",Limón,6
+2023-05-12,viernes,"Fruta y verdura",Limones,39
+2023-05-12,viernes,"Fruta y verdura","Maíz dulce en mazorca",15
+2023-05-12,viernes,"Fruta y verdura","Maíz dulce en mazorca cocido",50
+2023-05-12,viernes,"Fruta y verdura",Mango,37
+2023-05-12,viernes,"Fruta y verdura","Manzana Crimson Snow",24
+2023-05-12,viernes,"Fruta y verdura","Manzana Golden",28
+2023-05-12,viernes,"Fruta y verdura","Manzana Granny Smith",15
+2023-05-12,viernes,"Fruta y verdura","Manzana Story",31
+2023-05-12,viernes,"Fruta y verdura","Manzanas Crimson Snow",40
+2023-05-12,viernes,"Fruta y verdura","Manzanas Golden",49
+2023-05-12,viernes,"Fruta y verdura","Media col lombarda",10
+2023-05-12,viernes,"Fruta y verdura","Media papaya",35
+2023-05-12,viernes,"Fruta y verdura","Media piña",23
+2023-05-12,viernes,"Fruta y verdura","Media sandía baja en semillas",23
+2023-05-12,viernes,"Fruta y verdura","Medio melón piel de sapo",37
+2023-05-12,viernes,"Fruta y verdura","Medio repollo liso",49
+2023-05-12,viernes,"Fruta y verdura","Medio repollo rizado",7
+2023-05-12,viernes,"Fruta y verdura","Melón piel de sapo",41
+2023-05-12,viernes,"Fruta y verdura","Mix de verduras jardinera para micro",40
+2023-05-12,viernes,"Fruta y verdura","Mix de verduras paisana para micro",41
+2023-05-12,viernes,"Fruta y verdura",Moras,12
+2023-05-12,viernes,"Fruta y verdura","Naranja para mesa",45
+2023-05-12,viernes,"Fruta y verdura",Naranjas,58
+2023-05-12,viernes,"Fruta y verdura","Nectarina pulpa blanca",5
+2023-05-12,viernes,"Fruta y verdura","Palitos de zanahoria",42
+2023-05-12,viernes,"Fruta y verdura",Papaya,25
+2023-05-12,viernes,"Fruta y verdura",Paraguayo,16
+2023-05-12,viernes,"Fruta y verdura",Patata,17
+2023-05-12,viernes,"Fruta y verdura","Patata para micro",36
+2023-05-12,viernes,"Fruta y verdura",Patatas,50
+2023-05-12,viernes,"Fruta y verdura","Patatas especial para freir",30
+2023-05-12,viernes,"Fruta y verdura","Patatas guarnición",26
+2023-05-12,viernes,"Fruta y verdura","Patatas rojas",30
+2023-05-12,viernes,"Fruta y verdura",Pepino,43
+2023-05-12,viernes,"Fruta y verdura","Pepino holandés",26
+2023-05-12,viernes,"Fruta y verdura",Pepinos,14
+2023-05-12,viernes,"Fruta y verdura","Pera Conferencia",39
+2023-05-12,viernes,"Fruta y verdura","Pera Ercolina",22
+2023-05-12,viernes,"Fruta y verdura","Peras Conferencia",46
+2023-05-12,viernes,"Fruta y verdura","Perejil troceado",48
+2023-05-12,viernes,"Fruta y verdura","Picada de ajo y Perejil",14
+2023-05-12,viernes,"Fruta y verdura","Pimiento rojo",41
+2023-05-12,viernes,"Fruta y verdura","Pimiento verde",12
+2023-05-12,viernes,"Fruta y verdura","Pimiento verde freír",18
+2023-05-12,viernes,"Fruta y verdura","Pimientos rojos picantes",31
+2023-05-12,viernes,"Fruta y verdura","Pimientos semipicantes",10
+2023-05-12,viernes,"Fruta y verdura","Pimientos tricolor rojo, amarillo y verde",48
+2023-05-12,viernes,"Fruta y verdura",Piña,30
+2023-05-12,viernes,"Fruta y verdura","Piña natural a rodajas",32
+2023-05-12,viernes,"Fruta y verdura","Plátano de Canarias",5
+2023-05-12,viernes,"Fruta y verdura","Plátano macho",44
+2023-05-12,viernes,"Fruta y verdura",Pomelo,14
+2023-05-12,viernes,"Fruta y verdura","Preparado de verdura para cocido",50
+2023-05-12,viernes,"Fruta y verdura",Puerros,41
+2023-05-12,viernes,"Fruta y verdura",Rabanitos,38
+2023-05-12,viernes,"Fruta y verdura","Rama de Tomates",18
+2023-05-12,viernes,"Fruta y verdura","Remolacha cocida y pelada",18
+2023-05-12,viernes,"Fruta y verdura","Repollo liso",45
+2023-05-12,viernes,"Fruta y verdura","Repollo rizado",17
+2023-05-12,viernes,"Fruta y verdura","Rúcula base para ensalada",13
+2023-05-12,viernes,"Fruta y verdura","Salteado de setas laminadas",30
+2023-05-12,viernes,"Fruta y verdura","Sandía baja en semillas",41
+2023-05-12,viernes,"Fruta y verdura",Seta,18
+2023-05-12,viernes,"Fruta y verdura","Seta laminada",33
+2023-05-12,viernes,"Fruta y verdura","Seta shiitake",15
+2023-05-12,viernes,"Fruta y verdura","Setas al plato con perejil",21
+2023-05-12,viernes,"Fruta y verdura","Sopa juliana para micro",28
+2023-05-12,viernes,"Fruta y verdura","Tomate canario",43
+2023-05-12,viernes,"Fruta y verdura","Tomate ensalada",22
+2023-05-12,viernes,"Fruta y verdura","Tomate kumato negro",14
+2023-05-12,viernes,"Fruta y verdura","Tomate pera",10
+2023-05-12,viernes,"Fruta y verdura","Tomate rallado",28
+2023-05-12,viernes,"Fruta y verdura","Tomate rosa",16
+2023-05-12,viernes,"Fruta y verdura",Tomates,47
+2023-05-12,viernes,"Fruta y verdura","Tomates cherry",36
+2023-05-12,viernes,"Fruta y verdura","Tomates cherry en rama Dulcita",41
+2023-05-12,viernes,"Fruta y verdura","Tomates cherry pera kumato",35
+2023-05-12,viernes,"Fruta y verdura","Tomates kumato negro",11
+2023-05-12,viernes,"Fruta y verdura","Tomates pera",31
+2023-05-12,viernes,"Fruta y verdura","Uva blanca sin semillas",27
+2023-05-12,viernes,"Fruta y verdura","Uva roja sin semillas",13
+2023-05-12,viernes,"Fruta y verdura","Wraps Texas",47
+2023-05-12,viernes,"Fruta y verdura",Yuca,25
+2023-05-12,viernes,"Fruta y verdura","Zanahoria rallada base para ensalada",14
+2023-05-12,viernes,"Fruta y verdura",Zanahorias,16
+2023-05-19,viernes,"Fruta y verdura","1/4 Sandía baja en semillas",44
+2023-05-19,viernes,"Fruta y verdura","3 Vegetales para micro",12
+2023-05-19,viernes,"Fruta y verdura","Acelgas cortadas",21
+2023-05-19,viernes,"Fruta y verdura",Aguacate,6
+2023-05-19,viernes,"Fruta y verdura",Aguacates,43
+2023-05-19,viernes,"Fruta y verdura","Ajo negro dientes pelados",28
+2023-05-19,viernes,"Fruta y verdura","Ajos morados",76
+2023-05-19,viernes,"Fruta y verdura",Albahaca,11
+2023-05-19,viernes,"Fruta y verdura",Albaricoque,6
+2023-05-19,viernes,"Fruta y verdura","Apio verde",50
+2023-05-19,viernes,"Fruta y verdura",Arándanos,29
+2023-05-19,viernes,"Fruta y verdura",Banana,46
+2023-05-19,viernes,"Fruta y verdura",Batata,25
+2023-05-19,viernes,"Fruta y verdura","Batata para micro",9
+2023-05-19,viernes,"Fruta y verdura",Berenjena,42
+2023-05-19,viernes,"Fruta y verdura",Bimi,11
+2023-05-19,viernes,"Fruta y verdura",Brócoli,16
+2023-05-19,viernes,"Fruta y verdura","Calabacín blanco",21
+2023-05-19,viernes,"Fruta y verdura","Calabacín verde",22
+2023-05-19,viernes,"Fruta y verdura","Calabaza cacahuete cortada a trozos",19
+2023-05-19,viernes,"Fruta y verdura","Canónigos base para ensalada",42
+2023-05-19,viernes,"Fruta y verdura",Cebollas,80
+2023-05-19,viernes,"Fruta y verdura","Cebollas dulces",46
+2023-05-19,viernes,"Fruta y verdura","Cebollas rojas",8
+2023-05-19,viernes,"Fruta y verdura","Cebollas tiernas",29
+2023-05-19,viernes,"Fruta y verdura",Cebollino,35
+2023-05-19,viernes,"Fruta y verdura",Cereza,24
+2023-05-19,viernes,"Fruta y verdura","Champiñón grande",23
+2023-05-19,viernes,"Fruta y verdura","Champiñón laminado limpio",44
+2023-05-19,viernes,"Fruta y verdura","Champiñón pequeño",41
+2023-05-19,viernes,"Fruta y verdura","Champiñón Portobello",36
+2023-05-19,viernes,"Fruta y verdura",Cilantro,20
+2023-05-19,viernes,"Fruta y verdura","Ciruela roja",39
+2023-05-19,viernes,"Fruta y verdura","Cogollos corazón de lechuga",22
+2023-05-19,viernes,"Fruta y verdura","Cogollos de lechuga",40
+2023-05-19,viernes,"Fruta y verdura","Col lombarda",8
+2023-05-19,viernes,"Fruta y verdura",Coliflor,7
+2023-05-19,viernes,"Fruta y verdura",Endibias,10
+2023-05-19,viernes,"Fruta y verdura","Ensalada California",44
+2023-05-19,viernes,"Fruta y verdura","Ensalada César",5
+2023-05-19,viernes,"Fruta y verdura","Ensalada de la casa",8
+2023-05-19,viernes,"Fruta y verdura","Ensalada de pasta",26
+2023-05-19,viernes,"Fruta y verdura","Ensalada de pasta Listo para Comer",9
+2023-05-19,viernes,"Fruta y verdura","Ensalada ensatún",28
+2023-05-19,viernes,"Fruta y verdura","Ensalada jamón",33
+2023-05-19,viernes,"Fruta y verdura","Ensalada mezcla 4 estaciones",35
+2023-05-19,viernes,"Fruta y verdura","Ensalada mezcla brotes tiernos",40
+2023-05-19,viernes,"Fruta y verdura","Ensalada mezcla brotes tiernos maxi",15
+2023-05-19,viernes,"Fruta y verdura","Ensalada mezcla dúo canónigos y rúcula",35
+2023-05-19,viernes,"Fruta y verdura","Ensalada mezcla fresca",21
+2023-05-19,viernes,"Fruta y verdura","Ensalada mezcla gourmet",22
+2023-05-19,viernes,"Fruta y verdura","Ensalada mezcla gourmet maxi",31
+2023-05-19,viernes,"Fruta y verdura","Ensalada mezcla primavera",31
+2023-05-19,viernes,"Fruta y verdura","Ensalada mezcla tierna",7
+2023-05-19,viernes,"Fruta y verdura","Ensalada mil islas",30
+2023-05-19,viernes,"Fruta y verdura","Ensalada queso de cabra",36
+2023-05-19,viernes,"Fruta y verdura","Escarola rizada",27
+2023-05-19,viernes,"Fruta y verdura","Escarola rizada base para ensalada",5
+2023-05-19,viernes,"Fruta y verdura","Espárrago verde fino",31
+2023-05-19,viernes,"Fruta y verdura","Espárrago verde grueso",16
+2023-05-19,viernes,"Fruta y verdura","Espinaca baby base para ensalada",11
+2023-05-19,viernes,"Fruta y verdura","Espinacas cortadas",25
+2023-05-19,viernes,"Fruta y verdura","Floretas de brócoli para micro",35
+2023-05-19,viernes,"Fruta y verdura",Frambuesas,34
+2023-05-19,viernes,"Fruta y verdura",Fresas,10
+2023-05-19,viernes,"Fruta y verdura","Guacamole Hacendado",68
+2023-05-19,viernes,"Fruta y verdura",Hierbabuena,23
+2023-05-19,viernes,"Fruta y verdura",Jengibre,34
+2023-05-19,viernes,"Fruta y verdura","Judía verde plana",50
+2023-05-19,viernes,"Fruta y verdura","Judía verde redonda",34
+2023-05-19,viernes,"Fruta y verdura","Kiwi verde",19
+2023-05-19,viernes,"Fruta y verdura","Kiwis amarillos",26
+2023-05-19,viernes,"Fruta y verdura","Kiwis verdes",8
+2023-05-19,viernes,"Fruta y verdura","Lechuga corazón romana",22
+2023-05-19,viernes,"Fruta y verdura","Lechuga hoja roble",20
+2023-05-19,viernes,"Fruta y verdura","Lechuga iceberg",48
+2023-05-19,viernes,"Fruta y verdura","Lechuga iceberg base para ensalada",8
+2023-05-19,viernes,"Fruta y verdura","Lechuga romana cortada",33
+2023-05-19,viernes,"Fruta y verdura","Lechugas corazón romana",27
+2023-05-19,viernes,"Fruta y verdura",Limas,17
+2023-05-19,viernes,"Fruta y verdura",Limón,10
+2023-05-19,viernes,"Fruta y verdura",Limones,8
+2023-05-19,viernes,"Fruta y verdura","Maíz dulce en mazorca",20
+2023-05-19,viernes,"Fruta y verdura","Maíz dulce en mazorca cocido",26
+2023-05-19,viernes,"Fruta y verdura",Mango,28
+2023-05-19,viernes,"Fruta y verdura","Manzana Crimson Snow",15
+2023-05-19,viernes,"Fruta y verdura","Manzana Golden",29
+2023-05-19,viernes,"Fruta y verdura","Manzana Granny Smith",23
+2023-05-19,viernes,"Fruta y verdura","Manzana Story",21
+2023-05-19,viernes,"Fruta y verdura","Manzanas Crimson Snow",7
+2023-05-19,viernes,"Fruta y verdura","Manzanas Golden",30
+2023-05-19,viernes,"Fruta y verdura","Media col lombarda",11
+2023-05-19,viernes,"Fruta y verdura","Media papaya",49
+2023-05-19,viernes,"Fruta y verdura","Media piña",28
+2023-05-19,viernes,"Fruta y verdura","Media sandía baja en semillas",19
+2023-05-19,viernes,"Fruta y verdura","Medio melón piel de sapo",49
+2023-05-19,viernes,"Fruta y verdura","Medio repollo liso",38
+2023-05-19,viernes,"Fruta y verdura","Medio repollo rizado",14
+2023-05-19,viernes,"Fruta y verdura","Melón piel de sapo",12
+2023-05-19,viernes,"Fruta y verdura","Mix de verduras jardinera para micro",26
+2023-05-19,viernes,"Fruta y verdura","Mix de verduras paisana para micro",14
+2023-05-19,viernes,"Fruta y verdura",Moras,40
+2023-05-19,viernes,"Fruta y verdura","Naranja para mesa",11
+2023-05-19,viernes,"Fruta y verdura",Naranjas,64
+2023-05-19,viernes,"Fruta y verdura","Nectarina pulpa blanca",35
+2023-05-19,viernes,"Fruta y verdura","Palitos de zanahoria",28
+2023-05-19,viernes,"Fruta y verdura",Papaya,40
+2023-05-19,viernes,"Fruta y verdura",Paraguayo,36
+2023-05-19,viernes,"Fruta y verdura",Patata,22
+2023-05-19,viernes,"Fruta y verdura","Patata para micro",14
+2023-05-19,viernes,"Fruta y verdura",Patatas,56
+2023-05-19,viernes,"Fruta y verdura","Patatas especial para freir",23
+2023-05-19,viernes,"Fruta y verdura","Patatas guarnición",49
+2023-05-19,viernes,"Fruta y verdura","Patatas rojas",20
+2023-05-19,viernes,"Fruta y verdura",Pepino,9
+2023-05-19,viernes,"Fruta y verdura","Pepino holandés",14
+2023-05-19,viernes,"Fruta y verdura",Pepinos,9
+2023-05-19,viernes,"Fruta y verdura","Pera Conferencia",34
+2023-05-19,viernes,"Fruta y verdura","Pera Ercolina",18
+2023-05-19,viernes,"Fruta y verdura","Peras Conferencia",36
+2023-05-19,viernes,"Fruta y verdura","Perejil troceado",27
+2023-05-19,viernes,"Fruta y verdura","Picada de ajo y Perejil",45
+2023-05-19,viernes,"Fruta y verdura","Pimiento rojo",33
+2023-05-19,viernes,"Fruta y verdura","Pimiento verde",28
+2023-05-19,viernes,"Fruta y verdura","Pimiento verde freír",10
+2023-05-19,viernes,"Fruta y verdura","Pimientos rojos picantes",16
+2023-05-19,viernes,"Fruta y verdura","Pimientos semipicantes",25
+2023-05-19,viernes,"Fruta y verdura","Pimientos tricolor rojo, amarillo y verde",37
+2023-05-19,viernes,"Fruta y verdura",Piña,13
+2023-05-19,viernes,"Fruta y verdura","Piña natural a rodajas",35
+2023-05-19,viernes,"Fruta y verdura","Plátano de Canarias",25
+2023-05-19,viernes,"Fruta y verdura","Plátano macho",42
+2023-05-19,viernes,"Fruta y verdura",Pomelo,28
+2023-05-19,viernes,"Fruta y verdura","Preparado de verdura para cocido",29
+2023-05-19,viernes,"Fruta y verdura",Puerros,44
+2023-05-19,viernes,"Fruta y verdura",Rabanitos,24
+2023-05-19,viernes,"Fruta y verdura","Rama de Tomates",40
+2023-05-19,viernes,"Fruta y verdura","Remolacha cocida y pelada",42
+2023-05-19,viernes,"Fruta y verdura","Repollo liso",29
+2023-05-19,viernes,"Fruta y verdura","Repollo rizado",17
+2023-05-19,viernes,"Fruta y verdura","Rúcula base para ensalada",26
+2023-05-19,viernes,"Fruta y verdura","Salteado de setas laminadas",28
+2023-05-19,viernes,"Fruta y verdura","Sandía baja en semillas",11
+2023-05-19,viernes,"Fruta y verdura",Seta,23
+2023-05-19,viernes,"Fruta y verdura","Seta laminada",18
+2023-05-19,viernes,"Fruta y verdura","Seta shiitake",6
+2023-05-19,viernes,"Fruta y verdura","Setas al plato con perejil",18
+2023-05-19,viernes,"Fruta y verdura","Sopa juliana para micro",25
+2023-05-19,viernes,"Fruta y verdura","Tomate canario",19
+2023-05-19,viernes,"Fruta y verdura","Tomate ensalada",77
+2023-05-19,viernes,"Fruta y verdura","Tomate kumato negro",37
+2023-05-19,viernes,"Fruta y verdura","Tomate pera",45
+2023-05-19,viernes,"Fruta y verdura","Tomate rallado",10
+2023-05-19,viernes,"Fruta y verdura","Tomate rosa",17
+2023-05-19,viernes,"Fruta y verdura",Tomates,44
+2023-05-19,viernes,"Fruta y verdura","Tomates cherry",34
+2023-05-19,viernes,"Fruta y verdura","Tomates cherry en rama Dulcita",37
+2023-05-19,viernes,"Fruta y verdura","Tomates cherry pera kumato",13
+2023-05-19,viernes,"Fruta y verdura","Tomates kumato negro",10
+2023-05-19,viernes,"Fruta y verdura","Tomates pera",6
+2023-05-19,viernes,"Fruta y verdura","Uva blanca sin semillas",28
+2023-05-19,viernes,"Fruta y verdura","Uva roja sin semillas",48
+2023-05-19,viernes,"Fruta y verdura","Wraps Texas",31
+2023-05-19,viernes,"Fruta y verdura",Yuca,32
+2023-05-19,viernes,"Fruta y verdura","Zanahoria rallada base para ensalada",33
+2023-05-19,viernes,"Fruta y verdura",Zanahorias,49
+2023-05-26,viernes,"Fruta y verdura","1/4 Sandía baja en semillas",27
+2023-05-26,viernes,"Fruta y verdura","3 Vegetales para micro",13
+2023-05-26,viernes,"Fruta y verdura","Acelgas cortadas",26
+2023-05-26,viernes,"Fruta y verdura",Aguacate,24
+2023-05-26,viernes,"Fruta y verdura",Aguacates,22
+2023-05-26,viernes,"Fruta y verdura","Ajo negro dientes pelados",11
+2023-05-26,viernes,"Fruta y verdura","Ajos morados",60
+2023-05-26,viernes,"Fruta y verdura",Albahaca,48
+2023-05-26,viernes,"Fruta y verdura",Albaricoque,19
+2023-05-26,viernes,"Fruta y verdura","Apio verde",34
+2023-05-26,viernes,"Fruta y verdura",Arándanos,9
+2023-05-26,viernes,"Fruta y verdura",Banana,27
+2023-05-26,viernes,"Fruta y verdura",Batata,8
+2023-05-26,viernes,"Fruta y verdura","Batata para micro",32
+2023-05-26,viernes,"Fruta y verdura",Berenjena,8
+2023-05-26,viernes,"Fruta y verdura",Bimi,16
+2023-05-26,viernes,"Fruta y verdura",Brócoli,19
+2023-05-26,viernes,"Fruta y verdura","Calabacín blanco",34
+2023-05-26,viernes,"Fruta y verdura","Calabacín verde",33
+2023-05-26,viernes,"Fruta y verdura","Calabaza cacahuete cortada a trozos",50
+2023-05-26,viernes,"Fruta y verdura","Canónigos base para ensalada",48
+2023-05-26,viernes,"Fruta y verdura",Cebollas,16
+2023-05-26,viernes,"Fruta y verdura","Cebollas dulces",30
+2023-05-26,viernes,"Fruta y verdura","Cebollas rojas",9
+2023-05-26,viernes,"Fruta y verdura","Cebollas tiernas",45
+2023-05-26,viernes,"Fruta y verdura",Cebollino,15
+2023-05-26,viernes,"Fruta y verdura",Cereza,51
+2023-05-26,viernes,"Fruta y verdura","Champiñón grande",22
+2023-05-26,viernes,"Fruta y verdura","Champiñón laminado limpio",11
+2023-05-26,viernes,"Fruta y verdura","Champiñón pequeño",22
+2023-05-26,viernes,"Fruta y verdura","Champiñón Portobello",41
+2023-05-26,viernes,"Fruta y verdura",Cilantro,7
+2023-05-26,viernes,"Fruta y verdura","Ciruela roja",12
+2023-05-26,viernes,"Fruta y verdura","Cogollos corazón de lechuga",11
+2023-05-26,viernes,"Fruta y verdura","Cogollos de lechuga",21
+2023-05-26,viernes,"Fruta y verdura","Col lombarda",24
+2023-05-26,viernes,"Fruta y verdura",Coliflor,14
+2023-05-26,viernes,"Fruta y verdura",Endibias,41
+2023-05-26,viernes,"Fruta y verdura","Ensalada California",34
+2023-05-26,viernes,"Fruta y verdura","Ensalada César",25
+2023-05-26,viernes,"Fruta y verdura","Ensalada de la casa",11
+2023-05-26,viernes,"Fruta y verdura","Ensalada de pasta",34
+2023-05-26,viernes,"Fruta y verdura","Ensalada de pasta Listo para Comer",45
+2023-05-26,viernes,"Fruta y verdura","Ensalada ensatún",17
+2023-05-26,viernes,"Fruta y verdura","Ensalada jamón",50
+2023-05-26,viernes,"Fruta y verdura","Ensalada mezcla 4 estaciones",34
+2023-05-26,viernes,"Fruta y verdura","Ensalada mezcla brotes tiernos",21
+2023-05-26,viernes,"Fruta y verdura","Ensalada mezcla brotes tiernos maxi",22
+2023-05-26,viernes,"Fruta y verdura","Ensalada mezcla dúo canónigos y rúcula",36
+2023-05-26,viernes,"Fruta y verdura","Ensalada mezcla fresca",41
+2023-05-26,viernes,"Fruta y verdura","Ensalada mezcla gourmet",43
+2023-05-26,viernes,"Fruta y verdura","Ensalada mezcla gourmet maxi",21
+2023-05-26,viernes,"Fruta y verdura","Ensalada mezcla primavera",5
+2023-05-26,viernes,"Fruta y verdura","Ensalada mezcla tierna",42
+2023-05-26,viernes,"Fruta y verdura","Ensalada mil islas",36
+2023-05-26,viernes,"Fruta y verdura","Ensalada queso de cabra",39
+2023-05-26,viernes,"Fruta y verdura","Escarola rizada",50
+2023-05-26,viernes,"Fruta y verdura","Escarola rizada base para ensalada",22
+2023-05-26,viernes,"Fruta y verdura","Espárrago verde fino",47
+2023-05-26,viernes,"Fruta y verdura","Espárrago verde grueso",47
+2023-05-26,viernes,"Fruta y verdura","Espinaca baby base para ensalada",15
+2023-05-26,viernes,"Fruta y verdura","Espinacas cortadas",33
+2023-05-26,viernes,"Fruta y verdura","Floretas de brócoli para micro",19
+2023-05-26,viernes,"Fruta y verdura",Frambuesas,41
+2023-05-26,viernes,"Fruta y verdura",Fresas,43
+2023-05-26,viernes,"Fruta y verdura","Guacamole Hacendado",75
+2023-05-26,viernes,"Fruta y verdura",Hierbabuena,6
+2023-05-26,viernes,"Fruta y verdura",Jengibre,20
+2023-05-26,viernes,"Fruta y verdura","Judía verde plana",37
+2023-05-26,viernes,"Fruta y verdura","Judía verde redonda",46
+2023-05-26,viernes,"Fruta y verdura","Kiwi verde",16
+2023-05-26,viernes,"Fruta y verdura","Kiwis amarillos",28
+2023-05-26,viernes,"Fruta y verdura","Kiwis verdes",38
+2023-05-26,viernes,"Fruta y verdura","Lechuga corazón romana",32
+2023-05-26,viernes,"Fruta y verdura","Lechuga hoja roble",8
+2023-05-26,viernes,"Fruta y verdura","Lechuga iceberg",14
+2023-05-26,viernes,"Fruta y verdura","Lechuga iceberg base para ensalada",7
+2023-05-26,viernes,"Fruta y verdura","Lechuga romana cortada",34
+2023-05-26,viernes,"Fruta y verdura","Lechugas corazón romana",29
+2023-05-26,viernes,"Fruta y verdura",Limas,24
+2023-05-26,viernes,"Fruta y verdura",Limón,26
+2023-05-26,viernes,"Fruta y verdura",Limones,34
+2023-05-26,viernes,"Fruta y verdura","Maíz dulce en mazorca",42
+2023-05-26,viernes,"Fruta y verdura","Maíz dulce en mazorca cocido",41
+2023-05-26,viernes,"Fruta y verdura",Mango,47
+2023-05-26,viernes,"Fruta y verdura","Manzana Crimson Snow",16
+2023-05-26,viernes,"Fruta y verdura","Manzana Golden",43
+2023-05-26,viernes,"Fruta y verdura","Manzana Granny Smith",47
+2023-05-26,viernes,"Fruta y verdura","Manzana Story",29
+2023-05-26,viernes,"Fruta y verdura","Manzanas Crimson Snow",6
+2023-05-26,viernes,"Fruta y verdura","Manzanas Golden",38
+2023-05-26,viernes,"Fruta y verdura","Media col lombarda",9
+2023-05-26,viernes,"Fruta y verdura","Media papaya",47
+2023-05-26,viernes,"Fruta y verdura","Media piña",35
+2023-05-26,viernes,"Fruta y verdura","Media sandía baja en semillas",43
+2023-05-26,viernes,"Fruta y verdura","Medio melón piel de sapo",21
+2023-05-26,viernes,"Fruta y verdura","Medio repollo liso",29
+2023-05-26,viernes,"Fruta y verdura","Medio repollo rizado",27
+2023-05-26,viernes,"Fruta y verdura","Melón piel de sapo",16
+2023-05-26,viernes,"Fruta y verdura","Mix de verduras jardinera para micro",26
+2023-05-26,viernes,"Fruta y verdura","Mix de verduras paisana para micro",49
+2023-05-26,viernes,"Fruta y verdura",Moras,47
+2023-05-26,viernes,"Fruta y verdura","Naranja para mesa",29
+2023-05-26,viernes,"Fruta y verdura",Naranjas,58
+2023-05-26,viernes,"Fruta y verdura","Nectarina pulpa blanca",20
+2023-05-26,viernes,"Fruta y verdura","Palitos de zanahoria",22
+2023-05-26,viernes,"Fruta y verdura",Papaya,34
+2023-05-26,viernes,"Fruta y verdura",Paraguayo,31
+2023-05-26,viernes,"Fruta y verdura",Patata,22
+2023-05-26,viernes,"Fruta y verdura","Patata para micro",36
+2023-05-26,viernes,"Fruta y verdura",Patatas,85
+2023-05-26,viernes,"Fruta y verdura","Patatas especial para freir",38
+2023-05-26,viernes,"Fruta y verdura","Patatas guarnición",12
+2023-05-26,viernes,"Fruta y verdura","Patatas rojas",19
+2023-05-26,viernes,"Fruta y verdura",Pepino,34
+2023-05-26,viernes,"Fruta y verdura","Pepino holandés",12
+2023-05-26,viernes,"Fruta y verdura",Pepinos,21
+2023-05-26,viernes,"Fruta y verdura","Pera Conferencia",18
+2023-05-26,viernes,"Fruta y verdura","Pera Ercolina",9
+2023-05-26,viernes,"Fruta y verdura","Peras Conferencia",27
+2023-05-26,viernes,"Fruta y verdura","Perejil troceado",50
+2023-05-26,viernes,"Fruta y verdura","Picada de ajo y Perejil",49
+2023-05-26,viernes,"Fruta y verdura","Pimiento rojo",18
+2023-05-26,viernes,"Fruta y verdura","Pimiento verde",43
+2023-05-26,viernes,"Fruta y verdura","Pimiento verde freír",20
+2023-05-26,viernes,"Fruta y verdura","Pimientos rojos picantes",43
+2023-05-26,viernes,"Fruta y verdura","Pimientos semipicantes",39
+2023-05-26,viernes,"Fruta y verdura","Pimientos tricolor rojo, amarillo y verde",34
+2023-05-26,viernes,"Fruta y verdura",Piña,33
+2023-05-26,viernes,"Fruta y verdura","Piña natural a rodajas",39
+2023-05-26,viernes,"Fruta y verdura","Plátano de Canarias",17
+2023-05-26,viernes,"Fruta y verdura","Plátano macho",24
+2023-05-26,viernes,"Fruta y verdura",Pomelo,28
+2023-05-26,viernes,"Fruta y verdura","Preparado de verdura para cocido",42
+2023-05-26,viernes,"Fruta y verdura",Puerros,8
+2023-05-26,viernes,"Fruta y verdura",Rabanitos,19
+2023-05-26,viernes,"Fruta y verdura","Rama de Tomates",17
+2023-05-26,viernes,"Fruta y verdura","Remolacha cocida y pelada",6
+2023-05-26,viernes,"Fruta y verdura","Repollo liso",42
+2023-05-26,viernes,"Fruta y verdura","Repollo rizado",42
+2023-05-26,viernes,"Fruta y verdura","Rúcula base para ensalada",25
+2023-05-26,viernes,"Fruta y verdura","Salteado de setas laminadas",32
+2023-05-26,viernes,"Fruta y verdura","Sandía baja en semillas",27
+2023-05-26,viernes,"Fruta y verdura",Seta,13
+2023-05-26,viernes,"Fruta y verdura","Seta laminada",9
+2023-05-26,viernes,"Fruta y verdura","Seta shiitake",38
+2023-05-26,viernes,"Fruta y verdura","Setas al plato con perejil",32
+2023-05-26,viernes,"Fruta y verdura","Sopa juliana para micro",18
+2023-05-26,viernes,"Fruta y verdura","Tomate canario",42
+2023-05-26,viernes,"Fruta y verdura","Tomate ensalada",76
+2023-05-26,viernes,"Fruta y verdura","Tomate kumato negro",45
+2023-05-26,viernes,"Fruta y verdura","Tomate pera",41
+2023-05-26,viernes,"Fruta y verdura","Tomate rallado",13
+2023-05-26,viernes,"Fruta y verdura","Tomate rosa",10
+2023-05-26,viernes,"Fruta y verdura",Tomates,15
+2023-05-26,viernes,"Fruta y verdura","Tomates cherry",35
+2023-05-26,viernes,"Fruta y verdura","Tomates cherry en rama Dulcita",49
+2023-05-26,viernes,"Fruta y verdura","Tomates cherry pera kumato",41
+2023-05-26,viernes,"Fruta y verdura","Tomates kumato negro",49
+2023-05-26,viernes,"Fruta y verdura","Tomates pera",35
+2023-05-26,viernes,"Fruta y verdura","Uva blanca sin semillas",27
+2023-05-26,viernes,"Fruta y verdura","Uva roja sin semillas",25
+2023-05-26,viernes,"Fruta y verdura","Wraps Texas",45
+2023-05-26,viernes,"Fruta y verdura",Yuca,28
+2023-05-26,viernes,"Fruta y verdura","Zanahoria rallada base para ensalada",48
+2023-05-26,viernes,"Fruta y verdura",Zanahorias,72

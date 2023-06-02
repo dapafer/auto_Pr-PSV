@@ -1,0 +1,64 @@
+fecha,dia_semana,subcategoria,venta_total
+2023-01-02,lunes,Verdura,2100
+2023-01-02,lunes,"Lechuga y ensalada preparada",961
+2023-01-02,lunes,Fruta,1072
+2023-01-09,lunes,Verdura,2159
+2023-01-09,lunes,"Lechuga y ensalada preparada",799
+2023-01-09,lunes,Fruta,1072
+2023-01-16,lunes,Verdura,2235
+2023-01-16,lunes,"Lechuga y ensalada preparada",822
+2023-01-16,lunes,Fruta,993
+2023-01-23,lunes,Verdura,2134
+2023-01-23,lunes,"Lechuga y ensalada preparada",771
+2023-01-23,lunes,Fruta,1063
+2023-01-30,lunes,Verdura,1983
+2023-01-30,lunes,"Lechuga y ensalada preparada",750
+2023-01-30,lunes,Fruta,1075
+2023-02-06,lunes,Verdura,2015
+2023-02-06,lunes,"Lechuga y ensalada preparada",831
+2023-02-06,lunes,Fruta,1256
+2023-02-13,lunes,Verdura,2197
+2023-02-13,lunes,"Lechuga y ensalada preparada",637
+2023-02-13,lunes,Fruta,1052
+2023-02-20,lunes,Verdura,2117
+2023-02-20,lunes,"Lechuga y ensalada preparada",661
+2023-02-20,lunes,Fruta,994
+2023-02-27,lunes,Verdura,1978
+2023-02-27,lunes,"Lechuga y ensalada preparada",794
+2023-02-27,lunes,Fruta,1140
+2023-03-06,lunes,Verdura,2021
+2023-03-06,lunes,"Lechuga y ensalada preparada",846
+2023-03-06,lunes,Fruta,1156
+2023-03-13,lunes,Verdura,2250
+2023-03-13,lunes,"Lechuga y ensalada preparada",852
+2023-03-13,lunes,Fruta,1217
+2023-03-20,lunes,Verdura,2321
+2023-03-20,lunes,"Lechuga y ensalada preparada",606
+2023-03-20,lunes,Fruta,1085
+2023-03-27,lunes,Verdura,2158
+2023-03-27,lunes,"Lechuga y ensalada preparada",923
+2023-03-27,lunes,Fruta,1180
+2023-04-03,lunes,Verdura,2126
+2023-04-03,lunes,"Lechuga y ensalada preparada",684
+2023-04-03,lunes,Fruta,1115
+2023-04-10,lunes,Verdura,2038
+2023-04-10,lunes,"Lechuga y ensalada preparada",583
+2023-04-10,lunes,Fruta,1121
+2023-04-17,lunes,Verdura,2197
+2023-04-17,lunes,"Lechuga y ensalada preparada",776
+2023-04-17,lunes,Fruta,1190
+2023-04-24,lunes,Verdura,2136
+2023-04-24,lunes,"Lechuga y ensalada preparada",974
+2023-04-24,lunes,Fruta,1147
+2023-05-08,lunes,Verdura,2004
+2023-05-08,lunes,"Lechuga y ensalada preparada",694
+2023-05-08,lunes,Fruta,1173
+2023-05-15,lunes,Verdura,1915
+2023-05-15,lunes,"Lechuga y ensalada preparada",898
+2023-05-15,lunes,Fruta,1181
+2023-05-22,lunes,Verdura,2180
+2023-05-22,lunes,"Lechuga y ensalada preparada",701
+2023-05-22,lunes,Fruta,1139
+2023-05-29,lunes,Verdura,2215
+2023-05-29,lunes,"Lechuga y ensalada preparada",819
+2023-05-29,lunes,Fruta,1204
