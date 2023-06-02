@@ -33,9 +33,7 @@ sub_frutas.csv
 sub_ensaladas.csv
 sub_verduras.csv
 
-cat_frutas.csv
-cat_ensaladas.csv
-cat_verduras.csv
+cat_fyv.csv
 
 mercadona_data_transform_fyv.ipynb
 

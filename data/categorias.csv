@@ -1,4 +1,2 @@
-categoria_id,categoria,seccion_id
-1,Fruta,1
-2,Lechuga y ensalada preparada,1
-3,Verdura,1
+categoria_id,categoria
+1,Fruta y verdura

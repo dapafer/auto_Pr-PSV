@@ -1,177 +1,176 @@
-producto_id,producto,formato,precio,subcategoria_id,categoria_id,seccion_id
-1,Plátano de Canarias,Pieza 160 g aprox.,0.3,1,1,1
-2,Banana,Pieza 170 g aprox.,0.25,1,1,1
-3,Plátano macho,Pieza 340 g aprox.,0.95,1,1,1
-4,Uva blanca sin semillas,Bandeja 500 g aprox.,2.45,1,1,1
-5,Uva roja sin semillas,Bandeja 500 g aprox.,2.4,1,1,1
-6,Manzana Golden,Pieza 190 g aprox.,0.36,2,1,1
-7,Manzanas Golden,"Bolsa 1,5 kg aprox.",2.39,2,1,1
-8,Pera Conferencia,Pieza 160 g aprox.,0.36,2,1,1
-9,Peras Conferencia,"1,5 kg aprox.",2.69,2,1,1
-10,Pera Ercolina,Pieza 90 g aprox.,0.28,2,1,1
-11,Manzana Granny Smith,Pieza 210 g aprox.,0.38,2,1,1
-12,Manzana Evelina,Pieza 220 g aprox.,0.57,2,1,1
-13,Manzana Evelina,"Bolsa 1,5 kg aprox.",3.44,2,1,1
-14,Manzana Envy,Pieza 280 g aprox.,0.73,2,1,1
-15,Manzanas Envy,"Bolsa 1,5 kg aprox.",3.44,2,1,1
-16,1/4 Sandía baja en semillas,"1/4 Pieza 1,32 kg aprox.",1.7,3,1,1
-17,Media sandía baja en semillas,"1/2 Pieza 2,49 kg aprox.",3.21,3,1,1
-18,Sandía baja en semillas,"Pieza 5,34 kg aprox.",6.35,3,1,1
-19,Medio melón piel de sapo,"1/2 Pieza 1,77 kg aprox.",3.88,3,1,1
-20,Melón piel de sapo,"Pieza 3,21 kg aprox.",6.71,3,1,1
-21,Limones,Malla 1 kg,2.19,4,1,1
-22,Limón,Pieza 210 g aprox.,0.5,4,1,1
-23,Mandarina,Pieza 150 g aprox.,0.3,4,1,1
-24,Naranja para mesa,Pieza 390 g aprox.,0.64,4,1,1
-25,Naranjas,Malla 3 kg,4.05,4,1,1
-26,Naranjas,Malla 5 kg,5.75,4,1,1
-27,Pomelo,Pieza 330 g aprox.,0.73,4,1,1
-28,Limas,400 g aprox.,2.0,4,1,1
-29,Kiwi verde,Pieza 110 g aprox.,0.33,5,1,1
-30,Kiwis verdes,1 kg aprox.,2.88,5,1,1
-31,Aguacate,Pieza 200 g aprox.,0.88,5,1,1
-32,Aguacates,550 g aprox.,2.3,5,1,1
-33,Piña,"Pieza 1,77 kg aprox.",3.38,5,1,1
-34,Media piña,1/2 Pieza 900 g aprox.,1.9,5,1,1
-35,Guacamole Hacendado,Tarrina 500 g,3.59,5,1,1
-36,Guacamole Hacendado,Tarrina 200 g,1.75,5,1,1
-37,Mango,Pieza 500 g aprox.,1.3,5,1,1
-38,Piña natural a rodajas,Bote 500 g aprox.,2.68,5,1,1
-39,Papaya,"Pieza 1,28 kg aprox.",6.14,5,1,1
-40,Media papaya,1/2 Pieza 640 g aprox.,3.19,5,1,1
-41,Cereza,Bandeja 500 g aprox.,4.38,6,1,1
-42,Fresón,Bandeja 500 g aprox.,1.95,6,1,1
-43,Frambuesas,Bandeja 170 g,2.19,6,1,1
-44,Níspero,Bandeja 500 g aprox.,2.25,6,1,1
-45,Moras,Bandeja 125 g,1.99,6,1,1
-46,Arándanos,Vaso 225 g,2.69,6,1,1
-47,Arándanos,Tarrina 500 g,4.99,6,1,1
-48,Lechuga iceberg,Pieza 1 ud.,1.24,7,2,1
-49,Ensalada mezcla 4 estaciones,Paquete 250 g,0.72,7,2,1
-50,Lechugas corazón romana,Paquete 2 ud.,1.53,7,2,1
-51,Ensalada mezcla brotes tiernos,Paquete 100 g,1.15,7,2,1
-52,Canónigos base para ensalada,Paquete 125 g,1.14,7,2,1
-53,Lechuga iceberg base para ensalada,Paquete 250 g,0.86,7,2,1
-54,Ensalada mezcla gourmet,Paquete 175 g,1.02,7,2,1
-55,Cogollos de lechuga,Paquete 3 ud.,1.06,7,2,1
-56,Lechuga corazón romana,Paquete 1 ud.,1.15,7,2,1
-57,Endibias,Bandeja 450 g,1.55,7,2,1
-58,Ensalada mezcla brotes tiernos maxi,Paquete 175 g,1.59,7,2,1
-59,Ensalada mezcla gourmet maxi,Paquete 300 g,1.66,7,2,1
-60,Ensalada mezcla tierna,Paquete 150 g,1.2,7,2,1
-61,Rúcula base para ensalada,Paquete 50 g,0.72,7,2,1
-62,Cogollos corazón de lechuga,Paquete 6 ud.,1.88,7,2,1
-63,Ensalada mezcla primavera,Paquete 200 g,0.96,7,2,1
-64,Ensalada mezcla dúo canónigos y rúcula,Paquete 100 g,1.3,7,2,1
-65,Ensalada mezcla fresca,Paquete 200 g,1.11,7,2,1
-66,Lechuga hoja roble,Paquete 1 ud.,1.3,7,2,1
-67,Escarola rizada base para ensalada,Paquete 150 g,1.2,7,2,1
-68,Escarola rizada,Paquete 1 ud.,1.54,7,2,1
-69,Espinaca baby base para ensalada,Paquete 100 g,1.11,7,2,1
-70,Lechuga romana cortada,Paquete 200 g,1.15,7,2,1
-71,Ensalada César,Bol 210 g,2.29,8,2,1
-72,Ensalada California,Bol 192 g,2.29,8,2,1
-73,Wraps Texas,Bol 300 g,2.99,8,2,1
-74,Ensalada de la casa,Bol 400 g,1.91,8,2,1
-75,Ensalada mil islas,Bol 330 g,2.55,8,2,1
-76,Ensalada ensatún,Bol 250 g,2.49,8,2,1
-77,Ensalada jamón,Bol 215 g,2.49,8,2,1
-78,Ensalada de pasta,Bol 250 g,2.49,8,2,1
-79,Ensalada queso de cabra,Bol 135 g,2.79,8,2,1
-80,Ensalada de pasta Listo para Comer,Bol 340 g,4.0,8,2,1
-81,Patata,Pieza 220 g aprox.,0.42,9,3,1
-82,Patatas,Malla 3 kg,4.9,9,3,1
-83,Patatas rojas,Malla 2 kg,2.68,9,3,1
-84,Patatas,Malla 5 kg,5.99,9,3,1
-85,Patatas guarnición,Malla 1 kg,2.16,9,3,1
-86,Batata,Pieza 340 g aprox.,0.95,9,3,1
-87,Patatas especial para freir,Malla 2 kg,2.93,9,3,1
-88,Cebollas tiernas,Manojo 3 ud.,1.24,10,3,1
-89,Cebollas,Malla 2 kg,3.99,10,3,1
-90,Cebollas,Malla 1 kg,2.19,10,3,1
-91,Ajos morados,Malla 250 g,1.39,10,3,1
-92,Cebollas dulces,Malla 1 kg,2.3,10,3,1
-93,Ajo tierno,Manojo 200 g,2.3,10,3,1
-94,Ajos morados,Malla 400 g,1.91,10,3,1
-95,Cebollas rojas,Malla 500 g,1.29,10,3,1
-96,Yuca,Pieza 650 g aprox.,1.81,10,3,1
-97,Ajo negro dientes pelados,Tarrina 85 g,4.45,10,3,1
-98,Picada de ajo y Perejil,Bandeja 100 g,1.39,10,3,1
-99,Tomate ensalada,Pieza 290 g aprox.,0.74,11,3,1
-100,Tomate canario,Pieza 110 g aprox.,0.22,11,3,1
-101,Tomate pera,Pieza 130 g aprox.,0.3,11,3,1
-102,Tomates pera,1 kg aprox.,2.39,11,3,1
-103,Tomates cherry pera kumato,Bandeja 300 g,1.25,11,3,1
-104,Tomates cherry,Bandeja 500 g,1.83,11,3,1
-105,Tomates cherry en rama Dulcita,Bandeja 200 g,2.26,11,3,1
-106,Tomates kumato,1 kg aprox.,2.39,11,3,1
-107,Tomates,Malla 2 kg,3.78,11,3,1
-108,Tomate kumato negro,Pieza 160 g aprox.,0.4,11,3,1
-109,Tomate rallado,Tarrina 290 g,1.39,11,3,1
-110,Rama de Tomates,720 g aprox.,1.86,11,3,1
-111,Tomate ensalada,1 kg aprox.,2.65,11,3,1
-112,Zanahorias,Paquete 1 kg,1.15,12,3,1
-113,Pepino,Pieza 200 g aprox.,0.36,12,3,1
-114,Pepino holandés,Pieza 425 g aprox.,1.06,12,3,1
-115,Zanahorias,Paquete 500 g,0.89,12,3,1
-116,Pepinos,"Malla 1,25 kg",2.2,12,3,1
-117,Palitos de zanahoria,Tarrina 180 g,1.78,12,3,1
-118,Zanahoria rallada base para ensalada,Paquete 150 g,0.82,12,3,1
-119,Pimiento rojo,Pieza 350 g aprox.,1.01,13,3,1
-120,Calabacín verde,Pieza 370 g aprox.,0.63,13,3,1
-121,Pimiento verde freír,Pieza 90 g aprox.,0.22,13,3,1
-122,Calabacín blanco,Pieza 360 g aprox.,0.72,13,3,1
-123,Pimiento verde,Pieza 280 g aprox.,0.7,13,3,1
-124,"Pimientos tricolor rojo, amarillo y verde",600 g,1.85,13,3,1
-125,Pimientos semipicantes,Paquete 250 g,1.35,13,3,1
-126,Pimientos rojos picantes,Bandeja 100 g,1.53,13,3,1
-127,Coliflor,"Pieza 1,2 kg aprox.",2.12,14,3,1
-128,Repollo liso,"Pieza 1,64 kg aprox.",2.54,14,3,1
-129,Medio repollo liso,1/2 Pieza 860 g aprox.,1.58,14,3,1
-130,Repollo rizado,"Pieza 1,13 kg aprox.",1.75,14,3,1
-131,Medio repollo rizado,1/2 Pieza 640 g aprox.,1.18,14,3,1
-132,Col lombarda,"Pieza 1,02 kg aprox.",1.79,14,3,1
-133,Media col lombarda,1/2 Pieza 570 g aprox.,1.14,14,3,1
-134,Champiñón pequeño,Bandeja 300 g aprox.,1.39,15,3,1
-135,Champiñón laminado limpio,Bandeja 320 g aprox.,1.81,15,3,1
-136,Seta,Bandeja 250 g aprox.,1.76,15,3,1
-137,Champiñón grande,Bandeja 430 g aprox.,2.06,15,3,1
-138,Seta laminada,Bandeja 250 g aprox.,1.91,15,3,1
-139,Champiñón Portobello,Bandeja 300 g aprox.,1.93,15,3,1
-140,Setas al plato con perejil,Bandeja 200 g,2.84,15,3,1
-141,Salteado de setas laminadas,Bandeja 250 g aprox.,1.73,15,3,1
-142,Seta shiitake,Bandeja 300 g aprox.,3.53,15,3,1
-143,Perejil troceado,Paquete 40 g,0.75,16,3,1
-144,Jengibre,200 g aprox.,1.59,16,3,1
-145,Cilantro,Bandeja 20 g,1.25,16,3,1
-146,Albahaca,Bandeja 20 g,1.5,16,3,1
-147,Hierbabuena,Paquete 70 g,1.25,16,3,1
-148,Cebollino,Bandeja 20 g,1.25,16,3,1
-149,Espinacas cortadas,Paquete 300 g,1.2,17,3,1
-150,Brócoli,Pieza 450 g aprox.,1.23,17,3,1
-151,Berenjena,Pieza 340 g aprox.,0.68,17,3,1
-152,Judía verde plana,Bandeja 750 g,2.83,17,3,1
-153,Judía verde plana,Bandeja 350 g,1.43,17,3,1
-154,Acelgas cortadas,Paquete 300 g,1.11,17,3,1
-155,Puerros,Paquete 900 g aprox.,2.24,17,3,1
-156,Judía verde redonda,Bandeja 500 g,2.2,17,3,1
-157,Calabaza cacahuete cortada a trozos,Bandeja 450 g aprox.,1.98,17,3,1
-158,Apio verde,Paquete 660 g aprox.,1.26,17,3,1
-159,Preparado de verdura para cocido,Bandeja 900 g aprox.,1.79,17,3,1
-160,Espárrago verde fino,Paquete 250 g,1.79,17,3,1
-161,Rabanitos,Paquete 250 g,1.05,17,3,1
-162,Remolacha cocida y pelada,Paquete 450 g,0.85,17,3,1
-163,Acelgas,Paquete 800 g,2.26,17,3,1
-164,Maíz dulce en mazorca cocido,Paquete 2 ud. (450 g),1.55,17,3,1
-165,Calabaza cacahuete,"Pieza 1,74 kg aprox.",3.39,17,3,1
-166,Media calabaza cacahuete,1/2 Pieza 850 g aprox.,1.87,17,3,1
-167,Bimi,Bandeja 200 g,2.55,17,3,1
-168,Espárrago verde grueso,Paquete 300 g,3.26,17,3,1
-169,Maíz dulce en mazorca,Bandeja 2 ud.,2.88,17,3,1
-170,3 Vegetales para micro,Paquete 300 g,1.54,17,3,1
-171,Floretas de brócoli para micro,Paquete 230 g,1.42,18,3,1
-172,Mix de verduras paisana para micro,Paquete 300 g,1.8,18,3,1
-173,Sopa juliana para micro,Paquete 400 g,1.35,18,3,1
-174,Patata para micro,Paquete 400 g,1.3,18,3,1
-175,Batata para micro,Paquete 400 g,2.4,18,3,1
-176,Mix de verduras jardinera para micro,Paquete 400 g,1.9,18,3,1
+producto_id,producto,formato,precio,subcategoria_id,categoria_id
+1,Plátano de Canarias,Pieza 160 g aprox.,0.3,1,1
+2,Banana,Pieza 170 g aprox.,0.25,1,1
+3,Plátano macho,Pieza 340 g aprox.,0.95,1,1
+4,Uva blanca sin semillas,Bandeja 500 g aprox.,2.45,1,1
+5,Uva roja sin semillas,Bandeja 500 g aprox.,2.4,1,1
+6,Manzana Golden,Pieza 190 g aprox.,0.4,1,1
+7,Manzanas Golden,"Bolsa 1,5 kg aprox.",2.69,1,1
+8,Pera Conferencia,Pieza 140 g aprox.,0.32,1,1
+9,Peras Conferencia,"1,5 kg aprox.",2.69,1,1
+10,Pera Ercolina,Pieza 90 g aprox.,0.28,1,1
+11,Manzana Granny Smith,Pieza 230 g aprox.,0.42,1,1
+12,Manzana Story,Pieza 170 g aprox.,0.34,1,1
+13,Manzana Crimson Snow,Pieza 200 g aprox.,0.48,1,1
+14,Manzanas Crimson Snow,"Bolsa 1,5 kg aprox.",2.99,1,1
+15,1/4 Sandía baja en semillas,"1/4 Pieza 1,5 kg aprox.",1.49,1,1
+16,Media sandía baja en semillas,"1/2 Pieza 2,66 kg aprox.",2.63,1,1
+17,Sandía baja en semillas,"Pieza 5,66 kg aprox.",5.04,1,1
+18,Medio melón piel de sapo,"1/2 Pieza 1,57 kg aprox.",2.18,1,1
+19,Melón piel de sapo,"Pieza 3,23 kg aprox.",4.17,1,1
+20,Limones,Malla 1 kg,2.19,1,1
+21,Limón,Pieza 200 g aprox.,0.48,1,1
+22,Naranja para mesa,Pieza 390 g aprox.,0.68,1,1
+23,Naranjas,Malla 3 kg,4.35,1,1
+24,Naranjas,Malla 5 kg,6.25,1,1
+25,Pomelo,Pieza 360 g aprox.,0.97,1,1
+26,Limas,400 g aprox.,2.0,1,1
+27,Kiwis amarillos,500 g aprox.,3.2,1,1
+28,Kiwi verde,Pieza 110 g aprox.,0.33,1,1
+29,Kiwis verdes,1 kg aprox.,2.88,1,1
+30,Aguacate,Pieza 180 g aprox.,0.68,1,1
+31,Aguacates,550 g aprox.,2.08,1,1
+32,Piña,"Pieza 1,83 kg aprox.",3.5,1,1
+33,Media piña,1/2 Pieza 890 g aprox.,1.88,1,1
+34,Guacamole Hacendado,Tarrina 500 g,3.59,1,1
+35,Guacamole Hacendado,Tarrina 200 g,1.75,1,1
+36,Mango,Pieza 440 g aprox.,1.14,1,1
+37,Piña natural a rodajas,Bote 500 g aprox.,2.68,1,1
+38,Papaya,"Pieza 1,32 kg aprox.",6.34,1,1
+39,Media papaya,1/2 Pieza 680 g aprox.,3.39,1,1
+40,Albaricoque,750 g aprox.,2.69,1,1
+41,Cereza,Bandeja 500 g aprox.,3.4,1,1
+42,Cereza,Bandeja 1 kg aprox.,5.99,1,1
+43,Fresas,Bandeja 500 g aprox.,3.5,1,1
+44,Ciruela roja,Pieza 90 g aprox.,0.34,1,1
+45,Frambuesas,Bandeja 170 g,2.19,1,1
+46,Moras,Bandeja 125 g,1.99,1,1
+47,Arándanos,Vaso 225 g,2.78,1,1
+48,Paraguayo,Pieza 130 g aprox.,0.52,1,1
+49,Nectarina pulpa blanca,Pieza 170 g aprox.,0.68,1,1
+50,Lechuga iceberg,Pieza 1 ud.,1.15,2,1
+51,Ensalada mezcla 4 estaciones,Paquete 250 g,0.72,2,1
+52,Lechugas corazón romana,Paquete 2 ud.,1.53,2,1
+53,Ensalada mezcla brotes tiernos,Paquete 100 g,1.15,2,1
+54,Canónigos base para ensalada,Paquete 125 g,1.14,2,1
+55,Lechuga iceberg base para ensalada,Paquete 250 g,0.86,2,1
+56,Ensalada mezcla gourmet,Paquete 175 g,1.02,2,1
+57,Cogollos de lechuga,Paquete 3 ud.,1.06,2,1
+58,Lechuga corazón romana,Paquete 1 ud.,1.15,2,1
+59,Endibias,Bandeja 450 g,1.55,2,1
+60,Ensalada mezcla brotes tiernos maxi,Paquete 175 g,1.59,2,1
+61,Ensalada mezcla gourmet maxi,Paquete 300 g,1.66,2,1
+62,Ensalada mezcla tierna,Paquete 150 g,1.2,2,1
+63,Rúcula base para ensalada,Paquete 50 g,0.72,2,1
+64,Cogollos corazón de lechuga,Paquete 6 ud.,1.88,2,1
+65,Ensalada mezcla primavera,Paquete 200 g,0.96,2,1
+66,Ensalada mezcla dúo canónigos y rúcula,Paquete 100 g,1.3,2,1
+67,Ensalada mezcla fresca,Paquete 200 g,1.11,2,1
+68,Lechuga hoja roble,Paquete 1 ud.,1.3,2,1
+69,Escarola rizada base para ensalada,Paquete 150 g,1.2,2,1
+70,Escarola rizada,Paquete 1 ud.,1.54,2,1
+71,Espinaca baby base para ensalada,Paquete 100 g,1.11,2,1
+72,Lechuga romana cortada,Paquete 200 g,1.15,2,1
+73,Ensalada César,Bol 210 g,2.29,2,1
+74,Ensalada California,Bol 192 g,2.29,2,1
+75,Wraps Texas,Bol 300 g,2.99,2,1
+76,Ensalada de la casa,Bol 400 g,1.91,2,1
+77,Ensalada mil islas,Bol 330 g,2.55,2,1
+78,Ensalada ensatún,Bol 250 g,2.49,2,1
+79,Ensalada jamón,Bol 215 g,2.49,2,1
+80,Ensalada de pasta,Bol 250 g,2.49,2,1
+81,Ensalada queso de cabra,Bol 135 g,2.79,2,1
+82,Ensalada de pasta Listo para Comer,Bol 340 g,4.0,2,1
+83,Patata,Pieza 180 g aprox.,0.32,3,1
+84,Patatas,Malla 3 kg,4.3,3,1
+85,Patatas rojas,Malla 2 kg,3.65,3,1
+86,Patatas,Malla 5 kg,6.49,3,1
+87,Patatas guarnición,Malla 1 kg,2.3,3,1
+88,Batata,Pieza 360 g aprox.,0.97,3,1
+89,Patatas especial para freir,Malla 2 kg,3.75,3,1
+90,Cebollas tiernas,Manojo 3 ud.,1.24,3,1
+91,Cebollas,Malla 2 kg,2.99,3,1
+92,Cebollas,Malla 1 kg,1.95,3,1
+93,Ajos morados,Malla 250 g,1.39,3,1
+94,Cebollas dulces,Malla 1 kg,2.3,3,1
+95,Ajos morados,Malla 400 g,1.91,3,1
+96,Cebollas rojas,Malla 500 g,1.29,3,1
+97,Yuca,Pieza 590 g aprox.,1.64,3,1
+98,Ajo negro dientes pelados,Tarrina 85 g,4.45,3,1
+99,Picada de ajo y Perejil,Bandeja 100 g,1.39,3,1
+100,Tomate ensalada,Pieza 260 g aprox.,0.57,3,1
+101,Tomate canario,Pieza 170 g aprox.,0.34,3,1
+102,Tomate pera,Pieza 150 g aprox.,0.34,3,1
+103,Tomates pera,1 kg aprox.,2.39,3,1
+104,Tomates cherry pera kumato,Bandeja 300 g,1.48,3,1
+105,Tomates cherry,Bandeja 500 g,1.83,3,1
+106,Tomates cherry en rama Dulcita,Bandeja 200 g,2.26,3,1
+107,Tomates kumato negro,1 kg aprox.,2.39,3,1
+108,Tomates,Malla 2 kg,3.78,3,1
+109,Tomate kumato negro,Pieza 170 g aprox.,0.42,3,1
+110,Tomate rallado,Tarrina 290 g,1.39,3,1
+111,Rama de Tomates,810 g aprox.,2.1,3,1
+112,Tomate rosa,Pieza 400 g aprox.,1.34,3,1
+113,Tomate ensalada,1 kg aprox.,2.29,3,1
+114,Zanahorias,Paquete 1 kg,1.15,3,1
+115,Pepino,Pieza 230 g aprox.,0.41,3,1
+116,Pepino holandés,Pieza 425 g aprox.,1.02,3,1
+117,Zanahorias,Paquete 500 g,0.89,3,1
+118,Pepinos,"Malla 1,25 kg",2.2,3,1
+119,Palitos de zanahoria,Tarrina 180 g,1.78,3,1
+120,Zanahoria rallada base para ensalada,Paquete 150 g,0.82,3,1
+121,Pimiento rojo,Pieza 360 g aprox.,1.04,3,1
+122,Calabacín verde,Pieza 370 g aprox.,0.63,3,1
+123,Pimiento verde freír,Pieza 80 g aprox.,0.19,3,1
+124,Calabacín blanco,Pieza 350 g aprox.,0.7,3,1
+125,Pimiento verde,Pieza 250 g aprox.,0.62,3,1
+126,"Pimientos tricolor rojo, amarillo y verde",600 g,1.85,3,1
+127,Pimientos semipicantes,Paquete 250 g,1.35,3,1
+128,Pimientos rojos picantes,Bandeja 100 g,1.53,3,1
+129,Coliflor,"Pieza 1,09 kg aprox.",1.93,3,1
+130,Repollo liso,"Pieza 1,14 kg aprox.",1.77,3,1
+131,Medio repollo liso,1/2 Pieza 690 g aprox.,1.27,3,1
+132,Repollo rizado,Pieza 990 g aprox.,1.53,3,1
+133,Medio repollo rizado,1/2 Pieza 550 g aprox.,1.01,3,1
+134,Col lombarda,"Pieza 1,64 kg aprox.",2.87,3,1
+135,Media col lombarda,1/2 Pieza 840 g aprox.,1.68,3,1
+136,Champiñón pequeño,Bandeja 300 g aprox.,1.39,3,1
+137,Champiñón laminado limpio,Bandeja 320 g aprox.,1.81,3,1
+138,Seta,Bandeja 250 g aprox.,1.76,3,1
+139,Champiñón grande,Bandeja 430 g aprox.,2.06,3,1
+140,Seta laminada,Bandeja 250 g aprox.,1.91,3,1
+141,Champiñón Portobello,Bandeja 300 g aprox.,1.93,3,1
+142,Setas al plato con perejil,Bandeja 200 g,2.84,3,1
+143,Salteado de setas laminadas,Bandeja 250 g aprox.,1.73,3,1
+144,Seta shiitake,Bandeja 300 g aprox.,3.53,3,1
+145,Perejil troceado,Paquete 40 g,0.75,3,1
+146,Jengibre,200 g aprox.,1.59,3,1
+147,Cilantro,Bandeja 20 g,1.25,3,1
+148,Albahaca,Bandeja 20 g,1.5,3,1
+149,Hierbabuena,Paquete 70 g,1.25,3,1
+150,Cebollino,Bandeja 20 g,1.25,3,1
+151,Espinacas cortadas,Paquete 300 g,1.2,3,1
+152,Brócoli,Pieza 470 g aprox.,1.29,3,1
+153,Berenjena,Pieza 350 g aprox.,0.66,3,1
+154,Judía verde plana,Bandeja 750 g,2.83,3,1
+155,Judía verde plana,Bandeja 350 g,1.43,3,1
+156,Acelgas cortadas,Paquete 300 g,1.11,3,1
+157,Puerros,Paquete 900 g aprox.,2.24,3,1
+158,Judía verde redonda,Bandeja 500 g,2.2,3,1
+159,Calabaza cacahuete cortada a trozos,Bandeja 450 g aprox.,1.98,3,1
+160,Apio verde,Paquete 660 g aprox.,1.26,3,1
+161,Preparado de verdura para cocido,Bandeja 900 g aprox.,1.79,3,1
+162,Espárrago verde fino,Paquete 250 g,1.79,3,1
+163,Rabanitos,Paquete 250 g,1.05,3,1
+164,Remolacha cocida y pelada,Paquete 450 g,0.89,3,1
+165,Maíz dulce en mazorca cocido,Paquete 2 ud. (450 g),1.55,3,1
+166,Bimi,Bandeja 200 g,2.55,3,1
+167,Espárrago verde grueso,Paquete 300 g,3.26,3,1
+168,Maíz dulce en mazorca,Bandeja 2 ud.,2.88,3,1
+169,3 Vegetales para micro,Paquete 300 g,1.54,3,1
+170,Floretas de brócoli para micro,Paquete 230 g,1.42,3,1
+171,Mix de verduras paisana para micro,Paquete 300 g,1.8,3,1
+172,Sopa juliana para micro,Paquete 400 g,1.35,3,1
+173,Patata para micro,Paquete 400 g,1.3,3,1
+174,Batata para micro,Paquete 400 g,2.4,3,1
+175,Mix de verduras jardinera para micro,Paquete 400 g,1.9,3,1
