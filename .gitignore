@@ -23,12 +23,12 @@ password.py
 
 
 
-supermercado_model.mwb
-supermercado_model.mwb.bak
+*.mwb
+*.bak
 
 *.sql
 
-ventas_data_values_fyv.ipynb
+random_data_values_fyv.ipynb
 
 *.twb
 *.twbr
