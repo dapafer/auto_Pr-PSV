@@ -23,28 +23,12 @@ password.py
 
 
 
-mercadona_data_scraping_fyv.ipynb
-
-frutas.csv
-ensaladas.csv
-verduras.csv
-
-sub_frutas.csv
-sub_ensaladas.csv
-sub_verduras.csv
-
-cat_fyv.csv
-
-mercadona_data_transform_fyv.ipynb
-
-categorias_fyv.csv
-subcategorias_fyv.csv
-productos_fyv.csv
-
 supermercado_model.mwb
 supermercado_model.mwb.bak
 
 *.sql
 
 ventas_data_values_fyv.ipynb
+
+.~supermercado__1899.twbr
 

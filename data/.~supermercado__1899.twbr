@@ -44,13 +44,14 @@
           <map key='[categoria_id (productos)]' value='[productos].[categoria_id]' />
           <map key='[categoria_id (subcategorias)]' value='[subcategorias].[categoria_id]' />
           <map key='[categoria_id]' value='[ventas].[categoria_id]' />
-          <map key='[dia_semana]' value='[ventas].[dia_semana]' />
+          <map key='[dia]' value='[ventas].[dia]' />
           <map key='[fecha]' value='[ventas].[fecha]' />
           <map key='[formato]' value='[productos].[formato]' />
           <map key='[precio]' value='[productos].[precio]' />
           <map key='[producto]' value='[productos].[producto]' />
           <map key='[producto_id (productos)]' value='[productos].[producto_id]' />
           <map key='[producto_id]' value='[ventas_productos].[producto_id]' />
+          <map key='[semana]' value='[ventas].[semana]' />
           <map key='[subcategoria]' value='[subcategorias].[subcategoria]' />
           <map key='[subcategoria_id (subcategorias)]' value='[subcategorias].[subcategoria_id]' />
           <map key='[subcategoria_id]' value='[productos].[subcategoria_id]' />
@@ -338,11 +339,11 @@
             <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[ventas_BB194C0E1AE84F129F5E90C0FBECE200]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
           </metadata-record>
           <metadata-record class='column'>
-            <remote-name>dia_semana</remote-name>
+            <remote-name>dia</remote-name>
             <remote-type>130</remote-type>
-            <local-name>[dia_semana]</local-name>
+            <local-name>[dia]</local-name>
             <parent-name>[ventas]</parent-name>
-            <remote-alias>dia_semana</remote-alias>
+            <remote-alias>dia</remote-alias>
             <ordinal>21</ordinal>
             <local-type>string</local-type>
             <aggregation>Count</aggregation>
@@ -357,12 +358,29 @@
             <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[ventas_BB194C0E1AE84F129F5E90C0FBECE200]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
           </metadata-record>
           <metadata-record class='column'>
+            <remote-name>semana</remote-name>
+            <remote-type>3</remote-type>
+            <local-name>[semana]</local-name>
+            <parent-name>[ventas]</parent-name>
+            <remote-alias>semana</remote-alias>
+            <ordinal>22</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <precision>10</precision>
+            <contains-null>false</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;SQL_INTEGER&quot;</attribute>
+              <attribute datatype='string' name='DebugWireType'>&quot;SQL_C_SLONG&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[ventas_BB194C0E1AE84F129F5E90C0FBECE200]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
             <remote-name>categoria_id</remote-name>
             <remote-type>3</remote-type>
             <local-name>[categoria_id]</local-name>
             <parent-name>[ventas]</parent-name>
             <remote-alias>categoria_id</remote-alias>
-            <ordinal>22</ordinal>
+            <ordinal>23</ordinal>
             <local-type>integer</local-type>
             <aggregation>Sum</aggregation>
             <precision>10</precision>
@@ -390,7 +408,6 @@
       <column aggregation='Sum' caption='Categoria Id (Productos)' datatype='integer' name='[categoria_id (productos)]' role='dimension' type='ordinal' />
       <column aggregation='Sum' caption='Categoria Id (Subcategorias)' datatype='integer' name='[categoria_id (subcategorias)]' role='dimension' type='ordinal' />
       <column aggregation='Sum' caption='Categoria Id' datatype='integer' name='[categoria_id]' role='dimension' type='ordinal' />
-      <column caption='Dia Semana' datatype='string' name='[dia_semana]' role='dimension' type='nominal' />
       <column caption='Fecha' datatype='date' name='[fecha]' role='dimension' type='ordinal' />
       <column caption='Formato' datatype='string' name='[formato]' role='dimension' type='nominal' />
       <column caption='Precio' datatype='real' name='[precio]' role='measure' type='quantitative' />
@@ -491,11 +508,11 @@
               <calculation class='tableau' formula='SUM([precio]*[cantidad])' />
             </column>
             <column caption='Cantidad' datatype='integer' name='[cantidad]' role='measure' type='quantitative' />
-            <column caption='Dia Semana' datatype='string' name='[dia_semana]' role='dimension' type='nominal' />
+            <column datatype='string' name='[dia]' role='dimension' type='nominal' />
             <column-instance column='[fecha]' derivation='Day' name='[dy:fecha:ok]' pivot='key' type='ordinal' />
             <column caption='Fecha' datatype='date' name='[fecha]' role='dimension' type='ordinal' />
             <column-instance column='[fecha]' derivation='Month' name='[mn:fecha:ok]' pivot='key' type='ordinal' />
-            <column-instance column='[dia_semana]' derivation='None' name='[none:dia_semana:nk]' pivot='key' type='nominal' />
+            <column-instance column='[dia]' derivation='None' name='[none:dia:nk]' pivot='key' type='nominal' />
             <column caption='Precio' datatype='real' name='[precio]' role='measure' type='quantitative' />
             <column-instance column='[Calculation_32932604980436992]' derivation='User' name='[usr:Calculation_32932604980436992:qk]' pivot='key' type='quantitative' />
           </datasource-dependencies>
@@ -520,7 +537,7 @@
             </style>
           </pane>
         </panes>
-        <rows>([federated.08hwpzk0wo2eir1457fd30djum0w].[mn:fecha:ok] / ([federated.08hwpzk0wo2eir1457fd30djum0w].[dy:fecha:ok] / [federated.08hwpzk0wo2eir1457fd30djum0w].[none:dia_semana:nk]))</rows>
+        <rows>([federated.08hwpzk0wo2eir1457fd30djum0w].[mn:fecha:ok] / ([federated.08hwpzk0wo2eir1457fd30djum0w].[dy:fecha:ok] / [federated.08hwpzk0wo2eir1457fd30djum0w].[none:dia:nk]))</rows>
         <cols>[federated.08hwpzk0wo2eir1457fd30djum0w].[usr:Calculation_32932604980436992:qk]</cols>
       </table>
       <simple-id uuid='{615EEF33-6C0C-4BDC-80D5-B8D15286A907}' />
@@ -540,11 +557,11 @@
           </datasources>
           <datasource-dependencies datasource='federated.08hwpzk0wo2eir1457fd30djum0w'>
             <column caption='Cantidad' datatype='integer' name='[cantidad]' role='measure' type='quantitative' />
-            <column caption='Dia Semana' datatype='string' name='[dia_semana]' role='dimension' type='nominal' />
+            <column datatype='string' name='[dia]' role='dimension' type='nominal' />
             <column-instance column='[fecha]' derivation='Day' name='[dy:fecha:ok]' pivot='key' type='ordinal' />
             <column caption='Fecha' datatype='date' name='[fecha]' role='dimension' type='ordinal' />
             <column-instance column='[fecha]' derivation='Month' name='[mn:fecha:ok]' pivot='key' type='ordinal' />
-            <column-instance column='[dia_semana]' derivation='None' name='[none:dia_semana:nk]' pivot='key' type='nominal' />
+            <column-instance column='[dia]' derivation='None' name='[none:dia:nk]' pivot='key' type='nominal' />
             <column-instance column='[cantidad]' derivation='Sum' name='[sum:cantidad:qk]' pivot='key' type='quantitative' />
           </datasource-dependencies>
           <aggregation value='true' />
@@ -572,7 +589,7 @@
             </style>
           </pane>
         </panes>
-        <rows>([federated.08hwpzk0wo2eir1457fd30djum0w].[mn:fecha:ok] / ([federated.08hwpzk0wo2eir1457fd30djum0w].[dy:fecha:ok] / [federated.08hwpzk0wo2eir1457fd30djum0w].[none:dia_semana:nk]))</rows>
+        <rows>([federated.08hwpzk0wo2eir1457fd30djum0w].[mn:fecha:ok] / ([federated.08hwpzk0wo2eir1457fd30djum0w].[dy:fecha:ok] / [federated.08hwpzk0wo2eir1457fd30djum0w].[none:dia:nk]))</rows>
         <cols>[federated.08hwpzk0wo2eir1457fd30djum0w].[sum:cantidad:qk]</cols>
       </table>
       <simple-id uuid='{E21FD425-9675-4977-B9DB-3A38A88B28E3}' />
