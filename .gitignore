@@ -28,8 +28,6 @@ password.py
 
 *.sql
 
-random_data_values_fyv.ipynb
-
 *.twb
 *.twbr
 
