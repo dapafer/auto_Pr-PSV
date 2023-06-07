@@ -26,10 +26,91 @@ consulta_categorias = "SELECT DISTINCT categoria FROM categorias"
 categorias = [row[0] for row in ejecutar_consulta(consulta_categorias)]
 
 # Mostrar selector de página en el menú lateral
-pagina_seleccionada = st.sidebar.selectbox("Selecciona una página", ["Pedido", "Vendido"])
+pagina_seleccionada = st.sidebar.selectbox("Selecciona una página", ["", "Previsión", "Pedido", "Vendido"])
+
+
+# Mostrar mensaje de bienvenida en la página principal
+st.title("Bienvenida/o a Pr-PSV+")
+st.subheader("Seleccione una opción en la barra lateral")
+
+# Mostrar enlace debajo de la imagen
+url = "https://facebook.github.io/prophet/"  # Reemplaza con el enlace deseado
+st.markdown(f"Con tecnología de [Prophet]({url})")
+
+# Mostrar imagen "Con tecnología de"
+image = "images/PROPHET_logo_1.png"  # Reemplaza con la ruta correcta de la imagen
+st.image(image, use_column_width=True)
+
+
+
+
+if pagina_seleccionada == "Previsión":
+    # Mostrar título "Previsión" en el menú lateral
+    st.sidebar.markdown("## **Previsión**")
+
+    # Selector de categoría en el menú lateral
+    categoria_seleccionada = st.sidebar.selectbox("Selecciona una categoría", [""] + categorias, key="prevision_categoria")
+
+    if categoria_seleccionada:
+        # Mostrar título "Previsión" en la página principal
+        st.title("Previsión")
+        # Obtener el id de la categoría seleccionada
+        consulta_id_categoria = "SELECT categoria_id FROM categorias WHERE categoria = %s"
+        id_categoria = ejecutar_consulta(consulta_id_categoria, categoria_seleccionada)[0][0]
+
+        # Selector de rango de fechas en el menú lateral
+        fecha_actual = date.today()  # Fecha actual
+
+        fecha_inicio = st.sidebar.date_input("Selecciona la fecha de inicio", min_value=fecha_actual, max_value=None, value=None, key="prevision_fecha_inicio")
+        fecha_fin = st.sidebar.date_input("Selecciona la fecha de fin", min_value=fecha_actual, max_value=None, value=None, key="prevision_fecha_fin")
+
+        if fecha_inicio and fecha_fin:
+            # Convertir fechas seleccionadas a formato de base de datos
+            fecha_inicio_str = fecha_inicio.strftime('%Y-%m-%d')
+            fecha_fin_str = fecha_fin.strftime('%Y-%m-%d')
+
+            # Consulta SQL para obtener los datos de previsiones para la categoría y rango de fechas seleccionado
+            consulta_previsiones = """
+            SELECT p.producto, p.formato, v.fecha, vp.prevision
+            FROM productos p
+            JOIN ventas_productos vp ON p.producto_id = vp.producto_id
+            JOIN ventas v ON vp.venta_id = v.venta_id
+            WHERE p.categoria_id = %s
+            AND v.fecha BETWEEN %s AND %s
+            ORDER BY p.producto_id ASC, v.fecha ASC  # Ordenar por el id de producto y fecha de forma ascendente
+            """
+            previsiones = ejecutar_consulta(consulta_previsiones, (id_categoria, fecha_inicio_str, fecha_fin_str))
+
+            # Crear un DataFrame con los resultados
+            df_previsiones = pd.DataFrame(previsiones, columns=['producto', 'formato', 'fecha', 'prevision'])
+
+            # Transformar el DataFrame para tener una columna por cada fecha de previsión
+            df_previsiones = df_previsiones.pivot(index=['producto', 'formato'], columns='fecha', values='prevision')
+
+            # Ordenar las columnas del DataFrame por la fecha
+            df_previsiones = df_previsiones.reindex(sorted(df_previsiones.columns), axis=1)
+
+            # Mostrar la tabla de previsiones
+            st.write(df_previsiones)
+
+            # Calcular la suma de las previsiones por fecha
+            suma_previsiones = df_previsiones.sum()
+
+            # Mostrar el resultado de la suma de previsiones por fecha
+            st.write("### **Suma de previsiones por fecha:**")
+            st.write(suma_previsiones)
+
+            st.markdown("---")
+
+            # Crear gráfico de barras para la suma de previsiones por fecha
+            st.bar_chart(suma_previsiones, use_container_width=True)
+
+
+
+
 
 # Mostrar página seleccionada
-if pagina_seleccionada == "Pedido":
+elif pagina_seleccionada == "Pedido":
     # Mostrar título "Pedido" en el menú lateral
     st.sidebar.markdown("## **Pedido**")
 
@@ -114,6 +195,11 @@ if pagina_seleccionada == "Pedido":
             with col5_total:
                 st.write("## **Pr TOTAL**")
                 st.markdown("<h3>{}</h3>".format(pr_total), unsafe_allow_html=True)
+            
+            # Botón para guardar el pedido
+            if st.button("Guardar Pedido"):
+                st.success("Pedido guardado con éxito")
+ 
 
 
 
