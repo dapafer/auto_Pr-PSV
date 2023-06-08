@@ -118,7 +118,7 @@ if pagina_seleccionada == 'Previsión':
             suma_previsiones = df_previsiones.sum()
 
             # mostrar resultado de suma de previsiones por fecha
-            st.write('### **Suma de previsiones por fecha**')
+            st.write('### **Previsión por fecha**')
             st.write(suma_previsiones)
 
             st.divider()
