@@ -69,7 +69,6 @@ La carpeta [demo](https://github.com/dapafer/auto_Pr-PSV/tree/main/demo) contien
 
 <video width='320' height='240' controls>
   <source src='demo/Pr-PSV+_prevision.webm' type='video/webm'>
-  Tu navegador no admite la etiqueta de video.
 </video>
 
 
