@@ -26,8 +26,6 @@ password.py
 *.mwb
 *.bak
 
-*.sql
-
 *.twb
 *.twbr
 
