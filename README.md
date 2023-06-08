@@ -67,8 +67,8 @@ El desarrollo del proyecto ha tenido las siguientes etapas principales:
 
 La carpeta [demo](https://github.com/dapafer/auto_Pr-PSV/tree/main/demo) contiene varios vídeos de demostración del funcionamiento de la webapp. Debido a que los datos son extraídos y manejados a través de la base de datos en local, la estructura del proyecto no se puede replicar en cuanto a manejo de la webapp, a menos que se realice el siguiente proceso:
 
-- Generar una base de datos similar en `MySQL Workbench` ejecutando la consulta del archivo [`supermercado.sql`](https://github.com/dapafer/auto_Pr-PSV/blob/main/demo/supermercado.sql).
-- Cargar y exportar los datos a la base de datos creada ejecutando en archivo [`supermercado_data_to_workbench.py`](https://github.com/dapafer/auto_Pr-PSV/blob/main/demo/supermercado_data_to_workbench.py).
+- Generar una base de datos similar en `MySQL Workbench` ejecutando la consulta del archivo [`supermercado_structure.sql`](https://github.com/dapafer/auto_Pr-PSV/blob/main/demo/supermercado_structure.sql).
+- Cargar y exportar los datos a la base de datos creada ejecutando el archivo [`supermercado_database.py`](https://github.com/dapafer/auto_Pr-PSV/blob/main/demo/supermercado_database.py).
 
 **NOTA**: deberás cambiar las credenciales de conexión a la base de datos tuya propia (host, user, password...).
 
