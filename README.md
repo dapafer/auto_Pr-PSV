@@ -2,7 +2,7 @@
 
 ![portada](https://github.com/dapafer/auto_Pr-PSV/blob/main/images/sales_preds.png)
 
-***
+---
 
 Pr-PSV+ es la mejora de la herramienta de gestión y control de pedidos de un supermercado, para las categorías de productos frescos, concretamente Fruta y verdura, Carne y Pescado. La mejora de la herramienta consiste en generar previsiones de venta futura en base a un modelo de predicción de series temporales, concretamente [Prophet](https://facebook.github.io/prophet/).
 
@@ -11,25 +11,25 @@ Pr-PSV+ es la mejora de la herramienta de gestión y control de pedidos de un su
 
 - [Contenido.](#contenido)
 - [Problemas.](#problemas)
-- [Soluciones.](#fact_tot)
-- [Desarrollo.](#fact_tot_sub)
-- [Demo.](#fact_tot_sub)
-- [Próximos objetivos.](#prod_cat)
+- [Soluciones.](#soluciones)
+- [Desarrollo.](#desarrollo)
+- [Demo.](#demo)
+- [Próximos objetivos.](#proximos_objetivos)
 
 ---
-<a name="contenido"/>
+<a name='contenido'/>
 
 ### 📂 **Contenido**
 
 El proyecto cuenta con la siguiente estructura principal:
 
 - [`data`](https://github.com/dapafer/auto_Pr-PSV/tree/main/data): carpeta que contiene todos los archivos generados durante el desarrollo del proyecto, subdividida por cada proceso.
-- [`demo`](https://github.com/dapafer/auto_Pr-PSV/tree/main/demo): carpeta principal para replicar la app web realizada, a través de los archivos que la contienen.
-- [`src`](https://github.com/dapafer/auto_Pr-PSV/tree/main/src): carpeta principal con notebooks del proceso, y scripts de pruebas de `SQL`.
-- [`Pr-PSV+.py`](https://github.com/dapafer/auto_Pr-PSV/blob/main/Pr-PSV%2B.py): script de ejecución de la app web, que simula la herramienta de gestión y control de pedidos.
+- [`demo`](https://github.com/dapafer/auto_Pr-PSV/tree/main/demo): carpeta principal con demostraciones de funcionamiento de la appweb, y archivos para replicarla.
+- [`src`](https://github.com/dapafer/auto_Pr-PSV/tree/main/src): carpeta principal con notebooks del proceso y scripts de pruebas de `SQL`, subdividida por cada proceso.
+- [`Pr-PSV+.py`](https://github.com/dapafer/auto_Pr-PSV/blob/main/Pr-PSV%2B.py): script de ejecución de la webapp, que simula la herramienta de gestión y control de pedidos.
 
 ---
-<a name="problemas"/>
+<a name='problemas'/>
 
 ### ❗️ **Problemas**
 
@@ -40,7 +40,7 @@ El planteamiento de partida es analizar los problemas que tiene actualmente la h
 - Solo se pueden realizar pedidos para el día siguiente al que se realizan, por tanto no es escalable a más fechas futuras.
 
 ---
-<a name="soluciones"/>
+<a name='soluciones'/>
 
 ### 💡 **Soluciones**
 
@@ -51,10 +51,34 @@ Por ello, se ha aplicado un modelo de generación de predicciones, que ha podido
 - La herramienta puede generar pedidos para más fechas, debido a que genera predicciones para un número específico dado de fechas, no solo para el día siguiente al cual se realiza el pedido.
 
 ---
-<a name="desarrollo"/>
+<a name='desarrollo'/>
 
-### ▶️ **Desarrollo**
+### 📝 **Desarrollo**
 
 El desarrollo del proyecto ha tenido las siguientes etapas principales:
 
-- **Web scraping & API**: 
+- [**Web scraping & API**](https://github.com/dapafer/auto_Pr-PSV/tree/main/src/scraping): el primer objetivo fue generar y obtener datos de la categoría de Fruta y Verdura de un supermercado, en este caso Mercadona. Se han extraído datos a través de Selenium. También se han extraído datos de climatología de las fechas en las que se tienen datos de venta, lo cual se ha realizado a través de la API de AEMET (Agencia Estatal de Metereología). Por supuesto, se ha realizado una limpieza y transfrmación de los datos obtenidos.
+- [**Generación de predicciones de venta**](https://github.com/dapafer/auto_Pr-PSV/tree/main/src/preds): En base a los [datos generados de venta](https://github.com/dapafer/auto_Pr-PSV/blob/main/src/database/random_data_values_fyv.ipynb), se ha procedido a utilizar un modelo generación de predicciones, específico para series temporales, llamado [Prophet](https://github.com/dapafer/auto_Pr-PSV/blob/main/src/preds/preds_fyv_prevision.ipynb).
+- [**Transformación y carga a base de datos**](https://github.com/dapafer/auto_Pr-PSV/tree/main/src/database): teniendo toda la estructura creada y transformada de tablas y datos, hemos realizado la [exportación y carga](https://github.com/dapafer/auto_Pr-PSV/blob/main/src/database/supermercado_database_to_workbench.ipynb) a una base de datos en MySQL Workbench. Posteriormente, hemos realizado unas [consultas](https://github.com/dapafer/auto_Pr-PSV/blob/main/data/sql/filters.sql), para comprobar que la estructura y los datos estuvieran correctamente estructurados. Así como para generar datos para la generación de predicciones.
+
+<a name='demo'/>
+
+### ▶️ **Demo**
+
+La carpeta [demo](https://github.com/dapafer/auto_Pr-PSV/tree/main/demo) contiene varios vídeos de demostración del funcionamiento de la webapp. Debido a que los datos son extraídos y manejados a través de la base de datos en local, la estructura del proyecto no se puede replicar en cuanto a manejo de la appweb, a menos que se realice el siguiente proceso:
+
+- Generar una base de datos similar en MySQL Workbench ejecutando la consulta del archivo [`supermercado.sql`](https://github.com/dapafer/auto_Pr-PSV/blob/main/demo/supermercado.sql).
+- Cargar y exportar los datos a la base de datos creada ejecutando en archivo [`supermercado_data_to_workbench.py`](https://github.com/dapafer/auto_Pr-PSV/blob/main/demo/supermercado_data_to_workbench.py).
+**NOTA**: deberás cambiar las credenciales de conexión a la base de datos tuya propia (host, user, password...).
+
+- Ejecutar el archivo [`Pr-PSV+.py`](https://github.com/dapafer/auto_Pr-PSV/blob/main/Pr-PSV%2B.py) en la Terminal, ubicándote en la carpeta principal de este repositorio, con el siguiente comando:
+
+```
+$ streamlit run Pr-PSV+.py
+```
+**NOTA**: deberás cambiar las credenciales de conexión a la base de datos tuya propia (host, user, password...).
+
+<a name='proximos_objetivos'/>
+
+### ✔️ **Próximos objetivos**
+
