@@ -45,7 +45,7 @@ url = 'https://facebook.github.io/prophet/'
 st.markdown(f'Con tecnología de [Prophet]({url})')
 
 # mostrar imagen
-image = 'images/PROPHET_logo_2.png'
+image = 'images/prophet_logo_2.png'
 st.image(image, use_column_width=True)
 
 st.divider()
