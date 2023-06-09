@@ -59,15 +59,16 @@ El desarrollo del proyecto ha tenido las siguientes etapas principales:
 
 - [**Web scraping & API**](https://github.com/dapafer/auto_Pr-PSV/tree/main/src/scraping): el primer objetivo fue generar y obtener datos de la categoría de Fruta y Verdura de un supermercado, en este caso Mercadona. Se han extraído datos a través de `Selenium`. También se han extraído datos de climatología de las fechas en las que se tienen datos de venta, lo cual se ha realizado a través de la `API` de AEMET (Agencia Estatal de Metereología). Por supuesto, se ha realizado una limpieza y transfrmación de los datos obtenidos.
 - [**Generación de predicciones de venta**](https://github.com/dapafer/auto_Pr-PSV/tree/main/src/preds): En base a los [datos generados de venta](https://github.com/dapafer/auto_Pr-PSV/blob/main/src/database/random_data_values_fyv.ipynb), se ha procedido a utilizar un modelo generación de predicciones, específico para series temporales, llamado [Prophet](https://github.com/dapafer/auto_Pr-PSV/blob/main/src/preds/preds_fyv_prevision.ipynb).
-- [**Transformación y carga a base de datos**](https://github.com/dapafer/auto_Pr-PSV/tree/main/src/database): teniendo toda la estructura creada y transformada de tablas y datos, hemos realizado la [exportación y carga](https://github.com/dapafer/auto_Pr-PSV/blob/main/src/database/supermercado_database_to_workbench.ipynb) a una base de datos en MySQL Workbench. Posteriormente, hemos realizado unas [consultas](https://github.com/dapafer/auto_Pr-PSV/blob/main/data/sql/filters.sql), para comprobar que la estructura y los datos estuvieran correctamente estructurados. Así como para generar datos para la generación de predicciones.
+- [**Transformación y carga a base de datos**](https://github.com/dapafer/auto_Pr-PSV/tree/main/src/database): teniendo toda la estructura creada y transformada de tablas y datos, hemos realizado la [exportación y carga](https://github.com/dapafer/auto_Pr-PSV/blob/main/src/database/supermercado_database_to_workbench.ipynb) a una base de datos en `MySQL`. Posteriormente, hemos realizado unas [consultas](https://github.com/dapafer/auto_Pr-PSV/blob/main/data/sql/filters.sql), para comprobar que la estructura y los datos estuvieran correctamente estructurados, así como para generar datos para la realización de predicciones.
 
 <a name='demo'/>
 
 ### ▶️ **Demo**
 
-La carpeta [demo](https://github.com/dapafer/auto_Pr-PSV/tree/main/demo) contiene varios vídeos de demostración del funcionamiento de la webapp. Debido a que los datos son extraídos y manejados a través de la base de datos en local, la estructura del proyecto no se puede replicar en cuanto a manejo de la webapp, a menos que se realice el siguiente proceso:
+La carpeta [demo](https://github.com/dapafer/auto_Pr-PSV/tree/main/demo) contiene varios vídeos de demostración del funcionamiento de la webapp. Debido a que los datos son extraídos y manejados a través de la base de datos en local, la estructura del proyecto se puede replicar en cuanto a manejo de la webapp, realizando el siguiente proceso:
 
-- Generar una base de datos similar en `MySQL Workbench` ejecutando la consulta del archivo [`supermercado_structure.sql`](https://github.com/dapafer/auto_Pr-PSV/blob/main/demo/supermercado_structure.sql).
+- Clonar el repositorio en local.
+- Generar una base de datos similar en `MySQL` ejecutando la consulta del archivo [`supermercado_structure.sql`](https://github.com/dapafer/auto_Pr-PSV/blob/main/demo/supermercado_structure.sql).
 - Cargar y exportar los datos a la base de datos creada ejecutando el archivo [`supermercado_database.py`](https://github.com/dapafer/auto_Pr-PSV/blob/main/demo/supermercado_database.py).
 
 **NOTA**: deberás cambiar las credenciales de conexión a la base de datos tuya propia (host, user, password...).
