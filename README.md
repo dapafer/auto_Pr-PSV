@@ -65,7 +65,7 @@ El desarrollo del proyecto ha tenido las siguientes etapas principales:
 
 ### ▶️ **Demo**
 
-La carpeta [demo](https://github.com/dapafer/auto_Pr-PSV/tree/main/demo) contiene varios vídeos de demostración del funcionamiento de la webapp. Además, se han realizado visualizaciones en [`Tableau`](https://public.tableau.com/views/supermercado_16862877278830/supermercado?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link) para constratar los datos generados y las predicciones.
+La carpeta [demo](https://github.com/dapafer/auto_Pr-PSV/tree/main/demo) contiene varios vídeos de demostración del funcionamiento de la webapp. Además, se han realizado visualizaciones en [`Tableau`](https://public.tableau.com/views/supermercado_16862877278830/supermercado?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link) para contrastar los datos generados y las predicciones.
 
 Debido a que los datos son extraídos y manejados a través de la base de datos en local, la estructura del proyecto se puede replicar en cuanto a manejo de la webapp, realizando el siguiente proceso:
 
